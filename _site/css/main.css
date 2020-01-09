@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+a{
+  font-family: 'Suez One', serif;
+  font-size: 23pt;
+  color: #373D72;
+  list-style-image: url('svg/link.svg');
+  margin-left: 25px;
+  text-decoration: none;
+}
+a img{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: -23px;
+  height: 22px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
+body{
+}
+
+.nav_container{
+  position: fixed;
+  width: 100vw;
+}
+
+.header{
+  background: white;
+  color: #373D72;
+  font-size: 13pt;
+  font-family: 'Suez One', serif;
+  list-style-type: none;
+}
+
+.header button{
+  font-size: 13pt;
+  font-family: 'Suez One', serif;
+  border: none;
+  outline: none;
+  background: none;
+  color: #373D72;
+  height: 200%;
+}
+
+.header .logo img{
+  position: absolute;
+  padding: 12.5px 30px;
+  width: 45px;
+}
+.header .word_mark img{
+  display: none;
+  height: 47px;
+  padding: 17.5px 17.5px;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.hamburger{
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: -63px;
+  margin-right: 20px;
+}
+@media only screen and (min-width: 1050px){
+  .nav div{
+    padding: 21px 10px;
+    display: flex;
+    align-items: center;
+  }
+  .header .nav{
+    display: flex;
+    justify-content: center;
+  }
+}
+.menu{
+  position: absolute;
+  right: 0;
+  width: 40px;
+  margin-right: 35px;
+  margin-top: -67px;
+  display: none;
+}
+.menu_item .sub div{
+  display: none;
+}
+
+.nav{
+}
+
+@media only screen and (max-width: 1050px){
+  body{
+    overflow-x: hidden;
+  }
+  .nav{
+    position: absolute;
+    right: 0px;
+    height: 100vh;
+    width: 280px;
+    top: 82px;
+    background-color: white;
+    display: block;
+    transform: translateX(100%);
+    transition: .3s ease-in-out;
+    background-color: #373D72;
+    color: white;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+  .nav::-webkit-scrollbar{
+    display: none;
+  }
+  /**/
+  .header .word_mark img{
+    display: block;
+  }
+  .menu_item .main{
+  }
+  .menu_item button{
+    padding: 15px;
+    color: white;
+    width: 100%;
+    text-align: left;
+    transition: .2s ease-in-out;
+  }
+  .menu_item .sub button:hover{
+    background-color: #D34654;
+  }
+  .menu_item .main:hover{
+    background-color: #485393;
+  }
+  .hamburger,
+  .menu{
+    display: inline-block;
+  }
+  .nav-active{
+    transform: translateX(0%);
+    display: block;
+  }
+  .menu-active .sub div{
+    display: block;
+    text-align: left;
+  }
+  .menu-active .sub{
+    text-align: left;
+    background-color: #F04C4D;
+  }
+}
+

@@ -1,0 +1,18 @@
+body,
+html{
+  margin: 0px;
+  padding: 0px;
+}
+.carousel
+{
+  height: 75vh;
+  overflow:hidden;
+  background-color: #383D73;
+}
+.cell img{
+    height: 100vh;
+}
+.cell{
+  padding-left: 10vw;
+  padding-right: 10vw;
+}

@@ -1,0 +1,5 @@
+backend:
+  name: github
+  branch: CornerstonePres/cornerstone-pres
+
+media_folder: "images/uploads"
