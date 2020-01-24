@@ -1,0 +1,17 @@
+---
+layout: default
+title: Services & Sermons
+---
+<div class="layout_wrapper">
+  <div>
+    <h2 class="heading">What to Expect from a Service</h2>
+    <div class="content_body content">
+      {{site.data.services_sermons.what_to_expect.content | markdownify}}
+    </div>
+  </div>
+  <div>
+    <h2 class="heading">Past Sermons</h2>
+    <iframe width="560" height="315" src="{{site.data.services_sermons.past_sermons.featured_sermon_link}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <a class="link" href="{{site.data.services_sermons.past_sermons.youtube_channel_link}}">Watch More</a>
+  </div>
+</div>

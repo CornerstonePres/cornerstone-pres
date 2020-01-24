@@ -51,11 +51,16 @@
   color: white;
 }
 
-.content p,
+.content,
 .body_text{
   font-family: "Roboto", Arial, Sans-serif;
-  font-size: 20pt;
+  font-size: 16pt;
   line-height: 28px;
+}
+
+/*No space between header and first paragraph*/
+.content p:first-child{
+  margin-top: 0px;
 }
 
 .content em{

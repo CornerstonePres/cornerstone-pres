@@ -40,3 +40,27 @@ collections:
               - label: "Content"
                 name: "content"
                 widget: "markdown"
+  - name: "services-sermons-page"
+    label: "Services & Sermons Page"
+    files:
+      - label: "Services & Sermons Page"
+        name: "services_sermons"
+        file: "_data/services_sermons.yml"
+        fields:
+          - label: "What To Expect"
+            name: "what_to_expect"
+            widget: "object"
+            fields:
+              - label: "Content"
+                name: "content"
+                widget: "markdown"
+          - label: "Past Sermons"
+            name: "past_sermons"
+            widget: "object"
+            fields:
+              - label: "Featured Sermon Link"
+                name: "featured_sermon_link"
+                widget: "string"
+              - label: "Youtube Channel Link"
+                name: "youtube_channel_link"
+                widget: "string"
