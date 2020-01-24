@@ -13,6 +13,13 @@ collections:
         name: "about"
         file: "_data/about.yml"
         fields:
+          - label: "Service Details"
+            name: "service_details"
+            widget: "object"
+            fields:
+              - label: "Description"
+                name: "description"
+                widget: "markdown"
           - label: "Contact"
             name: "contact"
             widget: "object"
