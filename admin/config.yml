@@ -64,17 +64,14 @@ collections:
               - label: "Youtube Channel Link"
                 name: "youtube_channel_link"
                 widget: "string"
-  - name: "youth"
-    label: "Youth Page"
-    files:
-      - label: "Youth Page"
-        name: "youth"
-        folder: "_youth"
-        create: true
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: "string"
-          - label: "Content"
-            name: "content"
-            widget: "markdown"
+  - label: "Youth Page"
+    name: "youth"
+    folder: "_youth"
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Content"
+        name: "content"
+        widget: "markdown"
