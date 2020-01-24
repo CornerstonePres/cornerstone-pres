@@ -1,5 +1,5 @@
 service_details:
-  description: '**This** is a *test...* [I'm an inline-style link](https://www.google.com)'
+  description: '**This** is a *test...*'
 contact:
   email: pastor@cornerstonepres.net
   tel: '+13607547749'
