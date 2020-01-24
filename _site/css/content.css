@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+.content a,
 .link{
   background: url("../svg/link.svg") no-repeat;
   background-size: 20px;
@@ -19,6 +20,7 @@
   color: white;
   text-shadow: 0px 0px 10px rgba(0,0,0,1);
 }
+
 
 .title{
   font-size: 42pt;
@@ -49,10 +51,20 @@
   color: white;
 }
 
+.content p,
 .body_text{
   font-family: "Roboto", Arial, Sans-serif;
   font-size: 20pt;
   line-height: 28px;
+}
+
+.content em{
+  font-style: italic;
+}
+
+.content strong{
+  font-family: "Suez One";
+  color: #373D72;
 }
 
 .body_text--white{
@@ -81,6 +93,11 @@
 }
 /*Mobile*/
 @media only screen and (max-width: 750px){
+  .content p,
+  .content strong,
+  .content em{
+    font-size: 16pt;
+  }
   .content_body img{
     float: none;
   }

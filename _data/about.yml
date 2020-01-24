@@ -1,6 +1,6 @@
 service_details:
-  description:
+  description: '**This** is a *test...* [I'm an inline-style link](https://www.google.com)'
 contact:
-  tel: "+13607547749"
-  tel_display: "360 754 7749"
-  email: "pastor@cornerstonepres.net"
+  email: pastor@cornerstonepres.net
+  tel: '+13607547749'
+  tel_display: 360 754 7749
