@@ -17,8 +17,8 @@ collections:
             name: "service_details"
             widget: "object"
             fields:
-              - label: "Description"
-                name: "description"
+              - label: "Content"
+                name: "content"
                 widget: "markdown"
           - label: "Contact"
             name: "contact"
@@ -33,3 +33,10 @@ collections:
               - label: "Email Adress"
                 name: "email"
                 widget: "string"
+          - label: "Core Beliefs"
+            name: "core_beliefs"
+            widget: "object"
+            fields:
+              - label: "Content"
+                name: "content"
+                widget: "markdown"

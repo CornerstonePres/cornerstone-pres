@@ -497,6 +497,7 @@ table {
   .content_body img{
     width: 250px;
   }
+  .content a,
   .link{
     background-size: 14px;
     padding-left: 18px;

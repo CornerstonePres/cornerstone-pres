@@ -1,6 +1,8 @@
 service_details:
-  description: '[Test](google.com)'
+  content: '[Test](http://google.com)'
 contact:
   email: pastor@cornerstonepres.net
   tel: '+13607547749'
   tel_display: 360 754 7749
+core_beliefs:
+  content: ''
