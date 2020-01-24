@@ -58,8 +58,8 @@ collections:
             name: "past_sermons"
             widget: "object"
             fields:
-              - label: "Featured Sermon Link"
-                name: "featured_sermon_link"
+              - label: "Featured Sermon Video ID"
+                name: "featured_sermon_video_id"
                 widget: "string"
               - label: "Youtube Channel Link"
                 name: "youtube_channel_link"
