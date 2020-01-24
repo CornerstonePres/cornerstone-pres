@@ -1,0 +1,38 @@
+for(i of Events){
+    if(i is first i){
+      <h1>{{i.Month}} {{i.year}}</h1>
+      <month group>
+    }else if(i.Month != (i-1).Month){
+      </month group>
+      <h1>{{i.Month}} {{i.year}}</h1>
+      <month group>
+    }
+
+    <p>{{i.date}} - {{i.description}}<p>
+
+    if(i is last i){
+      </month group>
+    }
+  }
+
+  Even More Pseudo:
+
+  Loop through events{
+    if first event{
+      print "month - year" of the event,
+      print beginning of new event group,
+      all in HTML
+    }else if new month{
+      print ending of "month group",
+      print "month - year" of the event,
+      print beginning of new event group,
+      all in HTML
+    }
+
+    outside of if statement which means for every single event,
+    print "date - description" of event.
+
+    if last event{
+      print ending of "month group" group in HTML
+    }
+  }
