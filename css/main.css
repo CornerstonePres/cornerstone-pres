@@ -1,4 +1,9 @@
 ---
 ---
-{% include link/link.css %}
-{% include_relative navigation.css %}
+
+{% include_relative default.css %}
+{% include_relative reset.css %}
+{% include_relative content.css %}
+{% include_relative carousel.css %}
+{% include_relative flickity.css %}
+{% include_relative layout.css %}

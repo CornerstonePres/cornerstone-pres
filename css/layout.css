@@ -1,0 +1,46 @@
+/*This flex display is just for centering, not for general layout*/
+.layout_wrapper{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+/*Apply Margin to the top of all children of the first level of children*/
+.layout_wrapper>*{
+  margin-top: 30px;
+}
+
+/*Mobile*/
+@media only screen and (max-width: 1000px){
+  .layout_wrapper{
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  .two_column div:first-child{
+    margin-bottom: 30px;
+  }
+  .two_column iframe{
+    width: 100%;
+    height: 300px;
+  }
+}
+
+
+
+/*Desktop*/
+@media only screen and (min-width: 1000px){
+  .layout_wrapper{
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  .two_column{
+    display: flex;
+  }
+  .two_column .content_body img{
+    float: none;
+  }
+  .two_column div:first-child{
+    margin-right: 30px;
+    width: 90%;
+  }
+}

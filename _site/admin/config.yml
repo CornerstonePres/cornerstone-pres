@@ -1,8 +1,28 @@
 backend:
   name: github
-  branch: CornerstonePres/cornerstone-pres
+  repo: CornerstonePres/cornerstone-pres
+  branch: master
 
 media_folder: "images/uploads"
 
 collections:
-  
+  - name: "about-page"
+    label: "About Page"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "_data/about.yml"
+        fields:
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - label: "Phone Number"
+                name: "tel"
+                widget: "string"
+              - label: "Phone Number Display"
+                name: "tel_display"
+                widget: "string"
+              - label: "Email Adress"
+                name: "email"
+                widget: "string"

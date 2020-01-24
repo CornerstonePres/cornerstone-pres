@@ -1,19 +1,76 @@
-body,
-html{
-  margin: 0px;
-  padding: 0px;
-}
-.carousel
-{
-  height: 75vh;
-  overflow:hidden;
+@import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
+
+.carousel{
+  position: relative;
+  height: 60vh;
+  overflow: hidden;
   background-color: #383D73;
 }
-.cell img{
-    height: 100vh;
 
+.carousel-wrapper{
+  position: relative;
 }
-.cell{
-  padding-left: 10vw;
-  padding-right: 10vw;
+
+.cell img{
+  width: 100vw;
+  height: 60vh;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.center_image td{
+  vertical-align: middle;
+   text-align: center;
+}
+body{
+  background-color: #222;
+}
+
+.carousel_title{
+  color: white;
+  font-family: 'Suez One';
+  font-size: 26pt;
+  text-shadow: 0px 0px 10px rgba(0,0,0,1);
+  line-height: 40px;
+  top: 40%;
+}
+
+.carousel_event{
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.carousel-word_mark{
+  filter: drop-shadow(0px 0px 10px rgba(0,0,0,1));
+  width: 200px;
+  position: absolute;
+  z-index: 2;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.carousel_title{
+  top: 50%;
+}
+.carousel_link{
+  top: 70%;
+}
+
+/*Mobile*/
+@media only screen and (max-width: 1050px){
+  .carousel-word_mark{
+    display: none;
+  }
+  .carousel{
+    height: 50vh;
+  }
+  .carousel_link{
+    top: 60%;
+  }
+  .carousel_title{
+    top: 40%;
+    font-size: 20pt;
+    line-height: 30px;
+  }
 }

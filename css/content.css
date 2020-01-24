@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.link{
+  background: url("../svg/link.svg") no-repeat;
+  background-size: 20px;
+  color: #373D72;
+  text-decoration: none;
+  padding-left: 25px;
+  font-size: 30px;
+  font-family: "Suez One";
+  background-position: 0% 50%;
+}
+
+.link--white{
+  background: url("../svg/link_white.svg") no-repeat;
+  background-size: 20px;
+  background-position: 0% 50%;
+  color: white;
+  text-shadow: 0px 0px 10px rgba(0,0,0,1);
+}
+
+.title{
+  font-size: 42pt;
+  text-align: center;
+  font-family: "Suez One";
+  color: #373D72;
+  max-width: 500px;
+  align-self: center;
+}
+
+.title::before{
+  content: url("../svg/cross.svg");
+  display: block;
+}
+
+.heading{
+  font-size: 33pt;
+  font-family: "Suez One";
+  color: #373D72;
+}
+.heading::before{
+  content: url("../svg/book_mark.svg");
+  position: absolute;
+  margin-left: -30px;
+  margin-top: 8px;
+}
+.heading--white{
+  color: white;
+}
+
+.body_text{
+  font-family: "Roboto", Arial, Sans-serif;
+  font-size: 20pt;
+  line-height: 28px;
+}
+
+.body_text--white{
+  color: white;
+}
+
+.content_body img{
+  width: 300px;
+  float: left;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+.content_body p{
+  margin-bottom: 5px;
+}
+.content_body{
+  padding-top: 10px;
+  padding-left: 2px;
+}
+.content_body::after{
+  content: "";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+/*Mobile*/
+@media only screen and (max-width: 750px){
+  .content_body img{
+    float: none;
+  }
+  .body_text{
+    font-size: 16pt;
+  }
+  .title{
+    font-size: 32pt;
+  }
+  .heading{
+    font-size: 30pt;
+  }
+  .content_body img{
+    width: 250px;
+  }
+  .link{
+    background-size: 14px;
+    padding-left: 18px;
+    font-size: 23px;
+  }
+}
+
+body{
+  background-color: #222;
+}
