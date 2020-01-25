@@ -41,10 +41,9 @@
               <div class ="menu_item">
                 <a href="youth.html"><button {% if page.url == "/youth.html" %} style="color: red;" {% endif %} class="main">Youth</button></a>
                 <div class="sub youth">
-                  <div><a href="youth.html#homework-club"><button>Homework Club</button></a></div>
-                  <div><a href="youth.html#sunday-school"><button>Sunday School</button></a></div>
-                  <div><a href="youth.html#camps"><button>Camps</button></a></div>
-                  <div><a href="youth.html#youth-events"><button>Youth Events</button></a></div>
+                  {% for youth in site.youth %}
+                    <div><a href="youth.html#{{youth.title | slugify}}"><button>{{youth.title}}</button></a></div>
+                  {% endfor %}
                 </div>
               </div>
               <div class="menu_item">
