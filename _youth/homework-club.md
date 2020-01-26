@@ -3,8 +3,7 @@ title: Homework Club
 ---
 **5:30pm to 8:00pm** every Wednesday, while school is in session.
 
-You don’t need to be part of Cornerstone to come along. Any student who needs help with homework, studying, or learning something is welcome. Students should tell their friends and bring them along! Parents are encouraged to come along to see how Homework Club works. Contact us if you have any questions.\
-[Contact](index.html)
+You don’t need to be part of Cornerstone to come along. Any student who needs help with homework, studying, or learning something is welcome. Students should tell their friends and bring them along! Parents are encouraged to come along to see how Homework Club works. [Contact Us](index.html) if you have any questions.
 
 Homework Club is Cornerstone’s effort to help the youth at our church, and also in our general community. First, we provide a fresh, well-rounded, home-cooked meal, including vegetarian options. Afterwards, our volunteers provide guidance by assisting students with any homework, studying, or learning they might have.
 
