@@ -482,6 +482,12 @@ table {
   height: 0;
   clear: both;
 }
+.content a{
+  background-size: 14px;
+  padding-left: 18px;
+  font-size: 23px;
+}
+
 /*Mobile*/
 @media only screen and (max-width: 750px){
   .content p,
@@ -510,10 +516,6 @@ table {
     padding-left: 18px;
     font-size: 23px;
   }
-}
-
-body{
-  background-color: #222;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
