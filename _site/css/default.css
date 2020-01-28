@@ -88,9 +88,7 @@ Navigation
 html{
   scroll-behavior: smooth;
 }
-body{
-    background: black;
-}
+
 .nav button{
   border: thin dashed;
 }

@@ -88,9 +88,7 @@ Navigation
 html{
   scroll-behavior: smooth;
 }
-body{
-    background: black;
-}
+
 .nav button{
   border: thin dashed;
 }
@@ -488,6 +486,15 @@ table {
   font-size: 23px;
 }
 
+.calendar_box{
+  box-shadow: 0px 0px 7px 1px rgba(0,0,0,0.2);
+  border-radius: 4px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 2px;
+  padding: 10px;
+}
+
 /*Mobile*/
 @media only screen and (max-width: 750px){
   .content p,
@@ -541,9 +548,6 @@ table {
 .center_image td{
   vertical-align: middle;
    text-align: center;
-}
-body{
-  background-color: #222;
 }
 
 .carousel_title{

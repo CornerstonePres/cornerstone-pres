@@ -2,3 +2,37 @@
 layout: default
 title: Events
 ---
+<div class="layout_wrapper">
+  <h1 class="title">Calendar</h1>
+  {%- for event in site.events -%}
+
+      {%- assign last_index = forloop.index0 | minus: 1 -%}
+      {%- assign last_event = site.events[last_index].date | date: "%b%y" -%}
+      {%- assign current_event = event.date | date: "%b%y" -%}
+
+      {%- if forloop.index == 1 -%}
+        <!--Start first month div-->
+        <div>
+          <h2 class="heading">{{event.date | date: '%B %Y'}}</h2>
+
+      <!--If last event is not the same month and year as current event-->
+      {%- elsif last_event != current_event -%}
+        <!--End last months div and start new month div-->
+        </div>
+        <div>
+          <h2 class="heading">{{event.date | date: '%B %Y'}}</h2>
+      {%- endif -%}
+
+      <!--Print event in any condition-->
+      <a style="text-decoration: none;"href="#">
+      <div class="content_body content calendar_box">
+        <strong>{{event.date | date: "%e"}} - {{event.title}}</strong>
+      </div>
+      </a>
+
+      {% if forloop.index == site.events.size %}
+      <!--Close last month div-->
+        </div>
+      {% endif %}
+  {%- endfor -%}
+</div>
