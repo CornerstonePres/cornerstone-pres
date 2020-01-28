@@ -5,24 +5,17 @@ title: Cornerstone
 <div class="carousel-wrapper">
   <img class="carousel-word_mark" src="svg/word_mark_white.svg">
   <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
-    <div class="carousel-cell">
-      <div class="cell">
-        <h1 class="carousel_event carousel_title">January 10th <br> This event name is just way too long</h1>
-        <a href="#" class="carousel_link carousel_event link link--white">Event Details</a>
-        <img src="http://cornerstonepres.net/images/holding_hands.jpg">
+    {%- for event in site.events -%}
+      <div class="carousel-cell">
+          <div class="cell">
+            <h1 class="carousel_event carousel_title">{{event.date | date: '%B %e'}} <br> {{event.title}}</h1>
+            <a href="event.url" class="carousel_link carousel_event link link--white">Event Details</a>
+            <img src="http://cornerstonepres.net/images/holding_hands.jpg">
+          </div>
       </div>
-    </div>
-    <div class="carousel-cell">
-      <div class="cell">
-        <img src="http://cornerstonepres.net/images/holding_hands.jpg">
-      </div>
-    </div>
-    <div class="carousel-cell">
-      <div class="cell">
-        <img src="http://cornerstonepres.net/images/holding_hands.jpg">
-      </div>
-    </div>
-  </div>
+      {% if forloop.index == 4%}
+        {% break %}
+      {% endif %}
+    {%- endfor -%}
 </div>
-
 <script src="scripts/flickity.pkgd.min.js"></script>

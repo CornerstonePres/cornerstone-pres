@@ -93,3 +93,7 @@ collections:
         default: ""
         dateFormat: "DD.MM.YYYY"
         format: "LLL"
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "event"
