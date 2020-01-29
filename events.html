@@ -24,7 +24,7 @@ title: Events
       {%- endif -%}
 
       <!--Print event in any condition-->
-      <a style="text-decoration: none;"href="#">
+      <a style="text-decoration: none;" href="{{event.url}}">
       <div class="content_body content calendar_box">
         <strong>{{event.date | date: "%e"}} - {{event.title}}</strong>
       </div>
