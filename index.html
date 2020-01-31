@@ -9,7 +9,7 @@ title: Cornerstone
     {%- for event in all_events -%}
       <div class="carousel-cell">
           <div class="cell">
-            <h1 class="carousel_event carousel_title">{{event.date | date: '%B %e'}} <br> {{event.title}}</h1>
+            <h1 class="carousel_event carousel_title">{{event.date | date: '%B %e'}}{{event.day_suffix}}<br> {{event.title}}</h1>
             <a href="{{event.url}}" class="carousel_link carousel_event link link--white">Event Details</a>
             <img src="http://cornerstonepres.net/images/holding_hands.jpg">
           </div>
