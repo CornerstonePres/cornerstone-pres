@@ -1,6 +1,6 @@
+future: true
 collections:
   youth:
     output: true
   events:
     output: true
-    future: true
