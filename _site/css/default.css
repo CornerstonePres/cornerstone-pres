@@ -245,10 +245,10 @@ Mobile
     width: 280px;
     top: 82px;
     background-color: white;
-    display: block;
     transform: translateX(100%);
     transition: .3s ease-in-out;
     background-color: #000080;
+    display: block;
     color: white;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -279,6 +279,7 @@ Mobile
   }
   .nav-active{
     transform: translateX(0%);
+    transition: .3s ease-in-out;
     display: block;
   }
   .menu-active .sub{

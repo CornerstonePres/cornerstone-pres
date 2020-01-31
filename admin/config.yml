@@ -97,3 +97,6 @@ collections:
         name: "layout"
         widget: "hidden"
         default: "event"
+      - label: "Location"
+        name: "location"
+        widget: "map"
