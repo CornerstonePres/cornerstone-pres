@@ -107,8 +107,6 @@ collections:
         name: "banner_image"
         widget: "image"
         default: "/uploads/holding_hands.jpg"
-  - label: "Event"
-    name: "event"
   - label: "Small Group"
     name: "groups"
     folder: "_groups"
