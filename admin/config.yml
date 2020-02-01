@@ -5,6 +5,7 @@ backend:
 
 media_folder: "images/uploads"
 logo_url: /svg/rainshade.svg
+display_url: http://localhost:4000/
 collections:
   - name: "about-page"
     label: "About Page"
