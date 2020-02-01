@@ -2,21 +2,7 @@
 layout: default
 title: {{title}}
 ---
-{% assign day_of_month = page.date | date: '%e' %}
-{% assign last_digit = day_of_month | slice: -1, 1 %}
-{% if day_of_month == '11' or day_of_month == '12' or day_of_month == '13' %}
-  {% assign page.day_suffix = 'th' %}
-{% elsif last_digit == '1'%}
-  {% assign page.day_suffix = 'st' %}
-{% elsif last_digit == '2'%}
-  {% assign page.day_suffix = 'nd' %}
-{% elsif last_digit == '3'%}
-  {% assign page.day_suffix = 'rd' %}
-{% else %}
-  {% assign page.day_suffix = 'th' %}
-{% endif %}
 
-<div class="carousel-wrapper">
   <!--
   <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
       <div class="carousel-cell">
@@ -31,11 +17,11 @@ title: {{title}}
   <h1 class="title">{{page.title}}</h1>
 
   <div>
-    <h2 class="heading">{{page.date | date: '%B %e'}}{{page.day_suffix}}</h2>
+    <h2 class="heading">{{page.date | date: '%B %e'}}</h2>
     <div class="content_body content">
       <strong>{{page.date | date: '%A'}} at {{page.date | date: "%l%P"}}</strong>
       <br>
-      <strong>Where: </strong>
+      <a href="{{page.map_link}}" class="link">{{page.location}}</a>
     </div>
   </div>
   <div>

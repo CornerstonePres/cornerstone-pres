@@ -2,6 +2,9 @@
 layout: default
 title: Cornerstone
 ---
+<div style="padding: 15px; background: #F04C4D; text-align: center;">
+  <a href="#" style="text-shadow: 0px 0px 0px rgba(0,0,0,0);" class="link link--white">Come to a <span class="content_time">10</span><span class="content_period">AM</span> Service</a>
+</div>
 <div class="carousel-wrapper">
   <img class="carousel-word_mark" src="svg/word_mark_white.svg">
   <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
@@ -9,9 +12,9 @@ title: Cornerstone
     {%- for event in all_events -%}
       <div class="carousel-cell">
           <div class="cell">
-            <h1 class="carousel_event carousel_title">{{event.date | date: '%B %e'}}{{event.day_suffix}}<br> {{event.title}}</h1>
+            <h1 class="carousel_event carousel_title">{{event.title}}<br>{{event.date | date: '%B %e'}}</h1>
             <a href="{{event.url}}" class="carousel_link carousel_event link link--white">Event Details</a>
-            <img src="http://cornerstonepres.net/images/holding_hands.jpg">
+            <img src="{{event.banner_image}}">
           </div>
       </div>
     {%- endfor -%}
