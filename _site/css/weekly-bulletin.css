@@ -8,7 +8,11 @@ html{
 .page_2{
   width: 14in;
   height: 8.5in;
-  padding: 18px;
   border: dashed black 1px;
   background: darkgrey;
+  font-size: 100px;
+}
+.page_1 .wrapper,
+.page_2 .wrapper{
+  margin: 100px;
 }
