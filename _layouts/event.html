@@ -3,8 +3,21 @@ layout: default
 title: {{title}}
 ---
 
+  <!--
+  <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
+      <div class="carousel-cell">
+          <div class="cell">
+            <h1 class="carousel_event carousel_title">{{page.date | date: '%B %e'}} <br> {{page.title}}</h1>
+            <img src="http://cornerstonepres.net/images/holding_hands.jpg">
+          </div>
+      </div>
+    </div>
+    -->
+<div class="carousel-cell cell" >
+  <h1 style="z-index: 3; position: absolute; top: 185px; left: 50%; transform: translate(-50%, -50%);" class="title">{{page.title}}</h1>
+  <img style="height: 200px; object-fit: cover; filter: blur(4px);" src="{{page.banner_image}}">
+</div>
 <div class="layout_wrapper">
-  <h1 class="title">{{page.title}}</h1>
 
   <div>
     <h2 class="heading">{{page.date | date: '%B %e'}}</h2>
