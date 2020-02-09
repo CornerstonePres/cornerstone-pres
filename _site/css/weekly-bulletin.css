@@ -11,10 +11,20 @@ html{
   background: lightgrey;
   font-size: 12px;
   padding: .1px;
+  display: flex;
 }
-.page_1 .wrapper,
-.page_2 .wrapper{
+
+.tear_off{
   margin: 18px;
+  width: 216px;
+  height: 576px;
+  background: white;
+}
+
+.main_page{
+  margin: 18px;
+  width: 342px;
+  height: 576px;
   background: white;
 }
 
