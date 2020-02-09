@@ -1,18 +1,33 @@
 body,
 html{
-  width: 14in;
-  height: 17in;
+  width: 1008px;
+  height: 1224px;
 }
 
 .page_1,
 .page_2{
-  width: 14in;
-  height: 8.5in;
-  border: dashed black 1px;
-  background: darkgrey;
-  font-size: 100px;
+  width: 1008px;
+  height: 612px;
+  background: lightgrey;
+  font-size: 12px;
+  padding: .1px;
 }
 .page_1 .wrapper,
 .page_2 .wrapper{
-  margin: 100px;
+  margin: 18px;
+  background: white;
 }
+
+/*
+width of bulletin: 1008
+hieght of bulletin: 612
+margin: 18
+width of tear-off tag: 234
+
+width of main page 1: 378
+width of main page 2: 360
+
+if main pages are equal width: 367
+
+hieght of pages: 576
+*/
