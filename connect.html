@@ -4,6 +4,17 @@ layout: default
 ---
 <div class="layout_wrapper">
   <h1 class="title">Bible Study & Small Groups</h1>
+  {% for group in site.groups %}
+    <div>
+      <div id="{{youth.title | slugify}}" style="position:absolute; margin-top: -100px;"></div>
+      <h2 class="heading">{{group.title}}</h2>
+      <div class="content_body content">
+        {{group.content | markdownify}}
+      </div>
+    </div>
+  {% endfor %}
+
+
   <h1 class="title">Pastor & Leadership</h1>
 </div>
 

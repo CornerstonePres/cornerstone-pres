@@ -40,7 +40,7 @@
 }
 .carousel-word_mark{
   filter: drop-shadow(0px 0px 10px rgba(0,0,0,1));
-  width: 200px;
+  width: 250px;
   position: absolute;
   z-index: 2;
   top: 90px;
