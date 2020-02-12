@@ -1,5 +1,28 @@
-contact:
-  service_time: ""
-  location: ""
-  map_link: ""
-  parking_description: ""
+mission-statement: This is the mission statement.
+featured-content-1:
+  featured-content-1:
+    content_link: 'http://cornerstonepres.net/youth.html#homework-club'
+    description: >-
+      Do your kids need help with homework? Students of all ages are welcome to
+      a free home-cooked meal, followed by guided study time.
+    image: /images/uploads/homework_club.jpg
+    title: Homework Club
+  featured-content-2:
+    content_link: 'http://cornerstonepres.net/connect.html#bible-study-small-groups'
+    description: ' Walking together in our faith is important. Come and join one of our many different Bible studies or small groups! Discuss scripture at a time, place, and date that best fits your own schedule.'
+    image: /images/uploads/small_groups.jpg
+    title: Small Groups
+  featured-content-3:
+    content_link: 'http://cornerstonepres.net/about.html#core-beliefs'
+    description: >-
+      The denomination of Cornerstone Presbyterian Church is the PC(USA). We’d
+      love you to learn more about our specific theological beliefs.
+    image: /images/uploads/core_beliefs.jpg
+    title: Core Beliefs
+service_details:
+  location: '218 Overhulse Rd NW, Olympia, WA 98502'
+  map_link: 'https://goo.gl/maps/TvVcS3g61n1gnLrY8'
+  parking_description: >-
+    Main parking: grassy area in front, additional parking behind. Accessible
+    parking: asphalt directly by the entrance.
+  service_time: '10'
