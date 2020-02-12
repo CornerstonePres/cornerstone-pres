@@ -69,6 +69,7 @@
 .content strong{
   font-family: "Suez One";
   color: #373D72;
+  font-size: 16pt;
 }
 
 .body_text--white{
@@ -119,9 +120,8 @@
 /*Mobile*/
 @media only screen and (max-width: 750px){
   .content p,
-  .content strong,
   .content em{
-    font-size: 16pt;
+    font-size: 14pt;
   }
   .content_body img{
     float: none;

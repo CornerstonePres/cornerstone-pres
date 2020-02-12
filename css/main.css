@@ -7,3 +7,5 @@
 {% include_relative carousel.css %}
 {% include_relative flickity.css %}
 {% include_relative layout.css %}
+{% include_relative book.css %}
+{% include_relative index.css %}

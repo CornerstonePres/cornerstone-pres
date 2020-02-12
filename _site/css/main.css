@@ -454,6 +454,7 @@ table {
 .content strong{
   font-family: "Suez One";
   color: #373D72;
+  font-size: 16pt;
 }
 
 .body_text--white{
@@ -504,9 +505,8 @@ table {
 /*Mobile*/
 @media only screen and (max-width: 750px){
   .content p,
-  .content strong,
   .content em{
-    font-size: 16pt;
+    font-size: 14pt;
   }
   .content_body img{
     float: none;
@@ -582,7 +582,7 @@ table {
   width: 200px;
   position: absolute;
   z-index: 2;
-  top: 20%;
+  top: 90px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -764,8 +764,8 @@ https://flickity.metafizzy.co
 /*Mobile*/
 @media only screen and (max-width: 1000px){
   .layout_wrapper{
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 50px;
+    margin-right: 30px;
   }
   .two_column div:first-child{
     margin-bottom: 30px;
@@ -796,6 +796,148 @@ https://flickity.metafizzy.co
   .two_column div:first-child{
     margin-right: 30px;
     width: 90%;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.book_animations{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+  margin: 20px;
+}
+.book_animation{
+  //border: thin dashed white;
+  width: 185px;
+  height: 165px;
+}
+
+.book_group{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+}
+.book_animations .description{
+  //border: thin dashed white;
+  align-self: center;
+  width: 240px;
+  font-size: 22px;
+  line-height: 24px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding: 35px;
+  min-width: 225px;
+}
+
+@media only screen and (max-width: 3000px){
+  .book_animations{
+    display: grid;
+  }
+  .book_animation{
+    float: left;
+  }
+  .book_group{
+    flex-direction: row;
+  }
+  .book_animations .description{
+    float: right;
+    width: auto;
+    text-align: left;
+    max-width: 500px;
+  }
+}
+@media only screen and (max-width: 650px){
+  .book_animations{
+    display: block;
+  }
+  .book_animation{
+  }
+  .book_group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .book_animations .description{
+    text-align: center;
+  }
+}
+.book_animations img{
+  width: 190px;
+  height: 170px;
+  object-fit: cover;
+
+  filter: brightness(0.75);
+  position: absolute;
+}
+#book_image1{
+  -webkit-clip-path: url(#bookPath1);
+  clip-path: url(#bookPath1);
+}
+#book_image2{
+  -webkit-clip-path: url(#bookPath2);
+  clip-path: url(#bookPath2);
+}
+#book_image3{
+  -webkit-clip-path: url(#bookPath3);
+  clip-path: url(#bookPath3);
+}
+.book{
+  margin: auto;
+}
+.book_text{
+  position: absolute;
+  text-align: center;
+  color: white;
+  margin-left: 13px;
+  margin-top: 57px;
+  font-family: 'Suez One', serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 25px;
+  text-shadow: 0px 0px 10px rgba(0,0,0,0.80);
+  width: 150px;
+}
+
+.three_column > div{
+  margin: 30px;
+  min-width: 225px;
+}
+.three_column{
+  padding: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #373D72;
+  color: white;
+}
+.three_column > div:first-child{
+  max-width: 325px;
+}
+.three_column > div:last-child{
+  min-width: 320px;
+}
+
+.location_link-index{
+  font-size: 20px;
+  background-size: 12px;
+  line-height: 25px;
+  background: url("../svg/link_white.svg") no-repeat;
+  background-position: 0% 50%;
+  padding-left: 18px;
+}
+@media only screen and (min-width: 1000px){
+  .three_column{
+    width: 850px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

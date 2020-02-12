@@ -4,4 +4,20 @@ layout: default
 ---
 <div class="layout_wrapper">
   <h1 class="title">Bible Study & Small Groups</h1>
+  <h1 class="title">Pastor & Leadership</h1>
+</div>
+
+<div class="carousel-wrapper">
+  <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
+    {% assign all_events = site.events %}
+    {%- for event in all_events -%}
+      <div class="carousel-cell">
+          <div class="cell">
+            <h1 class="carousel_event carousel_title">{{event.title}}<br>{{event.date | date: '%B %e'}}</h1>
+            <a href="{{event.url}}" class="carousel_link carousel_event link link--white">Event Details</a>
+            <img src="{{event.banner_image}}">
+          </div>
+      </div>
+    {%- endfor -%}
+  </div>
 </div>

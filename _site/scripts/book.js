@@ -13,7 +13,6 @@ $book_button1.hover(
 
   function(){
     TweenMax.to($book1, .5, {morphSVG:"#book_open1"});
-    console.log();
     TweenMax.to($('#book_image1'), .5, {scale:1.1, transformOrigin:"40% 50%"});
     TweenMax.to($('#book_image1'),.5,{webkitFilter: "brightness(1)", filter: "brightness(1)" });
   },
@@ -30,7 +29,6 @@ $book_button2.hover(
 
   function(){
     TweenMax.to($book2, .5, {morphSVG:"#book_open2"});
-    console.log();
     TweenMax.to($('#book_image2'), .5, {scale:1.1, transformOrigin:"40% 50%"});
     TweenMax.to($('#book_image2'),.5,{webkitFilter: "brightness(1)", filter: "brightness(1)" });
   },
@@ -47,7 +45,6 @@ $book_button3.hover(
 
   function(){
     TweenMax.to($book3, .5, {morphSVG:"#book_open3"});
-    console.log();
     TweenMax.to($('#book_image3'), .5, {scale:1.1, transformOrigin:"40% 50%"});
     TweenMax.to($('#book_image3'),.5,{webkitFilter: "brightness(1)", filter: "brightness(1)" });
   },

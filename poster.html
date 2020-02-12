@@ -1,61 +1,76 @@
 <!doctype html>
 <html>
     <head>
-      <title>Poster Download</title>
+      <title>Weekly Bulletin</title>
       <link rel="stylesheet" href="css/reset.css">
       <style>
+        @import url("https://use.typekit.net/oxi7yvm.css");
         @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
         .wrapper{
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 100vh;
+          font-family: futura-pt, sans-serif;
+          font-weight: 500;
+          font-style: normal;
         }
-        img{
-          width: 300px;
-        }
-        .content{
-          margin-top: -50px;
-          vertical-align: middle;
+        iframe{
+          -ms-zoom: 0.5;
+          -moz-transform: scale(0.5);
+          -moz-transform-origin: 0 0;
+          -o-transform: scale(0.5);
+          -o-transform-origin: 0 0;
+          -webkit-transform: scale(0.5);
+          -webkit-transform-origin: 0 0;
+          border: dashed 5px black;
+          margin: 20px;
+          margin-top: 0px;
+          margin-bottom: -625px;
         }
         .forms{
-          padding: 20px;
           display: flex;
-          align-items: center;
-          flex-direction: column;
-          border:none;
+          justify-content: space-between;
+          width: 550px;
+
         }
-        form{
-          padding: 20px;
+        form input[type=submit]:hover{
+          cursor: pointer;
+          transform: skew(-13.13deg);
+
         }
-        form input{
-          padding: 100px;
+        form input[type=submit]{
+          margin: 20px;
+          font-family: futura-pt, sans-serif;
+          font-weight: 500;
+          font-style: normal;
+          font-size: 15px;
+          padding: 10px;
+          border: none;
+          background: lightgrey;
+          transition: .1s ease-in-out;
         }
       </style>
     </head>
     <body>
       <div class=wrapper>
-        <div class=content>
-          <img src="svg/poster_maker.svg">
-          <div class="forms">
-            <form action="https://v2.convertapi.com/convert/web/to/jpg?Secret=7CEjcEIdGhZ6DijK&download=attachment" method="post" enctype="multipart/form-data">
-                <input type="hidden" name="Url" value="https://confident-saha-7b4f0a.netlify.com/posters/weekly-bulletin.html"/>
-                <input type="submit" value="Download Event Poster Image"/>
-            </form>
-            <form action="https://v2.convertapi.com/convert/web/to/pdf?Secret=7CEjcEIdGhZ6DijK&download=attachment" method="post" enctype="multipart/form-data">
-                <input type="hidden" name="Url" value="https://confident-saha-7b4f0a.netlify.com/posters/weekly-bulletin.html" />
-                <input type="submit" value="Download Event Poster PDF"/>
-                <input type="hidden" name="PageSize" value="legal" />
-                <input type="hidden" name="ViewportWidth" value="1008" />
-                <input type="hidden" name="ViewportHeight" value="612" />
-                <input type="hidden" name="PageOrientation" value="landscape" />
-                <input type="hidden" name="MarginTop" value="0" />
-                <input type="hidden" name="MarginBottom" value="0" />
-                <input type="hidden" name="MarginLeft" value="0" />
-                <input type="hidden" name="MarginRight" value="0" />
-            </form>
-          </div>
+        <div class="forms">
+          <!--
+          <form class="form" action="https://v2.convertapi.com/convert/web/to/jpg?Secret=7CEjcEIdGhZ6DijK&download=attachment" method="post" enctype="multipart/form-data">
+              <input type="hidden" name="Url" value="https://confident-saha-7b4f0a.netlify.com/posters/weekly-bulletin.html"/>
+              <input type="submit" value="Download Weekly Bulletin Poster Image"/>
+          </form>
+          -->
+          <form class="form" action="https://v2.convertapi.com/convert/web/to/pdf?Secret=7CEjcEIdGhZ6DijK&download=attachment" method="post" enctype="multipart/form-data">
+              <input type="hidden" name="Url" value="https://confident-saha-7b4f0a.netlify.com/posters/weekly-bulletin.html" />
+              <input type="submit" value="Download Weekly Bulletin PDF"/>
+              <input type="hidden" name="PageSize" value="legal" />
+              <input type="hidden" name="ViewportWidth" value="1008" />
+              <input type="hidden" name="ViewportHeight" value="612" />
+              <input type="hidden" name="PageOrientation" value="landscape" />
+              <input type="hidden" name="MarginTop" value="0" />
+              <input type="hidden" name="MarginBottom" value="0" />
+              <input type="hidden" name="MarginLeft" value="0" />
+              <input type="hidden" name="MarginRight" value="0" />
+          </form>
         </div>
+        <iframe src="/posters/weekly-bulletin.html" height="1225" width="1010"></iframe>
       </div>
     </body>
 </html>
