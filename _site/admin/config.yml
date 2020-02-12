@@ -192,7 +192,7 @@ collections:
         name: "body"
         widget: "markdown"
   - label: "Leadership Member"
-    name: "leader"
+    name: "leaders"
     folder: "_leaders"
     create: true
     fields:

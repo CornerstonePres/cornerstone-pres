@@ -4,3 +4,7 @@ collections:
     output: true
   events:
     output: true
+  groups:
+    output: true
+  leaders:
+    output: true
