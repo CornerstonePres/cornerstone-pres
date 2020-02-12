@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+
+
+
+
 .content a,
 .link{
   background: url("../svg/link.svg") no-repeat;
@@ -150,4 +154,17 @@
   .content_period{
     font-size: 13pt;
   }
+}
+
+.content_body .content_portait{
+  height: 200px;
+  width: 200px;
+  transform-origin: top left; /* IE 10+, Firefox, etc. */
+    -webkit-transform-origin: top left; /* Chrome */
+    -ms-transform-origin: top left; /* IE 9 */
+    transform: rotate(270deg) translateX(-100%);
+    -webkit-transform: rotate(270deg) translateX(-100%);
+    -ms-transform: rotate(270deg) translateX(-100%);
+
+    object-fit: cover;
 }

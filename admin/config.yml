@@ -197,7 +197,7 @@ collections:
     create: true
     fields:
       - label: "Name"
-        name: "name"
+        name: "title"
         widget: "string"
       - label: "Title / Role"
         name: "title_role"
@@ -205,6 +205,20 @@ collections:
       - label: "Optional Photo"
         name: "photo"
         widget: "image"
+      - label: "Portrait Image"
+        name: "portrait"
+        widget: "boolean"
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+  - label: "Volunteer Group"
+    name: "volunteer_groups"
+    folder: "_volunteer_groups"
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
       - label: "Content"
         name: "body"
         widget: "markdown"

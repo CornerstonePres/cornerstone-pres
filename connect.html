@@ -12,21 +12,49 @@ layout: default
       </div>
     </div>
   {% endfor %}
+  <div></div>
   <h1 class="title">Pastor & Leadership</h1>
-  
+  {% for leader in site.leaders %}
+    <div>
+      <h2 class="heading">{{leader.title}}, {{leader.title_role}}</h2>
+      <div class="content_body content">
+        <img class="content_portait" src="{{leader.photo}}">
+        {{leader.content | markdownify}}
+      </div>
+    </div>
+  {% endfor %}
+  <div></div>
+  <h1 class="title">Photo Gallery</h1>
 </div>
 
-<div class="carousel-wrapper">
-  <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
-    {% assign all_events = site.events %}
-    {%- for event in all_events -%}
-      <div class="carousel-cell">
-          <div class="cell">
-            <h1 class="carousel_event carousel_title">{{event.title}}<br>{{event.date | date: '%B %e'}}</h1>
-            <a href="{{event.url}}" class="carousel_link carousel_event link link--white">Event Details</a>
-            <img src="{{event.banner_image}}">
-          </div>
+
+
+<div class="gallery" data-flickity='{"wrapAround": true, "imagesLoaded": true, "pageDots": false}'>
+  {% assign all_events = site.events %}
+  {%- for event in all_events -%}
+    <div class="gallery-cell">
+        <div class="cell">
+          <img src="{{event.banner_image}}">
+        </div>
+    </div>
+  {%- endfor -%}
+  <div class="gallery-cell">
+      <div class="cell">
+        <img src="/images/uploads/holding_hands.jpg">
       </div>
-    {%- endfor -%}
+  </div>
+  <div class="gallery-cell">
+      <div class="cell">
+        <img src="/images/uploads/holding_hands.jpg">
+      </div>
+  </div>
+  <div class="gallery-cell">
+      <div class="cell">
+        <img src="/images/uploads/holding_hands.jpg">
+      </div>
   </div>
 </div>
+
+
+
+<script src="/scripts/flickity.pkgd.min.js"></script>

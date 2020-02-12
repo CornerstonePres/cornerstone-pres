@@ -2,5 +2,14 @@
 title: Volunteer & Give
 layout: default
 ---
-
-<h1 class="title">Volunteer Groups</h1>
+<div class="layout_wrapper">
+  <h1 class="title">Volunteer Groups</h1>
+  {% for volunteer_group in site.volunteer_groups %}
+    <div>
+      <h2 class="heading">{{volunteer_group.title}}</h2>
+      <div class="content_body content">
+        {{volunteer_group.content | markdownify}}
+      </div>
+    </div>
+  {% endfor %}
+</div>
