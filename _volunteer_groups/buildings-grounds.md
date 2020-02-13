@@ -1,9 +1,9 @@
 ---
 title: Buildings & Grounds Committee
 ---
-**Contact:**\
+Contact:\
 **Chris Brombach**\
-**360 970 9099**
+([360) 970-9099](tel:360-970-9099)
 
 The function of the Buildings & Grounds Committee is the care and maintenance of the Cornerstone campus and buildings. Our vision is to always follow proper procedures that ensure the responsible stewardship of the beautiful grounds and facility that God has provided us.
 
