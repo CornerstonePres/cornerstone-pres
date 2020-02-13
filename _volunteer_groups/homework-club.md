@@ -4,8 +4,7 @@ title: Homework Club
 Every **Wednesday**, while school is in session\
 **5:30 PM** until **8:00 PM**\
 \
-**CONTACT:**\
-**Cornerstone Presbyterian Church**\
+**CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
 [admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
 
