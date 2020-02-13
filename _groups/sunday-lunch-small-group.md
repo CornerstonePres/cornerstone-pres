@@ -1,7 +1,7 @@
 ---
 title: Sunday Lunch Small Group
 ---
-Every **Sunday**\
+**Every other Sunday**\
 **11:30 AM**, after [Service](about.html#service-details)
 
 **CONTACT: Cornerstone Presbyterian Church**\
