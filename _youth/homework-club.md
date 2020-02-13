@@ -1,7 +1,7 @@
 ---
 title: Homework Club
 ---
-Every **Wednesday**, while school is in session\
+**Every Wednesday**, while school is in session\
 **5:30 PM** until **8:00 PM**\
 \
 **CONTACT: Cornerstone Presbyterian Church**\
