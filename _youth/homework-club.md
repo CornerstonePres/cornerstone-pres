@@ -1,8 +1,8 @@
 ---
 title: Homework Club
 ---
-Every **Wednesday**, while school is in session.\
-**5:30pm to 8:00pm** 
+Every **Wednesday**, while school is in session\
+**5:30pm** to **8:00pm** 
 
 **Proverbs 16:16** \
 "How much better to get wisdom than gold, to get insight rather than silver!"
