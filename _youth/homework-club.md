@@ -9,8 +9,7 @@ Every **Wednesday**, while school is in session\
 [(360) 754-7749](tel:360-754-7749)\
 [admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
 
-**Proverbs 16:16** \
-"How much better to get wisdom than gold, to get insight rather than silver!"
+**Proverbs 16:16** How much better to get wisdom than gold, to get insight rather than silver!
 
 You don’t need to be part of Cornerstone to come along. Any student who needs help with homework, studying, or learning something is welcome. Students should tell their friends and bring them along! Parents are encouraged to come along to see how Homework Club works.
 
