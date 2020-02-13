@@ -1,7 +1,7 @@
 ---
 title: Sunday Morning Small Group
 ---
-Every **Sunday**\
+**Every Sunday**\
 **9:00 AM**, before [Service](about.html#service-details)
 
 **CONTACT: Cornerstone Presbyterian Church**\
