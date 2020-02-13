@@ -1,4 +1,6 @@
 ---
 title: Sunday Treats
 ---
-Filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text filler text.
+[Contact](index.html)
+
+Stay tuned: more information coming soon!
