@@ -18,7 +18,9 @@ Students should bring their homework with them every week, and should expect an 
 
 Between the delicious food and dessert, occasional games and movie nights, and volunteer speakers, Homework Club is a great way for students to make friends, learn, and be rewarded for their hard work.
 
-Volunteering is a ton of fun! We mainly need two kinds of volunteers:
+Volunteering to help kids succeed in school is a ton of fun! We mainly need two kinds of volunteers:
 
 * People to help the kids. This could be homework and studying help, or general help like keeping track of the points for the kids' rewards, running games, washing dishes, or bringing materials.
 * Cooks that can prepare dinner, or people that can bring or prepare dessert. We have a kitchen facility here at the church that you can use for your own convenience.
+
+Contact us if you'd like to help out, or enroll your child!
