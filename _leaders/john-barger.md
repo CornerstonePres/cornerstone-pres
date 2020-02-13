@@ -1,6 +1,6 @@
 ---
-title: Jennifer Swier
-title_role: Pastor
+title: Andrea Jenkins
+title_role: Administrator
 photo: /images/uploads/core_beliefs.jpg
 portrait: false
 ---
