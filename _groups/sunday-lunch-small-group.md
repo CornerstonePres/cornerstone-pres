@@ -2,7 +2,7 @@
 title: Sunday Lunch Small Group
 ---
 Every **Sunday**\
-**11:30am**, after service
+**11:30 AM**, after [Service](about.html#service-details)
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
