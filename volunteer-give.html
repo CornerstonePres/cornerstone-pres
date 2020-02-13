@@ -4,20 +4,30 @@ layout: default
 ---
 <div class="layout_wrapper">
   <div>
-    <h1 class="title">Volunteer Groups</h1>
+    <div id="volunteer-now" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Volunteer Now</h1>
   </div>
   <div>
-    {% for volunteer_group in site.volunteer_groups %}
-      <div>
-        <h2 class="heading">{{volunteer_group.title}}</h2>
-        <div class="content_body content">
-          {{volunteer_group.content | markdownify}}
-        </div>
-      </div>
-    {% endfor %}
+    <div class="content_body content">
+      {{site.data.volunteer_give.volunteer_now.content | markdownify}}
+    </div>
   </div>
 
   <div>
+    <div id="volunteer-groups" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Volunteer Groups</h1>
+  </div>
+  {% for volunteer_group in site.volunteer_groups %}
+    <div>
+      <h2 class="heading">{{volunteer_group.title}}</h2>
+      <div class="content_body content">
+        {{volunteer_group.content | markdownify}}
+      </div>
+    </div>
+  {% endfor %}
+
+  <div>
+    <div id="give-an-offering" style="position:absolute; margin-top: -100px;"></div>
     <h1 class="title">Give an Offering</h1>
   </div>
   <div>

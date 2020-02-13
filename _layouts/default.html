@@ -38,6 +38,14 @@
                 </div>
               </div>
               <div class="menu_item">
+                <a href="/events.html"><button {% if page.url == "/events.html" %} style="color: red;" {% endif %} class="main">Events</button></a>
+                <div class="sub events">
+                  <div><a href="/events.html#upcoming-events"><button>Upcoming Events</button></a></div>
+                  <div><a href="/events.html#plan-your-own-event"><button>Plan Your Own Event</button></a></div>
+                  <div><a href="/events.html#calendar"><button>Calendar</button></a></div>
+                </div>
+              </div>
+              <div class="menu_item">
                 <a href="/services-sermons.html"><button {% if page.url == "/services-sermons.html" %} style="color: red;" {% endif %} class="main">Services & Sermons</button></a>
                 <div class="sub services-sermons">
                   <div><a href="/services-sermons.html#what-to-expect"><button>What to Expect</button></a></div>
@@ -61,19 +69,11 @@
                 </div>
               </div>
               <div class="menu_item">
-                <a href="/events.html"><button {% if page.url == "/events.html" %} style="color: red;" {% endif %} class="main">Events</button></a>
-                <div class="sub events">
-                  <div><a href="/events.html#upcoming-events"><button>Upcoming Events</button></a></div>
-                  <div><a href="/events.html#plan-your-own-event"><button>Plan Your Own Event</button></a></div>
-                  <div><a href="/events.html#calendar"><button>Calendar</button></a></div>
-                </div>
-              </div>
-              <div class="menu_item">
                 <a href="/volunteer-give.html"><button {% if page.url == "/volunteer-give.html" %} style="color: red;" {% endif %} class="main">Volunteer & Give</button></a>
                 <div class="sub volunteer-give">
-                  <div><a href="#"><button>Donate</button></a></div>
-                  <div><a href="#"><button>Volunteer Groups</button></a></div>
-                  <div><a href="#"><button>Volunteer Now</button></a></div>
+                  <div><a href="#volunteer-now"><button>Volunteer Now</button></a></div>
+                  <div><a href="#volunteer-groups"><button>Volunteer Groups</button></a></div>
+                  <div><a href="#give-an-offering"><button>Give an Offering</button></a></div>
                 </div>
               </div>
           </div>
