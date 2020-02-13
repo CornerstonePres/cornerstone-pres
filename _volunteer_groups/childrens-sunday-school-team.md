@@ -13,4 +13,4 @@ Our Children’s Sunday School is a welcoming environment where kids can learn a
 
 If you have a passion for taking care of children and helping them grow in Christ, or if you have questions about bringing your own kids along, contact us!
 
-[Learn more about Children's Sunday School](?) (update link)
+[Learn more about Children's Sunday School](youth.html#childrens-sunday-school)
