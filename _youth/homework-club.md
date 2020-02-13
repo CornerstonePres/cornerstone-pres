@@ -6,7 +6,7 @@ Every **Wednesday**, while school is in session\
 \
 Contact:\
 **Cornerstone Presbyterian Church**\
-[(360) 754 7749](tel:360-754-7749)\
+[(360) 754-7749](tel:360-754-7749)\
 admin@CornerstonePres.net
 
 **Proverbs 16:16** \
