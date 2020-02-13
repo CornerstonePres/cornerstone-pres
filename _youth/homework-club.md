@@ -2,7 +2,7 @@
 title: Homework Club
 ---
 Every **Wednesday**, while school is in session\
-**5:30pm** to **8:00pm**\
+**5:30pm** until **8:00pm**\
 [Contact](index.html)
 
 **Proverbs 16:16** \
