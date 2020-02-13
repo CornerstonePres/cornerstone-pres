@@ -2,7 +2,7 @@
 title: Sunday Morning Small Group
 ---
 Every **Sunday**\
-**9:00 AM**, before service
+**9:00 AM**, before [Service](about.html#service-details)
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
