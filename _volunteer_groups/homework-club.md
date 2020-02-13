@@ -1,5 +1,5 @@
 ---
-title: Homework Club
+title: Homework Club Helpers
 ---
 **Every Wednesday**, while school is in session\
 **5:30 PM** until **8:00 PM**\
