@@ -1,7 +1,7 @@
 ---
 title: Sunday School
 ---
-Every **Sunday**, during [Service](?)\
+Every **Sunday**, during [Service](about.html#service-details)\
 \
 **CONTACT:**\
 **Cornerstone Presbyterian Church**\
