@@ -3,8 +3,7 @@ title: Sunday School
 ---
 Every **Sunday**, during [Service](about.html#service-details)\
 \
-**CONTACT:**\
-**Cornerstone Presbyterian Church**\
+**CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
 [admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
 
