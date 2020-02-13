@@ -4,27 +4,36 @@ layout: default
 ---
 <div class="layout_wrapper">
   <h1 class="title">Bible Study & Small Groups</h1>
-  {% for group in site.groups %}
-    <div>
-      <h2 class="heading">{{group.title}}</h2>
-      <div class="content_body content">
-        {{group.content | markdownify}}
+  <div id="bible-study-small-groups" style="position:absolute; margin-top: -100px;"></div>
+  <div>
+    {% for group in site.groups %}
+      <div>
+        <h2 class="heading">{{group.title}}</h2>
+        <div class="content_body content">
+          {{group.content | markdownify}}
+        </div>
       </div>
-    </div>
-  {% endfor %}
-  <div></div>
-  <h1 class="title">Pastor & Leadership</h1>
-  {% for leader in site.leaders %}
-    <div>
-      <h2 class="heading">{{leader.title}}, {{leader.title_role}}</h2>
-      <div class="content_body content">
-        <img class="content_portait" src="{{leader.photo}}">
-        {{leader.content | markdownify}}
+    {% endfor %}
+  </div>
+  <div>
+    <div id="pastor-leadership" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Pastor & Leadership</h1>
+  </div>
+  <div>
+    {% for leader in site.leaders %}
+      <div>
+        <h2 class="heading">{{leader.title}}, {{leader.title_role}}</h2>
+        <div class="content_body content">
+          <img class="content_portait" src="{{leader.photo}}">
+          {{leader.content | markdownify}}
+        </div>
       </div>
-    </div>
-  {% endfor %}
-  <div></div>
-  <h1 class="title">Photo Gallery</h1>
+    {% endfor %}
+  </div>
+  <div>
+    <div id="photo-gallery" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Photo Gallery</h1>
+  </div>
 </div>
 
 
@@ -54,7 +63,6 @@ layout: default
       </div>
   </div>
 </div>
-
 
 
 <script src="/scripts/flickity.pkgd.min.js"></script>

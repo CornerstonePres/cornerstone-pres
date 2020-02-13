@@ -137,12 +137,30 @@ collections:
               - label: "Youtube Channel Link"
                 name: "youtube_channel_link"
                 widget: "string"
-      - label: "Volunteer & Give"
+      - label: "Events Page"
+        name: "events"
+        file: "_data/events.yml"
+        fields:
+          - label: "Plan Your Own Event"
+            name: "plan_your_own_event"
+            widget: "object"
+            fields:
+              - label: "Content"
+                name: "content"
+                widget: "markdown"
+      - label: "Volunteer & Give Page"
         name: "volunteer_give"
         file: "_data/volunteer_give.yml"
         fields:
           - label: "Give an Offering"
             name: "give_an_offering"
+            widget: "object"
+            fields:
+              - label: "Content"
+                name: "content"
+                widget: "markdown"
+          - label: "Volunteer Now"
+            name: "volunteer_now"
             widget: "object"
             fields:
               - label: "Content"
