@@ -6,3 +6,5 @@ title: Small Group Leadership
 [admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
 
 Stay tuned: more information coming soon!
+
+[Learn more about Bible Studies & Small Groups](connect.html#bible-studies-small-groups)
