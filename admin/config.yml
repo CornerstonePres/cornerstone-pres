@@ -202,6 +202,18 @@ collections:
         name: "priority"
         widget: "boolean"
         default: false
+  - label: "Announcements"
+    name: "announcements"
+    folder: "_announcements"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: "Title (Not Displayed)"
+        name: "title"
+        widget: "string"
+      - label: "Announcement"
+        name: "announcements"
+        widget: "string"
   - label: "Youth Activity"
     name: "youth"
     folder: "_youth"

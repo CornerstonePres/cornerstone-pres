@@ -10,3 +10,5 @@ collections:
     output: true
   volunteer_groups:
     output: true
+  announcements:
+    output: true
