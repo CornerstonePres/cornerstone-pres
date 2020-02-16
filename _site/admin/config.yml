@@ -212,7 +212,7 @@ collections:
         name: "title"
         widget: "string"
       - label: "Announcement"
-        name: "announcements"
+        name: "announcement"
         widget: "string"
   - label: "Youth Activity"
     name: "youth"

@@ -8,6 +8,14 @@ title: Cornerstone
 <div class="carousel-wrapper">
   <img class="carousel-word_mark" src="svg/word_mark_white.svg">
   <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
+    {%- for announcement in site.announcements -%}
+      <div class="carousel-cell">
+          <div class="cell">
+            <h1 class="carousel_event carousel_title">{{ announcement.announcement }}</h1>
+            <img src="images/uploads/holding_hands.jpg">
+          </div>
+      </div>
+    {%- endfor -%}
     {%- for event in site.events -%}
       {% if event.priority == true %}
         <div class="carousel-cell">
