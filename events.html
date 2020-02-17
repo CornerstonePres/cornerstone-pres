@@ -2,21 +2,25 @@
 layout: default
 title: Events
 ---
-<div class="carousel-wrapper">
-  <div id="upcoming-events" style="position:absolute; margin-top: -100px;"></div>
-  <div class="carousel" data-flickity='{"wrapAround": true, "imagesLoaded": true}'>
-    {% assign all_events = site.events %}
-    {%- for event in all_events -%}
-      <div class="carousel-cell">
-          <div class="cell">
-            <h1 class="carousel_event carousel_title">{{event.title}}<br>{{event.date | date: '%B %e'}}</h1>
-            <a href="{{event.url}}" class="carousel_link carousel_event link link--white">Event Details</a>
-            <img src="{{event.banner_image}}">
-          </div>
-      </div>
-    {%- endfor -%}
+<div class="layout_wrapper">
+  <div>
+    <div id="upcoming-events" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Upcoming Events</h1>
   </div>
 </div>
+
+<div class="gallery" data-flickity='{"imagesLoaded": true, "pageDots": false}'>
+  {%- for event in site.events -%}
+    <div class="gallery-cell">
+        <div class="cell">
+          <img style="filter: brightness(.8);" src="{{event.banner_image}}">
+          <h1 class="carousel_event carousel_title">{{event.title}}<br>{{event.date | date: '%B %e'}}</h1>
+          <a href="{{event.url}}" class="carousel_link carousel_event link link--white">Event Details</a>
+        </div>
+    </div>
+  {%- endfor -%}
+</div>
+
 <div class="layout_wrapper">
   <div id="plan-your-own-event" style="position:absolute; margin-top: -100px;"></div>
   <div>

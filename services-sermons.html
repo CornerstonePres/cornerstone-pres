@@ -3,16 +3,25 @@ layout: default
 title: Services & Sermons
 ---
 <div class="layout_wrapper">
-  <div>
+    <div>
+      <h1 class="title">Sunday Service Details</h1>
+      <div class="content_body content">
+        {{site.data.about.service_details.content | markdownify}}
+      </div>
+      <div style="margin-bottom: 20px;">
+
+      </div>
+    </div>
+    <div>
     <div id="what-to-expect" style="position:absolute; margin-top: -100px;"></div>
-    <h2 class="heading">What to Expect from a Service</h2>
+    <h1 class="title">What to Expect from a Service</h1>
     <div class="content_body content">
       {{site.data.services_sermons.what_to_expect.content | markdownify}}
     </div>
   </div>
   <div>
     <div id="past-sermons" style="position:absolute; margin-top: -100px;"></div>
-    <h2 class="heading">Past Sermons</h2>
+    <h1 class="title">Past Sermons</h1>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/{{site.data.services_sermons.past_sermons.featured_sermon_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
     <a class="link" href="{{site.data.services_sermons.past_sermons.youtube_channel_link}}">Watch More</a>

@@ -26,7 +26,7 @@
   .hamburger.is-active .hamburger-inner,
   .hamburger.is-active .hamburger-inner::before,
   .hamburger.is-active .hamburger-inner::after {
-    background-color: #000080; }
+    background-color: #373D72; }
 
 .hamburger-box {
   width: 40px;
@@ -41,7 +41,7 @@
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 40px;
     height: 4px;
-    background-color: #000080;
+    background-color: #373D72;
     border-radius: 4px;
     position: absolute;
     transition-property: transform;
@@ -100,7 +100,7 @@ html{
 
 .header{
   background: white;
-  color: #000080;
+  color: #373D72;
   font-size: 13pt;
   font-family: 'Suez One', serif;
   list-style-type: none;
@@ -112,7 +112,7 @@ html{
   border: none;
   outline: none;
   background: none;
-  color: #000080;
+  color: #373D72;
   height: 200%;
 }
 
@@ -200,10 +200,10 @@ Desktop
     padding: 9px 5px;
   }
   .menu_item .main:hover{
-    color: #FF0000;
+    color: #F04C4D;
   }
   .sub button:hover{
-    color: #FF0000;
+    color: #F04C4D;
   }
   .sub button{
     margin: 0px;
@@ -247,7 +247,7 @@ Mobile
     background-color: white;
     transform: translateX(100%);
     transition: .3s ease-in-out;
-    background-color: #000080;
+    background-color: #373D72;
     display: block;
     color: white;
     overflow-y: scroll;
@@ -288,7 +288,7 @@ Mobile
   }
   .menu-active .sub{
     text-align: left;
-    background-color: #FF0000;
+    background-color: #F04C4D;
   }
 }
 /*
@@ -330,6 +330,10 @@ Footer
 .footer-contact{
   align-self: center;
   padding-left: 20px;
+}
+
+body{
+  background-color: #F9F9F9;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -419,7 +423,21 @@ table {
   align-self: center;
 }
 
+.title--medium{
+  font-size: 18pt;
+  line-height: 27px;
+  text-align: center;
+  font-family: "Suez One";
+  color: #373D72;
+  align-self: center;
+}
+
 .title::before{
+  content: url("../svg/cross.svg");
+  display: block;
+}
+
+.title--medium::before{
   content: url("../svg/cross.svg");
   display: block;
 }
@@ -522,6 +540,10 @@ table {
   .title{
     font-size: 32pt;
   }
+  .title--medium{
+    font-size: 15pt;
+    line-height: 25px;
+  }
   .heading{
     font-size: 30pt;
   }
@@ -587,6 +609,17 @@ table {
   text-shadow: 0px 0px 10px rgba(0,0,0,1);
   line-height: 40px;
   top: 40%;
+  min-width: 280px;
+}
+
+.carousel_title--medium{
+  color: white;
+  font-family: 'Suez One';
+  font-size: 23pt;
+  text-shadow: 0px 0px 10px rgba(0,0,0,1);
+  line-height: 40px;
+  top: 50%;
+  min-width: 280px;
 }
 
 .carousel_event{
@@ -608,11 +641,19 @@ table {
   top: 50%;
 }
 .carousel_link{
-  top: 70%;
+  top: 73%;
 }
 
 /*Mobile*/
 @media only screen and (max-width: 1050px){
+  .carousel_title--medium{
+    color: white;
+    font-family: 'Suez One';
+    font-size: 16pt;
+    text-shadow: 0px 0px 10px rgba(0,0,0,1);
+    line-height: 25px;
+    top: 40%;
+  }
   .carousel-word_mark{
     display: none;
   }
@@ -620,10 +661,10 @@ table {
     height: 50vh;
   }
   .carousel_link{
-    top: 60%;
+    top: 55%;
   }
   .carousel_title{
-    top: 40%;
+    top: 35%;
     font-size: 20pt;
     line-height: 30px;
   }
@@ -764,7 +805,7 @@ https://flickity.metafizzy.co
 }
 
 .flickity-page-dots .dot.is-selected {
-  background: #FF0000;
+  background: #F04C4D;
 }
 
 /*This flex display is just for centering, not for general layout*/
@@ -802,8 +843,9 @@ https://flickity.metafizzy.co
 /*Desktop*/
 @media only screen and (min-width: 1000px){
   .layout_wrapper{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
   }
   .two_column{
     display: flex;
@@ -826,9 +868,9 @@ https://flickity.metafizzy.co
   position: relative;
   align-items: center;
   margin: 20px;
+  margin-bottom: 5px;
 }
 .book_animation{
-  //border: thin dashed white;
   width: 185px;
   height: 165px;
 }
@@ -840,7 +882,6 @@ https://flickity.metafizzy.co
   margin: 30px;
 }
 .book_animations .description{
-  //border: thin dashed white;
   align-self: center;
   width: 240px;
   font-size: 22px;
@@ -849,7 +890,9 @@ https://flickity.metafizzy.co
   text-align: center;
   padding: 35px;
   min-width: 225px;
+  padding-top: 0px;
 }
+
 
 @media only screen and (max-width: 3000px){
   .book_animations{
@@ -958,7 +1001,6 @@ https://flickity.metafizzy.co
     margin-right: auto;
   }
 }
-
 
 .gallery-cell img{
   width: 450px;

@@ -7,9 +7,9 @@
   position: relative;
   align-items: center;
   margin: 20px;
+  margin-bottom: 5px;
 }
 .book_animation{
-  //border: thin dashed white;
   width: 185px;
   height: 165px;
 }
@@ -21,7 +21,6 @@
   margin: 30px;
 }
 .book_animations .description{
-  //border: thin dashed white;
   align-self: center;
   width: 240px;
   font-size: 22px;
@@ -30,7 +29,9 @@
   text-align: center;
   padding: 35px;
   min-width: 225px;
+  padding-top: 0px;
 }
+
 
 @media only screen and (max-width: 3000px){
   .book_animations{

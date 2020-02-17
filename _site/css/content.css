@@ -34,7 +34,21 @@
   align-self: center;
 }
 
+.title--medium{
+  font-size: 18pt;
+  line-height: 27px;
+  text-align: center;
+  font-family: "Suez One";
+  color: #373D72;
+  align-self: center;
+}
+
 .title::before{
+  content: url("../svg/cross.svg");
+  display: block;
+}
+
+.title--medium::before{
   content: url("../svg/cross.svg");
   display: block;
 }
@@ -136,6 +150,10 @@
   }
   .title{
     font-size: 32pt;
+  }
+  .title--medium{
+    font-size: 15pt;
+    line-height: 25px;
   }
   .heading{
     font-size: 30pt;

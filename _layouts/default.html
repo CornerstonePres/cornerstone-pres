@@ -30,7 +30,7 @@
           {% endif %}
           <div class="nav">
               <div class="menu_item">
-                <a href="/about.html"><button {% if page.url == "/about.html" %} style="color: red;" {% endif %} class="main">About</button></a>
+                <a href="/about.html"><button {% if page.url == "/about.html" %} style="color: #F04C4D;" {% endif %} class="main">About</button></a>
                 <div class="sub about">
                   <div><a href="/about.html"><button>Service Details</button></a></div>
                   <div><a href="/about.html#contact"><button>Contact</button></a></div>
@@ -38,7 +38,7 @@
                 </div>
               </div>
               <div class="menu_item">
-                <a href="/events.html"><button {% if page.url == "/events.html" %} style="color: red;" {% endif %} class="main">Events</button></a>
+                <a href="/events.html"><button {% if page.url == "/events.html" %} style='color: #F04C4D;' {% endif %} class="main">Events</button></a>
                 <div class="sub events">
                   <div><a href="/events.html#upcoming-events"><button>Upcoming Events</button></a></div>
                   <div><a href="/events.html#plan-your-own-event"><button>Plan Your Own Event</button></a></div>
@@ -46,14 +46,14 @@
                 </div>
               </div>
               <div class="menu_item">
-                <a href="/services-sermons.html"><button {% if page.url == "/services-sermons.html" %} style="color: red;" {% endif %} class="main">Services & Sermons</button></a>
+                <a href="/services-sermons.html"><button {% if page.url == "/services-sermons.html" %} style="color: #F04C4D;" {% endif %} class="main">Services & Sermons</button></a>
                 <div class="sub services-sermons">
                   <div><a href="/services-sermons.html#what-to-expect"><button>What to Expect</button></a></div>
                   <div><a href="/services-sermons.html#past-sermons"><button>Past Sermons</button></a></div>
                 </div>
               </div>
               <div class ="menu_item">
-                <a href="/youth.html"><button {% if page.url == "/youth.html" %} style="color: red;" {% endif %} class="main">Youth</button></a>
+                <a href="/youth.html"><button {% if page.url == "/youth.html" %} style='color: #F04C4D;' {% endif %} class="main">Youth</button></a>
                 <div class="sub youth">
                   {% for youth in site.youth %}
                     <div><a href="/youth.html#{{youth.title | slugify}}"><button>{{youth.title}}</button></a></div>
@@ -61,7 +61,7 @@
                 </div>
               </div>
               <div class="menu_item">
-                <a href="/connect.html"><button {% if page.url == "/connect.html" %} style="color: red;" {% endif %} class="main">Connect</button></a>
+                <a href="/connect.html"><button {% if page.url == "/connect.html" %} style="color: #F04C4D;" {% endif %} class="main">Connect</button></a>
                 <div class="sub connect">
                   <div><a href="/connect.html#bible-study-small-groups"><button>Bible Study & Small Groups</button></a></div>
                   <div><a href="/connect.html#pastor-leadership"><button>Pastor & Leadership</button></a></div>
@@ -69,7 +69,7 @@
                 </div>
               </div>
               <div class="menu_item">
-                <a href="/volunteer-give.html"><button {% if page.url == "/volunteer-give.html" %} style="color: red;" {% endif %} class="main">Volunteer & Give</button></a>
+                <a href="/volunteer-give.html"><button {% if page.url == "/volunteer-give.html" %} style="color: #F04C4D;" {% endif %} class="main">Volunteer & Give</button></a>
                 <div class="sub volunteer-give">
                   <div><a href="#volunteer-now"><button>Volunteer Now</button></a></div>
                   <div><a href="#volunteer-groups"><button>Volunteer Groups</button></a></div>

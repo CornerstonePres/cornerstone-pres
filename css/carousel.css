@@ -30,6 +30,17 @@
   text-shadow: 0px 0px 10px rgba(0,0,0,1);
   line-height: 40px;
   top: 40%;
+  min-width: 280px;
+}
+
+.carousel_title--medium{
+  color: white;
+  font-family: 'Suez One';
+  font-size: 23pt;
+  text-shadow: 0px 0px 10px rgba(0,0,0,1);
+  line-height: 40px;
+  top: 50%;
+  min-width: 280px;
 }
 
 .carousel_event{
@@ -51,11 +62,19 @@
   top: 50%;
 }
 .carousel_link{
-  top: 70%;
+  top: 73%;
 }
 
 /*Mobile*/
 @media only screen and (max-width: 1050px){
+  .carousel_title--medium{
+    color: white;
+    font-family: 'Suez One';
+    font-size: 16pt;
+    text-shadow: 0px 0px 10px rgba(0,0,0,1);
+    line-height: 25px;
+    top: 40%;
+  }
   .carousel-word_mark{
     display: none;
   }
@@ -63,10 +82,10 @@
     height: 50vh;
   }
   .carousel_link{
-    top: 60%;
+    top: 55%;
   }
   .carousel_title{
-    top: 40%;
+    top: 35%;
     font-size: 20pt;
     line-height: 30px;
   }
