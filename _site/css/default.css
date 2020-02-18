@@ -335,3 +335,7 @@ Footer
 body{
   background-color: #F9F9F9;
 }
+
+html{
+  overflow-x: hidden;
+}

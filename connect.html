@@ -5,31 +5,27 @@ layout: default
 <div class="layout_wrapper">
   <h1 class="title">Bible Study & Small Groups</h1>
   <div id="bible-study-small-groups" style="position:absolute; margin-top: -100px;"></div>
-  <div>
-    {% for group in site.groups %}
-      <div>
-        <h2 class="heading">{{group.title}}</h2>
-        <div class="content_body content">
-          {{group.content | markdownify}}
-        </div>
+  {% for group in site.groups %}
+    <div>
+      <h2 class="heading">{{group.title}}</h2>
+      <div class="content_body content">
+        {{group.content | markdownify}}
       </div>
-    {% endfor %}
-  </div>
+    </div>
+  {% endfor %}
   <div>
     <div id="pastor-leadership" style="position:absolute; margin-top: -100px;"></div>
     <h1 class="title">Pastor & Leadership</h1>
   </div>
-  <div>
-    {% for leader in site.leaders %}
-      <div>
-        <h2 class="heading">{{leader.title}}, {{leader.title_role}}</h2>
-        <div class="content_body content">
-          <img class="content_portait" src="{{leader.photo}}">
-          {{leader.content | markdownify}}
-        </div>
+  {% for leader in site.leaders %}
+    <div>
+      <h2 class="heading">{{leader.title}}, {{leader.title_role}}</h2>
+      <div class="content_body content">
+        <img src="{{leader.photo}}">
+        {{leader.content | markdownify}}
       </div>
-    {% endfor %}
-  </div>
+    </div>
+  {% endfor %}
   <div>
     <div id="photo-gallery" style="position:absolute; margin-top: -100px;"></div>
     <h1 class="title">Photo Gallery</h1>
@@ -39,27 +35,14 @@ layout: default
 
 
 <div class="gallery" data-flickity='{"wrapAround": true, "imagesLoaded": true, "pageDots": false, "fullscreen": true}'>
-  {% assign all_events = site.events %}
-  {%- for event in all_events -%}
-    <div class="gallery-cell">
-        <div class="cell">
-          <img data-flickity-lazyload="orange-tree.jpg" src="{{event.banner_image}}">
-        </div>
-    </div>
+  {%- for image in site.static_files -%}
+    {% if image.path contains 'images/uploads' %}
+      <div class="gallery-cell">
+          <div class="cell">
+            <!--data-flickity-lazyload="orange-tree.jpg"-->
+            <img src="{{image.path}}">
+          </div>
+      </div>
+    {% endif %}
   {%- endfor -%}
-  <div class="gallery-cell">
-      <div class="cell">
-        <img data-flickity-lazyload="orange-tree.jpg" src="/images/uploads/holding_hands.jpg">
-      </div>
-  </div>
-  <div class="gallery-cell">
-      <div class="cell">
-        <img data-flickity-lazyload="orange-tree.jpg" src="/images/uploads/holding_hands.jpg">
-      </div>
-  </div>
-  <div class="gallery-cell">
-      <div class="cell">
-        <img data-flickity-lazyload="orange-tree.jpg" src="/images/uploads/holding_hands.jpg">
-      </div>
-  </div>
 </div>

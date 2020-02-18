@@ -6,30 +6,29 @@ title: About
   <div style="margin-bottom: -7px;"></div>
 </div>
 <div class="layout_wrapper">
-  <div class="two_column">
-    <div>
-      <h2 class="heading">Service Details</h2>
-      <div class="content_body content">
-        {{site.data.about.service_details.content | markdownify}}
-      </div>
-      <div style="margin-bottom: 20px;">
+  <div>
+    <div id="contact" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Contact</h1>
+    <div class="content_body">
+      <a class="link" href="tel:{{site.data.about.contact.tel}}">Phone: {{site.data.about.contact.tel_display}}</a>
+      <br>
+      <br>
+      <a class="link" href="mailto:{{site.data.about.contact.email}}">Email: {{site.data.about.contact.email}}</a>
+    </div>
+  </div>
 
-      </div>
-      <div id="contact" style="position:absolute; margin-top: -100px;"></div>
-      <h2 class="heading">Contact</h2>
-      <div class="content_body">
-        <a class="link" href="tel:{{site.data.about.contact.tel}}">Phone: {{site.data.about.contact.tel_display}}</a>
-        <br>
-        <br>
-        <a class="link" href="mailto:{{site.data.about.contact.email}}">Email: {{site.data.about.contact.email}}</a>
-      </div>
+  <div>
+    <div id="sunday-service-details" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Sunday Service Details</h1>
+    <div class="content_body content">
+      {{site.data.about.service_details.content | markdownify}}
     </div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5437.191067391121!2d-122.970526!3d47.048167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549175ed36616d57%3A0x5cf062c38560042d!2s218%20Overhulse%20Rd%20NW%2C%20Olympia%2C%20WA%2098502!5e0!3m2!1sen!2sus!4v1579796938746!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
   </div>
 
   <div>
     <div id="core-beliefs" style="position:absolute; margin-top: -100px;"></div>
-    <h2 class="heading">Core Beliefs</h2>
+    <h1 class="title">Core Beliefs</h1>
     <div class="content content_body">
       {{site.data.about.core_beliefs.content | markdownify}}
     </div>

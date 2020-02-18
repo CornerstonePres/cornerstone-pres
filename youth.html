@@ -8,7 +8,7 @@ title: Youth
 {% for youth in site.youth %}
   <div>
     <div id="{{youth.title | slugify}}" style="position:absolute; margin-top: -100px;"></div>
-    <h2 class="heading">{{youth.title}}</h2>
+    <h1 class="title">{{youth.title}}</h1>
     <div class="content_body content">
       {{youth.content | markdownify}}
     </div>

@@ -3,11 +3,12 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 30px;
+  margin-top: -30px;
 }
 
 /*Apply Margin to the top of all children of the first level of children*/
 .layout_wrapper>*{
-  margin-top: 30px;
+  margin-top: 60px;
 }
 
 /*Mobile*/
@@ -22,9 +23,6 @@
   .two_column iframe{
     width: 100%;
     height: 300px;
-  }
-  iframe{
-    width: 100%;
   }
 }
 
@@ -47,4 +45,11 @@
     margin-right: 30px;
     width: 90%;
   }
+}
+
+iframe{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 300px;
 }

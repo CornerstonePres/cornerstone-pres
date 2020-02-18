@@ -3,22 +3,23 @@ layout: default
 title: Services & Sermons
 ---
 <div class="layout_wrapper">
-    <div>
-      <h1 class="title">Sunday Service Details</h1>
-      <div class="content_body content">
-        {{site.data.about.service_details.content | markdownify}}
-      </div>
-      <div style="margin-bottom: 20px;">
-
-      </div>
+  <div>
+    <div id="sunday-service-details" style="position:absolute; margin-top: -100px;"></div>
+    <h1 class="title">Sunday Service Details</h1>
+    <div class="content_body content">
+      {{site.data.about.service_details.content | markdownify}}
     </div>
-    <div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5437.191067391121!2d-122.970526!3d47.048167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549175ed36616d57%3A0x5cf062c38560042d!2s218%20Overhulse%20Rd%20NW%2C%20Olympia%2C%20WA%2098502!5e0!3m2!1sen!2sus!4v1579796938746!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+  </div>
+
+  <div>
     <div id="what-to-expect" style="position:absolute; margin-top: -100px;"></div>
     <h1 class="title">What to Expect from a Service</h1>
     <div class="content_body content">
       {{site.data.services_sermons.what_to_expect.content | markdownify}}
     </div>
   </div>
+
   <div>
     <div id="past-sermons" style="position:absolute; margin-top: -100px;"></div>
     <h1 class="title">Past Sermons</h1>

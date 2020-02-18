@@ -11,7 +11,7 @@ title: Cornerstone
     {%- for announcement in site.announcements -%}
       <div class="carousel-cell">
           <div class="cell">
-            <img style="filter: brightness(.8);" src="images/uploads/holding_hands.jpg">
+            <img style="opacity: 1; filter: brightness(.7)" src="images/uploads/20200213_101357_HDR.jpg">
             <h1 class="carousel_event carousel_title--medium">{{ announcement.announcement }}</h1>
           </div>
       </div>
@@ -20,7 +20,7 @@ title: Cornerstone
       {% if event.priority == true %}
         <div class="carousel-cell">
             <div class="cell">
-              <img style="filter: brightness(.8);" src="{{event.banner_image}}">
+              <img style="opacity: 1;" src="{{event.banner_image}}">
               <h1 class="carousel_event carousel_title">{{event.title}}<br>{{event.date | date: '%B %e'}}</h1>
               <a href="{{event.url}}" class="carousel_link carousel_event link link--white">Event Details</a>
             </div>
