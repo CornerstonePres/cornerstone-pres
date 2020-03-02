@@ -15,7 +15,7 @@ html{
 .page_2{
   width: 1008px;
   height: 612px;
-  background: lightgrey;
+  /*background: lightgrey;*/
   font-size: 12px;
   padding: .1px;
   display: flex;
