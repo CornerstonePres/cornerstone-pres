@@ -5,7 +5,7 @@ backend:
 
 media_folder: "images/uploads"
 logo_url: /svg/rainshade.svg
-display_url: http://localhost:4000/
+display_url: http://cornerstonepres.net/printables.html
 collections:
   - name: "site-pages"
     label: Site Pages
