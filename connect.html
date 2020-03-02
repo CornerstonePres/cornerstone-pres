@@ -21,7 +21,9 @@ layout: default
     <div>
       <h2 class="heading">{{leader.title}}, {{leader.title_role}}</h2>
       <div class="content_body content">
-        <img src="{{leader.photo}}">
+        {% assign photo=images['images/uploads/core_beliefs.jpg'] %}
+        <p>{{leader.photo.hieght}}</p>
+        <img src="{{leader.photo | img_url: '100x100'}}">
         {{leader.content | markdownify}}
       </div>
     </div>

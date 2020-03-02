@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:900i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+
 body,
 html{
   width: 1008px;
   height: 1224px;
 }
 
+/* Layout*/
 .page_1,
 .page_2{
   width: 1008px;
@@ -28,7 +35,194 @@ html{
   background: white;
 }
 
+
+/* Connect Tear Off*/
+.connect_line{
+  border: .3pt solid #F51F16;
+  background: #F51F16;
+  margin-top: -11px;
+}
+
+.connect_text{
+  color: #F51F16;
+  font-family: 'Suez One';
+  font-size: 12px;
+}
+.connect_line-space{
+  margin-top: .33in;
+}
+.connect_check-box{
+  display: flex;
+
+}
+.connect_check-box p{
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+}
+.connect_check-box > *{
+  padding-right: 2px;
+}
+
+/* Information */
+.information_cross{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -22px;
+}
+.information_title{
+  text-align: center;
+  color: #150958;
+  font-family: 'Suez One';
+  font-size: 25px;
+}
+.information_description{
+  text-align: center;
+  color: #150958;
+  font-family: 'Suez One';
+  font-size: 12px;
+}
+
+.information_date{
+  font-family: "Roboto";
+  font-weight: 900;
+  color: #150958;
+  font-size: 7px;
+}
+.information_calendar-content{
+  font-family: "Roboto";
+  color: #262626;
+  font-size: 6.5px;
+}
+.information_calendar-2,
+.information_calendar-1{
+  display: flex;
+  flex-direction: row;
+}
+.information_calendar-1 div{
+  border: solid 1px #150958;
+  border-right: none;
+  border-top: none;
+}
+.information_calendar-1 div:last-of-type{
+  border-right: solid 1px #150958;
+}
+.information_calendar-2 div{
+  border: solid 1px #150958;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+}
+.information_calendar-2 div:last-of-type{
+  border-right: solid 1px #150958;
+}
+.information_calendar div div{
+  padding-right: 2px;
+  padding-left: 2px;
+  height: 50px;
+  width: 40px;
+}
+.information_heading{
+  color: #150958;
+  font-family: 'Suez One';
+  font-size: 12px;
+}
+.information_bold{
+  color: #150958;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+}
+.information_regular{
+  color: #262626;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+/* Front Page*/
+.frontpage_date{
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 3px;
+  color: #150958;
+}
+.frontpage_description{
+  margin-top: -12px;
+  font-family: 'Roboto';
+  font-size: 10px;
+  text-align: center;
+  color: #150958;
+}
+
+/* Worship Order */
+
+.worship-order{
+  text-align: center;
+}
+
+/* Content */
+
+.content i{
+  color: #150958;
+  font-size: 12px;
+  font-family: "Suez One";
+  font-style: normal;
+}
+.content code{
+  background: url("../svg/print/cta.svg") no-repeat;
+  background-size: 7px;
+  color: #F51F16;
+  text-decoration: none;
+  padding-left: 8px;
+  font-size: 12px;
+  font-family: "Suez One";
+  background-position: 0% 50%;
+  margin-left: 2px;
+}
+.content strong{
+  background: url("../svg/print/red_bookmark.svg") no-repeat;
+  background-size: 5px;
+  color: #150958;
+  text-decoration: none;
+  padding-left: 8px;
+  font-size: 12px;
+  font-family: "Suez One";
+  background-position: .8% 130%;
+  margin-left: 4px;
+}
+.content{
+  line-height: 13px;
+}
+.worship-order p{
+  font-family: 'Roboto';
+  color: #262626;
+  font-size: 12px;
+  line-height: 15px;
+}
+.red-bookmark{
+  background: url("../svg/print/red_bookmark.svg") no-repeat;
+  background-size: 5px;
+  color: #F51F16;
+  text-decoration: none;
+  padding-left: 8px;
+  font-size: 12px;
+  font-family: "Suez One";
+  background-position: .8% 130%;
+  margin-left: 4px;
+}
 /*
+.red-bookmark::before{
+  content: url("../svg/print/red_bookmark.svg");
+  position: absolute;
+  margin-left: -7px;
+  margin-top: 2px;
+}
+
+/*
+SPECS
+
 width of bulletin: 1008
 hieght of bulletin: 612
 margin: 18
