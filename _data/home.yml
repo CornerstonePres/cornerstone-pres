@@ -28,3 +28,8 @@ service_details:
     Main parking: grassy area in front, additional parking behind. Accessible
     parking: asphalt directly by the entrance.
   service_time: '10'
+social_media_links:
+  facebook: '/123.html'
+  youtube: '/123.html'
+  twitter: '/123.html'
+  instagram: '/123.html'
