@@ -17,13 +17,16 @@ layout: default
     <div id="pastor-leadership" style="position:absolute; margin-top: -100px;"></div>
     <h1 class="title">Pastor & Leadership</h1>
   </div>
+  <div>
+    <h2 class="heading">{{site.data.pastor.title}}, {{site.data.pastor.title_role}}</h2>
+    <div class="content_body content">
+      {{site.data.pastor.body | markdownify}}
+    </div>
+  </div>
   {% for leader in site.leaders %}
     <div>
       <h2 class="heading">{{leader.title}}, {{leader.title_role}}</h2>
       <div class="content_body content">
-        {% assign photo=images['images/uploads/core_beliefs.jpg'] %}
-        <p>{{leader.photo.hieght}}</p>
-        <img src="{{leader.photo | img_url: '100x100'}}">
         {{leader.content | markdownify}}
       </div>
     </div>
