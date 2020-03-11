@@ -469,7 +469,7 @@ table {
 }
 
 /*No space between header and first paragraph*/
-.content p:first-child{
+.content p:first-of-type{
   margin-top: 0px;
 }
 
@@ -491,8 +491,9 @@ table {
 .content_body img{
   width: 300px;
   float: left;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   padding-right: 10px;
+  margin:0px;
 }
 .content_body p{
   margin-bottom: 5px;
@@ -552,7 +553,7 @@ table {
     font-size: 30pt;
   }
   .content_body img{
-    width: 250px;
+    width: 90%;
   }
   .content a,
   .link{
