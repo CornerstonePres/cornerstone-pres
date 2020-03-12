@@ -1,5 +1,4 @@
 ---
 title: Lent Announcement
-announcement: Lent begins February 26th
+announcement: Welcome to the Season of LENT
 ---
-
