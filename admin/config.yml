@@ -182,6 +182,13 @@ collections:
               - label: "Content"
                 name: "content"
                 widget: "markdown"
+      - label: "Live Streaming"
+        name: "live"
+        file: "_data/live.yml"
+        fields:
+          - label: "Live Stream Link"
+            name: "live_stream_link"
+            widget: "string"
   - label: "Event"
     name: "events"
     folder: "_events"
