@@ -7,4 +7,4 @@ map_link: 'https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw'
 banner_image: /images/uploads/holding_hands.jpg
 priority: true
 ---
-Join us in worship through a Youtube live stream.
+Join us as we live stream Worship for Cornerstone Presbyterian Church from the home of Pastor Jen.
