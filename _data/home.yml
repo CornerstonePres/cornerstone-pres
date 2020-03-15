@@ -29,7 +29,7 @@ service_details:
     parking: asphalt directly by the entrance.
   service_time: '10'
 social_media_links:
-  facebook: N/A
+  facebook: 'https://www.facebook.com/CornerstonePresOly/'
   youtube: 'https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw'
-  twitter: N/A
-  instagram: N/A
+  twitter: 'https://twitter.com/CPColy'
+  instagram: 'https://www.instagram.com/cornerstonepresoly/'
