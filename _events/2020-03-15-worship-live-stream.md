@@ -1,9 +1,9 @@
 ---
 title: Worship Live Stream
-date: 'March 15, 2020 10:00 AM'
+date: 'March 22, 2020 10:00 AM'
 layout: event
 location: Youtube Live Stream
-map_link: 'https://www.youtube.com/watch?v=-f7EP6WYa_Q'
+map_link: 'https://youtu.be/9ZyO4xe3JrI'
 banner_image: /images/uploads/holding_hands.jpg
 priority: true
 ---
