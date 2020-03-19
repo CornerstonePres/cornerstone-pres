@@ -1,10 +1,10 @@
 ---
 title: Midweek Meditation
-date: 'March 18, 2020 5:00 PM'
+date: 'March 25, 2020 12:00 PM'
 layout: event
 location: Cornerstone Church Youtube Channel
-map_link: 'rtmp://a.rtmp.youtube.com/live2'
+map_link: 'https://youtu.be/W42fKrQ30aA'
 banner_image: /images/uploads/20200213_101357_HDR.jpg
 priority: false
 ---
-Join Pastor Jen for a 5 minute meditation. rtmp://a.rtmp.youtube.com/live2
+Join Pastor Jen for a 5 minute meditation.
