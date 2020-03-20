@@ -8,7 +8,21 @@ title: Sunday Morning Small Group
 [(360) 754-7749](tel:360-754-7749)\
 [admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
 
-During the COVID-19 social distancing, this group is meeting via ZOOM. For Sunday, March 22nd, we will be asking ourselves the questions presented by Humanities Washington "Cabin Fever #2":
+During the COVID-19 social distancing, this group is meeting via ZOOM.
+
+Topic: Humanities Washington "Cabin Fever #2"
+
+Join Zoom Meeting https://us04web.zoom.us/j/3116804612
+
+Meeting ID: 311 680 4612
+
+One tap mobile ,,3116804612# US Toll
+
+Dial by your location          US Toll
+
+Meeting ID: 311 680 4612 Find your local number: https://us04web.zoom.us/u/fb7D1RiwlT
+
+For Sunday, March 22nd, we will be asking ourselves the questions presented by Humanities Washington "Cabin Fever #2":
 
 [Is Truth Really Dead in America? (Full Speakers Bureau Talk)](https://click.icptrack.com/icp/relay.php?r=75093950&msgid=136612&act=RRUS&c=1773169&destination=https%3A%2F%2Fwww.tvw.org%2Fwatch%2F%3FeventID%3D2019051092 "This external link will open in a new window")
 
