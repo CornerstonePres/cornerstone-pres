@@ -1,6 +1,8 @@
 ---
 title: Homework Club Team
 ---
+**COVID-19 announcement:** During this time, Homework Club meets Wednesday at 6 p.m. using ZOOM. If you are interested in receiving tutoring for your homework, please contact Pastor Jen at pastor@cornerstonepres.net and she will get you connected to the ZOOM "join this meeting" link.
+
 **Every Wednesday**, while school is in session\
 **5:30 PM** until **8:00 PM**\
 \
