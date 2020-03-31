@@ -1,4 +1,4 @@
 ---
 title: Lent Announcement
-announcement: Welcome to the Season of LENT
+announcement: CELEBRATE the King of kings - Palm Sunday
 ---
