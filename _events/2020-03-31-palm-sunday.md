@@ -3,7 +3,7 @@ title: PALM SUNDAY
 date: 'April 5, 2020 10:30 AM'
 layout: event
 location: '218 Overhulse Rd NW  Olympia, WA'
-map_link: 'https://goo.gl/maps/Jt1RzKR5NJoPkWxc6'
+map_link: jhz4-1yeg-g0fr-ezg5
 banner_image: /images/uploads/20200323_160128.jpg
 priority: true
 ---
