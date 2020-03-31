@@ -1,6 +1,6 @@
 ---
 title: Worship Live Stream
-date: 'March 22, 2020 10:00 AM'
+date: 'April 5, 2020 10:00 AM'
 layout: event
 location: Youtube Live Stream
 map_link: 'https://youtu.be/9ZyO4xe3JrI'
