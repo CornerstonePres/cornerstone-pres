@@ -1,6 +1,8 @@
 ---
 title: Music & Worship Team
 ---
+**COVID-19 announcement:** during this time this group will not be rehearsing. Music will shared in an email with participants in the ZOOM worship at 10 a.m. For more information contact Pastor Jen at pastor@cornerstonepres.net
+
 Rehearsals **every Sunday** \
 **9:15 AM** before [Service](about.html#service-details)
 
