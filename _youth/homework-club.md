@@ -1,6 +1,10 @@
 ---
 title: Homework Club
 ---
+**DURING COVID-19:** We are meeting using ZOOM every Wednesday at 6 p.m. If you have a person who wants tutoring during this time, please email Pastor Jen. She will see that you get connected.  pastor@cornerstonepres.net 
+
+
+
 **Every Wednesday**, while school is in session\
 **5:30 PM** until **8:00 PM**\
 \
