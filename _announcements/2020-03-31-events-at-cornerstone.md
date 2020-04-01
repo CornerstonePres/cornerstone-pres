@@ -1,6 +1,4 @@
 ---
 title: EVENTS at CORNERSTONE
-announcement: >-
-  COVID-19 ~ Worship will begin at 10 a.m using ZOOM with a Youtube Live Stream
-  of the message at 10:30
+announcement: COVID-19 RESPONSE ~ Worship will begin at 10 a.m jointly on Youtube and ZOOM.
 ---
