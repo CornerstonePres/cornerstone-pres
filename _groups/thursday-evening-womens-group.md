@@ -5,6 +5,4 @@ title: Thursday Evening Women's Group
 [(360) 754-7749](tel:360-754-7749)\
 [admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
 
-Join us during the COVID-19 via ZOOM as we continue our study in Ephesians. 
-
-A link to the ZOOM "join this meeting" will be included on this page the day of the small group.
+COVID-19 response. This group is meeting using ZOOM. For more information about joining this small group contact Pastor Jen: pastor@cornerstonepres.net
