@@ -1,7 +1,7 @@
 ---
 title: Sunday Lunch Small Group
 ---
-**DURING COVID-19:** during this time this group will not meet.
+**DURING COVID-19:** this group will not meet.
 
 **Every other Sunday**\
 **11:30 AM**, after Service
