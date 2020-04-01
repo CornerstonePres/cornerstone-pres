@@ -7,4 +7,4 @@ map_link: jhz4-1yeg-g0fr-ezg5
 banner_image: /images/uploads/20200323_160128.jpg
 priority: true
 ---
-CELEBRATE the King of kings this PALM SUNDAY - Live streaming Worship at 10:30 a.m.
+CELEBRATE the King of kings this PALM SUNDAY - Live streaming Worship at 10:00 a.m.
