@@ -1,6 +1,6 @@
 ---
 title: Today's SPIRITUAL PRACTICE
-date: 'April 1, 2020 7:00 PM'
+date: 'April 2, 2020 7:00 PM'
 layout: event
 location: '218 Overhulse Rd. NW Olympia, WA'
 map_link: 'https://goo.gl/maps/Jt1RzKR5NJoPkWxc6'
