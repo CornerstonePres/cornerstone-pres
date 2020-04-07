@@ -1,5 +1,5 @@
 ---
-title: Today's SPIRITUAL PRACTICE
+title: WEEKLY SPIRITUAL PRACTICE
 date: 'April 8, 2020 7:00 PM'
 layout: event
 location: '218 Overhulse Rd. NW Olympia, WA'
@@ -7,9 +7,9 @@ map_link: 'https://goo.gl/maps/Jt1RzKR5NJoPkWxc6'
 banner_image: /images/uploads/20200331_112638.jpg
 priority: false
 ---
-TODAY's SPIRITUAL PRACTICE: Breath Prayer
+This week's SPIRITUAL PRACTICE: the Breath Prayer
 
-This spiritual practice can be as long or short in enduration as you choose. The use of a breath prayer in your regular spiritual practices encourages the practioner to pause in the day. 
+This spiritual practice can be as long or short in duration as you choose. The use of a breath prayer in your regular spiritual practices encourages the practioner to pause in the day. 
 
 Begin by finding a quiet space with no distractions. Close your eyes if this helps you to disclude any visual distractions. Take a deep breath focusing your mind into the lower back side of your lungs for a count of 4, pause, release the breath for a count of 4. Do this a few times as you clear any thoughts. As an imagery assist - acknowledge the thought, visualize yourself opening the door and escorting the thought out, close the door.
 
