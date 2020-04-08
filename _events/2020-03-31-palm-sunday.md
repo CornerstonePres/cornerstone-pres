@@ -7,4 +7,4 @@ map_link: https://youtu.be/SnfKUZeVjSU
 banner_image: /images/uploads/milliefritzmolly-002-.jpg
 priority: true
 ---
-CELEBRATE EASTER SUNDAY - Live streaming Worship at 10:30 a.m. https://youtu.be/SnfKUZeVjSU
+CELEBRATE EASTER SUNDAY - Live streaming Worship at **10:30 a.m.** https://youtu.be/SnfKUZeVjSU
