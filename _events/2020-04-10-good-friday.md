@@ -5,7 +5,7 @@ layout: event
 location: https://youtu.be/uOjFwi6i_Ik
 map_link: https://youtu.be/uOjFwi6i_Ik
 banner_image: /images/uploads/20200410_094710.jpg
-priority: false
+priority: true
 ---
 7 p.m. Today
 
