@@ -1,6 +1,6 @@
 ---
 title: Worship Live Stream
-date: April 12, 2020 10:30 AM
+date: April 19, 2020 10:30 AM
 layout: event
 location: https://youtu.be/SnfKUZeVjSU
 map_link: https://youtu.be/SnfKUZeVjSU
