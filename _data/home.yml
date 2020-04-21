@@ -1,35 +1,33 @@
-mission-statement: >-
-  Cornerstone is a Christ-centered community, helping people of all ages love
-  God, love others, and serve the world.
+mission-statement: Cornerstone is a Christ-centered community, helping people of
+  all ages love God, love others, and serve the world.
 featured-content:
   featured-content-1:
-    content_link: 'http://cornerstonepres.net/youth.html#homework-club'
-    description: >-
-      Do your kids need help with homework? Cornerstone's COVID-19 response: we
-      meet with students using ZOOM during this time.
+    content_link: http://cornerstonepres.net/youth.html#homework-club
+    description: "Do your kids need help with homework? Cornerstone's COVID-19
+      response: we meet with students using ZOOM during this time."
     image: /images/uploads/homework_club.jpg
     title: Homework Club
   featured-content-2:
-    content_link: 'http://cornerstonepres.net/connect.html#bible-study-small-groups'
-    description: ' We treasure supporting one another in the walk of faith. Our small group Bible studies are ideal for this purpose! Discuss scripture at a time, place, and date that best fits your schedule.'
+    content_link: http://cornerstonepres.net/connect.html#bible-study-small-groups
+    description: " We treasure supporting one another in the walk of faith. Our
+      small group Bible studies are ideal for this purpose! Discuss scripture at
+      a time, place, and date that best fits your schedule."
     image: /images/uploads/small_groups.jpg
     title: Small Groups
   featured-content-3:
-    content_link: 'http://cornerstonepres.net/about.html#core-beliefs'
-    description: >-
-      We’d love you to learn more about our specific theological beliefs here.
-      Cornerstone is a ministry of the Presbyterian Church (U.S.A.).
+    content_link: http://cornerstonepres.net/about.html#core-beliefs
+    description: We’d love you to learn more about our specific theological beliefs
+      here. Cornerstone is a ministry of the Presbyterian Church (U.S.A.).
     image: /images/uploads/core_beliefs.jpg
     title: Core Beliefs
 service_details:
-  location: '218 Overhulse Rd NW, Olympia, WA 98502'
-  map_link: 'https://goo.gl/maps/TvVcS3g61n1gnLrY8'
-  parking_description: >-
-    Main parking: grassy area in front, additional parking behind. Accessible
-    parking: asphalt directly by the entrance.
-  service_time: '10'
+  location: 218 Overhulse Rd NW, Olympia, WA 98502
+  map_link: https://goo.gl/maps/TvVcS3g61n1gnLrY8
+  parking_description: "Main parking: grassy area in front, additional parking
+    behind. Accessible parking: asphalt directly by the entrance."
+  service_time: 10:30
 social_media_links:
-  facebook: 'https://www.facebook.com/CornerstonePresOly/'
-  youtube: 'https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw'
-  twitter: 'https://twitter.com/CPColy'
-  instagram: 'https://www.instagram.com/cornerstonepresoly/'
+  facebook: https://www.facebook.com/CornerstonePresOly/
+  youtube: https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw
+  twitter: https://twitter.com/CPColy
+  instagram: https://www.instagram.com/cornerstonepresoly/
