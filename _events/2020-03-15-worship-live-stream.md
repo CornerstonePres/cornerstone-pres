@@ -1,5 +1,5 @@
 ---
-title: Worship Live Stream
+title: Sunday Worship
 date: April 26, 2020 10:30 AM
 layout: event
 location: https://youtu.be/V7Uvxs28tn4
