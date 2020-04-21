@@ -7,4 +7,4 @@ map_link: https://youtu.be/V7Uvxs28tn4
 banner_image: /images/uploads/20200410_094710.jpg
 priority: false
 ---
-Join us Sundays as we live stream Worship from Cornerstone Presbyterian Church on Youtube at **10:30 a.m.**  https://youtu.be/Q6gXg07_2i8
+Join us Sundays as we live stream Worship from Cornerstone Presbyterian Church on Youtube at **10:30 a.m.**
