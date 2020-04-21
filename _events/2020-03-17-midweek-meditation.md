@@ -11,6 +11,4 @@ Join Pastor Jen each Wednesday at noon for a 5 minute meditation.
 
 Scripture readings follow the Daily Lectionary from the Common Book of Worship. This week's scriptures are
 
-
-
-https://youtu.be/UCp_x_MtZkFGvUNla6Ukohsw?
+https://youtu.be/UCp_x_MtZkFGvUNla6Ukohsw
