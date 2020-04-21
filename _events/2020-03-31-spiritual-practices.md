@@ -11,7 +11,7 @@ This week's SPIRITUAL PRACTICE: Lectio Divina
 
 You will need your Bible and something to write with and upon. 
 
-You may choose to start your day with this practice and find that it "walks with you" through the day. Or in the evening as you come to close of the day, the practice may offer you solace, peace of mind, and calming of anxieties.
+You may choose to start your day with this practice and find that it "walks with you" through the day; or, in the evening as you come to close of the day, the practice may offer you solace, peace of mind, and calming of anxieties.
 
 Lectio Divina is the practice of prayerfully reading scripture. The scriptures are God's Word spoken to you in the present moment - alive, the Living Word.
 
