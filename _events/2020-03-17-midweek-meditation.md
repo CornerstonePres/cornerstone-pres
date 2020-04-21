@@ -13,4 +13,4 @@ Scripture readings follow the Daily Lectionary from the Common Book of Worship. 
 
 Psalm 110 and John 21:15-25
 
-https://youtu.be/g6sz-4s2j-e7t3-93ee
+https://youtu.be/UCp_x_MtZkFGvUNla6Ukohsw?
