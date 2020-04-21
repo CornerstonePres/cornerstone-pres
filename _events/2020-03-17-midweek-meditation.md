@@ -2,7 +2,7 @@
 title: Midweek Meditation
 date: April 22, 2020 12:00 PM
 layout: event
-location: 218 Overhulse Road NW
+location: https://youtu.be/Q6gXg07_2i8
 map_link: https://youtu.be/Q6gXg07_2i8
 banner_image: /images/uploads/20200323_160240.jpg
 priority: false
