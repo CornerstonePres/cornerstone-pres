@@ -25,7 +25,7 @@ service_details:
   map_link: https://goo.gl/maps/TvVcS3g61n1gnLrY8
   parking_description: "Main parking: grassy area in front, additional parking
     behind. Accessible parking: asphalt directly by the entrance."
-  service_time: 10:30
+  service_time: "10"
 social_media_links:
   facebook: https://www.facebook.com/CornerstonePresOly/
   youtube: https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw
