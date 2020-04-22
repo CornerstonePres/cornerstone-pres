@@ -22,7 +22,7 @@ title: {{title}}
 <div>
   <h2 class="heading">{{page.date | date: '%B %e'}}</h2>
   <div class="content_body content">
-    <strong>{{page.date | date: '%A'}} at {{page.date | date: "%l%P"}}</strong>
+    <strong>{{page.date | date: "%A at %I:%M%P"}}</strong>
     <br>
     <a href="{{page.map_link}}" class="link">{{page.location}}</a>
     {{content}}
