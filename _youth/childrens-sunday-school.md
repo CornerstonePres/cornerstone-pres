@@ -3,7 +3,7 @@ title: Children's Sunday School
 ---
 **COVID-19 announcement:** during this time we will not be holding children's Sunday School.
 
-**Every Sunday**, during [Service](about.html#service-details)\
+**Every Sunday**, During Service\
 \
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
