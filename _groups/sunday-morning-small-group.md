@@ -4,7 +4,7 @@ title: Sunday Morning Small Group
 **COVID-19 RESPONSE:** we are meeting using ZOOM. contact Pastor Jen for more information at pastor@cornerstonepres.net
 
 **Every Sunday**\
-**9:00 AM**, before [Service](about.html#service-details)
+**9:00 AM**, Before Service
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
