@@ -13,4 +13,4 @@ Scripture readings follow the Daily Lectionary from the Common Book of Worship. 
 
 Psalm 150 and John 17:20-26
 
-https://youtu.be/afsKHMVI6ao
+[Midweek Meditation](https://youtu.be/afsKHMVI6ao)
