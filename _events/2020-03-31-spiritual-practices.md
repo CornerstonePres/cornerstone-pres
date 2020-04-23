@@ -17,7 +17,7 @@ Lectio Divina is the practice of prayerfully reading scripture. The scriptures a
 
 Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we cannot live by bread alone, but by every word that proceeds from your mouth. Give us a hunger for your Word, and in that food satisfy our daily need; through Jesus the Christ. Amen" [*Book of Common Worship*, p. 20]. repeat this prayer until you feel ready to be open to what God's Living Word is speaking today.
 
-Read The Gospel of John chapter 17, verses 20 through 26 \[John 17:20-26]
+Choose a Bible passage (*for example*): The Gospel of John chapter 17, verses 20 through 26 \[John 17:20-26]
 
 During your second reading of John 17:20-26 write down the verse you notice most.
 
