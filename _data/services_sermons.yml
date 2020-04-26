@@ -48,3 +48,6 @@ what_to_expect:
 past_sermons:
   featured_sermon_video_id: https://youtu.be/V7Uvxs28tn4
   youtube_channel_link: https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw
+  past_sermon_links:
+    - video_title: Test 123
+      video_link: This is a Test!
