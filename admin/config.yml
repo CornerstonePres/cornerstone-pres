@@ -153,6 +153,12 @@ collections:
               - label: "Youtube Channel Link"
                 name: "youtube_channel_link"
                 widget: "string"
+              - label: "Past Sermon Links"
+                name: "past_sermon_links"
+                widget: "list"
+                fields:
+                  - {label: Video Title, name: video_title, widget: string}
+                  - {label: Video Link, name: video_link, widget: string}
       - label: "Events Page"
         name: "events"
         file: "_data/events.yml"

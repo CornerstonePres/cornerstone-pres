@@ -25,6 +25,14 @@ title: Services & Sermons
     <h1 class="title">Past Sermons</h1>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/{{site.data.services_sermons.past_sermons.featured_sermon_video_id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
-    <a class="link" href="{{site.data.services_sermons.past_sermons.youtube_channel_link}}">Watch More</a>
+    <a class="link" href="{{site.data.services_sermons.past_sermons.youtube_channel_link}}">More On Youtube</a>
+  </div>
+  <div>
+    <h2 class="heading">Past Sermon Links</h2>
+    <div class="content_body content">
+      {% for link in site.data.services_sermons.past_sermon_links %}
+        <a class="link" href="{{link.video_title}}">{{link.video_link}}</a>
+      {% endfor %}
+    </div>
   </div>
 </div>
