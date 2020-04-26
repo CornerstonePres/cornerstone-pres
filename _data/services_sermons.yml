@@ -49,5 +49,13 @@ past_sermons:
   featured_sermon_video_id: https://youtu.be/V7Uvxs28tn4
   youtube_channel_link: https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw
   past_sermon_links:
-    - video_title: Test 123
-      video_link: This is a Test!
+    - video_title: April 19 2020
+      video_link: https://www.youtube.com/watch?v=V7Uvxs28tn4
+    - video_link: https://www.youtube.com/watch?v=SnfKUZeVjSU
+      video_title: Easter Sunday
+    - video_title: Good Friday Reflection
+      video_link: https://www.youtube.com/watch?v=uOjFwi6i_Ik
+    - video_title: Palm Sunday
+      video_link: https://www.youtube.com/watch?v=wJDM0CFh2i8&feature=youtu.be
+    - video_title: March 29 2020
+      video_link: https://youtu.be/be3Fl16u7a0
