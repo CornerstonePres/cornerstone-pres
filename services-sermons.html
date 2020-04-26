@@ -30,8 +30,11 @@ title: Services & Sermons
   <div>
     <h2 class="heading">Past Sermon Links</h2>
     <div class="content_body content">
+      <br>
       {% for link in site.data.services_sermons.past_sermons.past_sermon_links %}
         <a class="link" href="{{link.video_link}}">{{link.video_title}}</a>
+        <br>
+        <br>
       {% endfor %}
     </div>
   </div>
