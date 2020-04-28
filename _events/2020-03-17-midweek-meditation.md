@@ -1,6 +1,6 @@
 ---
 title: Midweek Meditation
-date: April 22, 2020 12:00 PM
+date: April 29, 2020 12:00 PM
 layout: event
 location: https://youtu.be/FX2uE4IYuV0
 map_link: https://youtu.be/FX2uE4IYuV0
