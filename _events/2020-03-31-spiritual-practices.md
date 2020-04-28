@@ -1,6 +1,6 @@
 ---
 title: WEEKLY SPIRITUAL PRACTICE
-date: April 21, 2020 12:00 AM
+date: April 28, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
