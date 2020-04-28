@@ -11,7 +11,7 @@ This week's SPIRITUAL PRACTICE: *Creative Time with God*
 
 Jeremiah 18:1-6 
 
-This is the word that came to Jeremiah from the LORD: "Go down to the potter's house, and there I will give you my message." So I went down to the potter's house, and I saw him working at the wheel. But the pot he was shaping from the lcay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him. 
+This is the word that came to Jeremiah from the LORD: "Go down to the potter's house, and there I will give you my message." So I went down to the potter's house, and I saw him working at the wheel. But the pot he was shaping from the clay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him. 
 
 Then the word of the LORD came to me. He said, "Can I not do with you, Israel, as this potter does?" declares the LORD. "Like clay in the hand of the potter, so are you in my hand, Israel."
 
