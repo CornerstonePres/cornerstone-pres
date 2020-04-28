@@ -7,22 +7,12 @@ map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/whoislimos-kfvmyjk6hz8-unsplash.jpg
 priority: false
 ---
-This week's SPIRITUAL PRACTICE: Lectio Divina
+This week's SPIRITUAL PRACTICE: *Creative Time with God*
 
-You will need your Bible and something to write with and upon. 
+Jeremiah 18:1-6 
 
-You may choose to start your day with this practice and find that it "walks with you" through the day; or, in the evening as you come to close of the day, the practice may offer you solace, peace of mind, and calming of anxieties.
+This is the word that came to Jeremiah from the LORD: "Go down to the potter's house, and there I will give you my message." So i went down to the potter's house, and I saw him working at the wheel. But the pot he was shaping from the lcay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him. 
 
-Lectio Divina is the practice of prayerfully reading scripture. The scriptures are God's Word spoken to you in the present moment - alive, the Living Word.
+Then the word of the LORD came to me. He said, "Can I not do with you, Israel, as this potter does?" declares the LORD. "Like clay in the hand of the potter, so are you in my hand, Israel."
 
-Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we cannot live by bread alone, but by every word that proceeds from your mouth. Give us a hunger for your Word, and in that food satisfy our daily need; through Jesus the Christ. Amen" [*Book of Common Worship*, p. 20]. Repeat this prayer until you feel ready to be open to what God's Living Word is speaking today.
-
-Choose a Bible passage (*for example*): The Gospel of John chapter 17, verses 20 through 26 \[John 17:20-26]
-
-During your second reading of John 17:20-26 write down the verse you notice most.
-
-In your third reading of John 17:20-26 write down all words that speak to your mind, heart, and spirit.
-
-Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write this down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
-
-Close your practice with **Prayer and Blessing**: "O Lord our God, you are always more ready to bestow your good gifts upon us than we are to seek them. You are more willing to give than we desire or deserve. Help us so to seek that we may truly find, so to ask that we may joyfully receive, so to knock that the door of mercy may be opened for us; through Jesus Christ our Lord. Amen" [*Book of Common Worship*, p. 361]
+Just as God instructed Jeremiah to discover Go'ds message for the people through artistic metaphors (the clay that was marred, destroyed, and recrafted) our spiritual time with God can be built up through creative directions. Perhaps you enjoy gardening, turning clay, painting, making music, writing, taking photographs, buildling houses or spaces within houses, coloring, drawing, or decorating.  In your personal creative expressions this week, make time to intentionally notice what your spirit hears, sees, and creates. Seek the meaning on that spiritual level for surely God is present. Seek me and you will find me (Matthew 7:7)
