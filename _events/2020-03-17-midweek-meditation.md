@@ -2,8 +2,8 @@
 title: Midweek Meditation
 date: April 22, 2020 12:00 PM
 layout: event
-location: https://www.youtube.com/watch?v=afsKHMVI6ao
-map_link: https://www.youtube.com/watch?v=afsKHMVI6ao
+location: https://youtu.be/FX2uE4IYuV0
+map_link: https://youtu.be/FX2uE4IYuV0
 banner_image: /images/uploads/20200323_160240.jpg
 priority: false
 ---
@@ -13,4 +13,4 @@ Scripture readings follow the Daily Lectionary from the Common Book of Worship. 
 
 Psalm 150 and John 17:20-26
 
-[Midweek Meditation](https://youtu.be/afsKHMVI6ao)
+[April 29, 2020](https://youtu.be/FX2uE4IYuV0)
