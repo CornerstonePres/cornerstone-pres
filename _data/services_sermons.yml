@@ -52,6 +52,8 @@ past_sermons:
   featured_sermon_video_id: https://youtu.be/aV2xVcDb5N0
   youtube_channel_link: https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw
   past_sermon_links:
+    - video_title: April 26 2020
+      video_link: https://youtu.be/aV2xVcDb5N0
     - video_title: April 19 2020
       video_link: https://www.youtube.com/watch?v=V7Uvxs28tn4
     - video_link: https://www.youtube.com/watch?v=SnfKUZeVjSU
@@ -62,5 +64,3 @@ past_sermons:
       video_link: https://www.youtube.com/watch?v=wJDM0CFh2i8&feature=youtu.be
     - video_title: March 29 2020
       video_link: https://youtu.be/be3Fl16u7a0
-    - video_title: April 26 2020
-      video_link: https://youtu.be/aV2xVcDb5N0
