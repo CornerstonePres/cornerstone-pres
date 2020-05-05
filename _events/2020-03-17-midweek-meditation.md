@@ -1,16 +1,18 @@
 ---
 title: Midweek Meditation
-date: April 29, 2020 12:00 PM
+date: May 6, 2020 12:00 PM
 layout: event
-location: https://youtu.be/FX2uE4IYuV0
-map_link: https://youtu.be/FX2uE4IYuV0
+location: https://youtu.be/ngDVvwsOgeE
+map_link: https://youtu.be/ngDVvwsOgeE
 banner_image: /images/uploads/20200323_160240.jpg
 priority: false
 ---
-Join Pastor Jen each Wednesday at noon for a 5 minute meditation.
+Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
 Scripture readings follow the Daily Lectionary from the Common Book of Worship. This week's scriptures are
 
-Psalm 89:1-5 and Luke 4:38-44
+Psalm 95
 
-[April 29, 2020](https://youtu.be/FX2uE4IYuV0)
+Luke 12:22-31
+
+[May 6 2020](https://youtu.be/ngDVvwsOgeE)
