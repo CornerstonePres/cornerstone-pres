@@ -5,7 +5,7 @@ layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/whoislimos-kfvmyjk6hz8-unsplash.jpg
-priority: false
+priority: true
 ---
 SPIRITUAL PRACTICE for the week of May 5-11: *Taking Time to Notice*
 
