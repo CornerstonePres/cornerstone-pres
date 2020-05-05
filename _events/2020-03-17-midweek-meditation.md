@@ -9,7 +9,7 @@ priority: false
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
-Scripture readings follow the Daily Lectionary from the Common Book of Worship. This week's scriptures are
+Scripture readings follow the Daily Lectionary from the Book of Common Worship. This week's scriptures are:
 
 Psalm 95
 
