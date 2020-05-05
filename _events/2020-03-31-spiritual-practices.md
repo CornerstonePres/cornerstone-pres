@@ -1,18 +1,18 @@
 ---
-title: WEEKLY SPIRITUAL PRACTICE
-date: April 28, 2020 12:00 AM
+title: SPIRITUAL PRACTICE
+date: May 5, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/whoislimos-kfvmyjk6hz8-unsplash.jpg
 priority: false
 ---
-This week's SPIRITUAL PRACTICE: *Creative Time with God*
+SPIRITUAL PRACTICE for the week of May 5-11: *Taking Time to Notice*
 
-Jeremiah 18:1-6 
+Two weeks ago was the anniversary of my eldest sibling's death. Her favorite symbolic creation was the dragonfly. The dragonfly reminded her of transformation - God's transforming power that makes all things new. As with many people whose loved one has passed, we often notice their favorite bird or their favorite creation and are reminded of their presence in our life. I was grieving the morning of the anniversary when my daughter called. She noticed my sadness and said, "I hope you see a dragonfly today."
 
-This is the word that came to Jeremiah from the LORD: "Go down to the potter's house, and there I will give you my message." So I went down to the potter's house, and I saw him working at the wheel. But the pot he was shaping from the clay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him. 
+The afternoon was bright and sunny despite my grief. I decided to take a walk that afternoon and get a dose of sun and scenery.  Midway through the walk I was looking down at my dog sniffing the smells all around him - noticing what other creatures had left their scent, when I noticed a shadow on the pavement. The shadow was of a giant dragonfly. As my gaze wandered up, I spotted it directly in front of me. It hovered there for a few moments before zipping away in search of what it would notice in its existence.
 
-Then the word of the LORD came to me. He said, "Can I not do with you, Israel, as this potter does?" declares the LORD. "Like clay in the hand of the potter, so are you in my hand, Israel."
+Our time here is brief my friends. 
 
-Just as God instructed Jeremiah to discover God's message for the people through artistic metaphors (the clay that was marred, destroyed, and recrafted) our spiritual time with God can be built up through creative directions. Perhaps you enjoy gardening, turning clay, painting, making music, writing, taking photographs, buildling houses or spaces within houses, coloring, drawing, or decorating.  In your personal creative expressions this week, make time to intentionally notice what your spirit hears, sees, and creates. Seek the meaning on that spiritual level for surely God is present. Seek me and you will find me (Matthew 7:7)
+Take Time to Notice each day this week the wonders God has in store for you.
