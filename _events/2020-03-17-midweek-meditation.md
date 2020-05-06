@@ -4,7 +4,7 @@ date: May 6, 2020 12:00 PM
 layout: event
 location: https://youtu.be/ngDVvwsOgeE
 map_link: https://youtu.be/ngDVvwsOgeE
-banner_image: /images/uploads/post042820.jpg
+banner_image: /images/uploads/clayhands.jpg
 priority: false
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
