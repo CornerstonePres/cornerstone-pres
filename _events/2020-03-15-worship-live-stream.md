@@ -1,12 +1,12 @@
 ---
 title: Sunday Worship
-date: May 10, 2020 10:25 AM
+date: May 17, 2020 10:25 AM
 layout: event
-location: https://youtu.be/S26nTGLzK1g
-map_link: https://youtu.be/S26nTGLzK1g
+location: https://youtu.be/TwovQAZvRHA
+map_link: https://youtu.be/TwovQAZvRHA
 banner_image: /images/uploads/20200410_094710.jpg
 priority: false
 ---
-Join us Sundays as we live stream Worship from Cornerstone Presbyterian Church on Youtube at **10:30 a.m.**
+Join us Sundays as we live stream Worship from Cornerstone Presbyterian Church on Youtube at around **10:25 a.m.** To participate in the entire worship service, contact us for the ZOOM link. We open worship at 10 a.m. with praise and open prayers of the people.
 
-[May 10 2020](https://youtu.be/S26nTGLzK1g)
+[May 17 2020](https://youtu.be/TwovQAZvRHA)
