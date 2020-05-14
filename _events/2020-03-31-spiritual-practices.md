@@ -4,7 +4,7 @@ date: May 5, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/05052020.jpg
+banner_image: /images/uploads/20200410_094710.webp
 priority: true
 ---
 SPIRITUAL PRACTICE for the week of May 5-11: *Taking Time to Notice*
