@@ -4,7 +4,7 @@ date: May 13, 2020 12:00 PM
 layout: event
 location: https://youtu.be/rG_Z-0r9dzc
 map_link: https://youtu.be/rG_Z-0r9dzc
-banner_image: /images/uploads/11328987013_2903fa6468_c.jpg
+banner_image: /images/uploads/kat-j-7i1wrtrz5qq-unsplash.jpg
 priority: true
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
