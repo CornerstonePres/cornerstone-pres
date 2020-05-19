@@ -1,6 +1,6 @@
 ---
 title: Midweek Meditation
-date: May 13, 2020 12:00 PM
+date: May 20, 2020 12:00 PM
 layout: event
 location: https://youtu.be/rG_Z-0r9dzc
 map_link: https://youtu.be/rG_Z-0r9dzc
