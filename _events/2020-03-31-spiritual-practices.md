@@ -4,7 +4,7 @@ date: May 19, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/11328987013_2903fa6468_c.jpg
+banner_image: /images/uploads/kat-j-7i1wrtrz5qq-unsplash.jpg
 priority: true
 ---
 SPIRITUAL PRACTICE for the week of May 19-25: CONTEMPLATION 
