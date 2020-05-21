@@ -5,7 +5,7 @@ layout: event
 location: https://youtu.be/rG_Z-0r9dzc
 map_link: https://youtu.be/rG_Z-0r9dzc
 banner_image: /images/uploads/jonathan-rados-sbxt82csmxa-unsplash.jpg
-priority: true
+priority: false
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
