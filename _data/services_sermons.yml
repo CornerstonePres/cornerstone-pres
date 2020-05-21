@@ -27,9 +27,13 @@ what_to_expect:
 
     [Join a Volunteer Group](https://www.cornerstonepres.net/volunteer-give.html#volunteer-now)
 past_sermons:
-  featured_sermon_video_id: https://youtu.be/aV2xVcDb5N0
+  featured_sermon_video_id: https://youtu.be/7_DjhA3ow5s
   youtube_channel_link: https://www.youtube.com/channel/UCp_x_MtZkFGvUNla6Ukohsw
   past_sermon_links:
+    - video_link: https://youtu.be/7_DjhA3ow5s
+      video_title: May 17 2020
+    - video_link: https://youtu.be/S26nTGLzK1g
+      video_title: May 10 2020
     - video_title: April 26 2020
       video_link: https://youtu.be/aV2xVcDb5N0
     - video_title: April 19 2020
