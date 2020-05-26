@@ -2,17 +2,17 @@
 title: Midweek Meditation
 date: May 20, 2020 12:00 PM
 layout: event
-location: https://youtu.be/rG_Z-0r9dzc
-map_link: https://youtu.be/rG_Z-0r9dzc
-banner_image: /images/uploads/jonathan-rados-sbxt82csmxa-unsplash.jpg
+location: https://youtu.be/qoM04nfplxc
+map_link: https://youtu.be/qoM04nfplxc
+banner_image: /images/uploads/052620.jpg
 priority: false
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
 Scripture readings follow the Daily Lectionary from the Book of Common Worship. This week's scriptures are:
 
-Psalm 95
+Psalm 63
 
-1 Peter 4:12-19
+John 20:19-23
 
-[May 20 2020 link](https://youtu.be/rG_Z-0r9dzc)
+[May 27 2020 link](https://youtu.be/qoM04nfplxc)
