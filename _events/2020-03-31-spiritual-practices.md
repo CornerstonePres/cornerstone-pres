@@ -4,17 +4,21 @@ date: May 19, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/kat-j-7i1wrtrz5qq-unsplash.jpg
+banner_image: /images/uploads/052620.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for the week of May 19-25: CONTEMPLATION 
+SPIRITUAL PRACTICE for the week of May 26-June 1: Practical Spirituality
 
-Contemplation on God's Suffering
+Next week the church celebrates the remembrance of Pentecost - the giving of the Holy Spirit to the church.  The giving of the Holy Spirit to the church was an initiating event in Christianity. Many consider it the "birthday" of the Church universal. 
 
-Empathy is one of the most powerful perspectives of a human being. The ability to put yourself in someone else's shoes allows you to see each situation from another perspective. It is the top quality of all good leadership. In Emotional Intelligence it is the prime indicator and factor of leadership ability and is a skill that you are able to acquire practically.
+In John's gospel chapter 20 verses 19 through 23 \[John 20:19-23] this week we read about the moment the 11 disciples received the gift of the Holy Spirit from the mouth of Jesus.
 
-We too often do not take time to allow ourselves to be aware of this most powerful quality of God - God is most empathic having been through everything we've been through first. Yes! Everything! To see God in one simple light - all powerful, all-knowing, all-encompassing - dismisses God's own suffering and how God views suffering and it's connection to godly love.
+\    "On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jews, Jesus came and stood among them and said, "Peace be with you!" After he said this, he showed them his hands and side. The disciples were overjoyed when they saw the Lord.
 
-Read 1 Peter 4:12-19 and set aside time each day this week to acknowledge before God how God has suffered and what makes God suffer. Perhaps write your insights in prayer form.
+\    "Again Jesus said, 'Peace be with you! As the Father has sent me, I am sending you.' And with that he breathed on them and said, 'Receive the HOly Spirit. If you forgive anyone his sins, they are forgiven; if you do not forgive them, they are not forgiven.' \[NIV]
 
-Father in heaven, you have known betrayal and heart break when those whom you love do not return love to you (Exodus). You understand the suffering of patience when you wait for your child to return to you (Prodigal Father). You have suffered like a  spouse whose mate is unfaithful (Hosae). You have been beaten by those whom you love because they did not want to hear what you had to say (the prophets). You have given and given and given of your self without being apreciated or thanked. You have known your people's hunger and thirst and provided for them when they complain without receiving anything in return. You have died for your children in hopes they would come to you. When I see suffering in my lifetime - may I always be aware that it is you who is suffering and may I choose to ease your suffering Abba (daddy). Amen.
+Jesus breathed the Holy Spirit upon them for a very practical purpose - that they would be sent into the world with the anointing, power, and Spirit of God upon them.  Jesus promises you that when you believe on him and are baptized, you too are sealed by the power of the Holy Spirit and in receipt of Spiritual gifts. These gifts from God are not to be hoarded, stored, or hidden but are to be put into practical use.
+
+This week for your spiritual practice take courage, be bold, and share with us at Cornerstonepres218@gmail.com your experiences of what happened as you put into practice your spiritual muscle.
+
+Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
