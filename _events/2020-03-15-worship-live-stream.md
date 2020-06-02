@@ -1,6 +1,6 @@
 ---
 title: Sunday Worship
-date: May 31, 2020 10:25 AM
+date: June 7, 2020 10:25 AM
 layout: event
 location: https://youtu.be/zFtW0SGt5uQ
 map_link: https://youtu.be/zFtW0SGt5uQ
