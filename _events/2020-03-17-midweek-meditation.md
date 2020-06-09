@@ -1,18 +1,12 @@
 ---
 title: Midweek Meditation
-date: May 27, 2020 12:00 PM
+date: June 10, 2020 12:00 PM
 layout: event
 location: https://youtu.be/UuNv9aAqDME
 map_link: https://youtu.be/UuNv9aAqDME
-banner_image: /images/uploads/aaron-burden-uiib0bavwfs-unsplash.jpg
-priority: false
+banner_image: /images/uploads/brandon-mowinkel-lgabeazkbt4-unsplash.jpg
+priority: true
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
-Scripture readings follow the Daily Lectionary from the Book of Common Worship. This week's scriptures are:
-
-Psalm 95
-
-Matthew 28:16-20
-
-[June 3 2020](https://youtu.be/UuNv9aAqDME)
+This week's scriptures are:  Psalm 51 and 1 John 1
