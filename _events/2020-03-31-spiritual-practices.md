@@ -1,20 +1,30 @@
 ---
 title: SPIRITUAL PRACTICE
-date: June 2, 2020 12:00 AM
+date: June 9, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/aaron-burden-uiib0bavwfs-unsplash.jpg
+banner_image: /images/uploads/brandon-mowinkel-lgabeazkbt4-unsplash.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for the week of June 2-8: Practical Spirituality
+SPIRITUAL PRACTICE for the week of June 9-15: Lectio Divina
 
-What do those words mean exactly - Practical Spirituality.
+You will need your Bible and something to write with and upon.
 
-A person's spirituality is the individual expression of their engagement with the divine. This in contrast but not opposition to religion which is the gathering of individuals with similar beliefs to corporately worship the divine. Spiritual people most often practice their spirituality internally through the inward journey of exploring one's faith and belief systems. 
+You may choose to start your day with this practice and find that it "walks with you" through the day; or, in the evening as you come to close of the day, the practice may offer you solace, peace of mind, and calming of anxieties.
 
-"Practical Spirituality" as I have coined the phrase, means taking the next outward step based on Christian practices of spiritual truths. This is the healthy balance of the Pauline Johannine "faith versus works" argument. The truth of the matter is, as most of us understand and accept, that it is neither faith alone nor works alone that completes the expression of Christian spiritual truths in the lives of believers. It is a balance of both being and doing that completes the picture - this is PRACTICAL SPIRITUALITY ("where the rubber meets the road" as they say). We are scripturally required to do both - "God has shown you, O mortal, what is good. And what does the LORD require of you but to act justly and to love mercy and to walk humbly with your God?" \[Micah 6:8 NIV]
+Lectio Divina is the practice of prayerfully reading scripture. The scriptures are God's Word spoken to you in the present moment - alive, the Living Word.
 
-Each morning ask the Lord, "What would you have me do in service to you this today Lord?" This is a practical expression of your inward spiritual seeking. Then be open and available in your plans and schedule to accommodate any interruption that comes in which you recognize opportunity to serve the God-head: God's creation of the opportunity; Christ's teachings about what it is to love; and, the empowerment of the Holy Spirit to accomplish the task. 
+Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we cannot live by bread alone, but by every word that proceeds from your mouth. Give us a hunger for your Word, and in that food satisfy our daily need; through Jesus the Christ. Amen" [*Book of Common Worship*, p. 20]. Repeat this prayer until you feel ready to be open to what God's Living Word is speaking today.
+
+Choose a Bible passage (*for example*): The epistle (letter) of 1 John found in the New Testament.
+
+During your second reading of 1 John write down the verses you notice most.
+
+In your third reading of 1 John write down all words that speak to your mind, heart, and spirit.
+
+Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write this down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
+
+Close your practice with **Prayer and Blessing**: "O Lord our God, you are always more ready to bestow your good gifts upon us than we are to seek them. You are more willing to give than we desire or deserve. Help us so to seek that we may truly find, so to ask that we may joyfully receive, so to knock that the door of mercy may be opened for us; through Jesus Christ our Lord. Amen" [*Book of Common Worship*, p. 361]
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
