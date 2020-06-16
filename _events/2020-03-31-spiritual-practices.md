@@ -4,10 +4,10 @@ date: June 9, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/brandon-mowinkel-lgabeazkbt4-unsplash.jpg
+banner_image: /images/uploads/nofearinlove-asset-1589831084784.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for the week of June 9-15: Lectio Divina
+SPIRITUAL PRACTICE for the week of June 16-22: Lectio Divina
 
 You will need your Bible and something to write with and upon.
 
