@@ -1,14 +1,14 @@
 ---
 title: Midweek Meditation
-date: June 10, 2020 12:00 PM
+date: June 17, 2020 12:00 PM
 layout: event
-location: https://youtu.be/FyWM86Cqh64
-map_link: https://youtu.be/FyWM86Cqh64
-banner_image: /images/uploads/brandon-mowinkel-lgabeazkbt4-unsplash.jpg
+location: https://youtu.be/7lekh3dcfM4
+map_link: https://youtu.be/7lekh3dcfM4
+banner_image: /images/uploads/nofearinlove-asset-1589831084784.jpg
 priority: true
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
-This week's scriptures are:  Psalm 51 and 1 John 1
+This week's scriptures are: Psalm 100 and 1 John 2
 
-[June 10 2020](https://youtu.be/FyWM86Cqh64)
+[June 17 2020](https://youtu.be/7lekh3dcfM4)
