@@ -7,7 +7,7 @@ map_link: https://youtu.be/BzIIEJqSvuU
 banner_image: /images/uploads/nofearinlove-asset-1589831084784.jpg
 priority: true
 ---
-Join us this Sunday as we worship outdoors in a COVID-19 safe environment. Our COVID procedures are posted on site. We will provide a mask for those who do not have one. Hand-sanitizer is available on-site and we encourage you to bring your own as well as bringing your own tissues. One entrance, one restroom will be available for sanitation purposes. 
+Join us this Sunday as we **worship OUTDOORS** in a COVID-19 safe environment. Our *COVID procedures* are posted on site. We will provide a mask for those who do not have one. Hand-sanitizer is available on-site and we encourage you to bring your own as well as bringing your own tissues. One entrance, one restroom will be available for sanitation purposes. 
 
 We are so excited to be gathering again in person and will be following all social distancing and phase 2 guidelines.
 
