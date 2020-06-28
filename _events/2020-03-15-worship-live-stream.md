@@ -2,8 +2,8 @@
 title: Sunday Worship
 date: June 28, 2020 10:00 AM
 layout: event
-location: https://youtu.be/BzIIEJqSvuU
-map_link: https://youtu.be/BzIIEJqSvuU
+location: https://youtu.be/fJt6OvugkCE
+map_link: https://youtu.be/fJt6OvugkCE
 banner_image: /images/uploads/tyler-nix-pw5uvsfcgf4-unsplash.jpg
 priority: true
 ---
