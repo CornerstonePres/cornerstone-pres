@@ -5,7 +5,7 @@ layout: event
 location: https://youtu.be/oyHutxlNqsY
 map_link: https://youtu.be/oyHutxlNqsY
 banner_image: /images/uploads/tyler-nix-pw5uvsfcgf4-unsplash.jpg
-priority: true
+priority: false
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
