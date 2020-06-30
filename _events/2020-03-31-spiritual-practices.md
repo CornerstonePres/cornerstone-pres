@@ -1,13 +1,13 @@
 ---
 title: SPIRITUAL PRACTICE
-date: June 16, 2020 12:00 AM
+date: June 30, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/nofearinlove-asset-1589831084784.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for the week of June 23-29: Lectio Divina
+SPIRITUAL PRACTICE for the week of June 28-July 13: Lectio Divina
 
 You will need your Bible and something to write with and upon.
 
@@ -19,9 +19,9 @@ Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we
 
 Choose a Bible passage (*for example*): The epistle (letter) of 1 John chapter 1 found in the New Testament.
 
-During your second reading of 1 John 1 write down the verses you notice most.
+During your second reading of 1 John 2 write down the verses you notice most.
 
-In your third reading of 1 John 1 write down all words that speak to your mind, heart, and spirit.
+In your third reading of 1 John 2 write down all words that speak to your mind, heart, and spirit.
 
 Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write this down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
 
