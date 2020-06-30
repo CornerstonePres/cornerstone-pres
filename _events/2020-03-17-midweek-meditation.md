@@ -4,8 +4,8 @@ date: July 1, 2020 12:00 PM
 layout: event
 location: https://youtu.be/MKjRC2uK_KI
 map_link: https://youtu.be/MKjRC2uK_KI
-banner_image: /images/uploads/tyler-nix-pw5uvsfcgf4-unsplash.jpg
-priority: false
+banner_image: /images/uploads/choice.jpg
+priority: true
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
