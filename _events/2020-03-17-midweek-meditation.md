@@ -9,6 +9,6 @@ priority: true
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
-This week's scriptures are: Psalm 31 and Acts 7:54-60
+This week's scriptures are: Psalm 4 and Ephesians 1:1-14
 
 [July 1 2020](https://youtu.be/MKjRC2uK_KI)
