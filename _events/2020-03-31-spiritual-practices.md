@@ -4,7 +4,7 @@ date: June 30, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/nofearinlove-asset-1589831084784.jpg
+banner_image: /images/uploads/choice.jpg
 priority: false
 ---
 SPIRITUAL PRACTICE for the week of June 28-July 13: Lectio Divina
