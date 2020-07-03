@@ -1,9 +1,7 @@
 ---
 title: Homework Club
 ---
-**DURING COVID-19:** We are meeting using ZOOM every Wednesday at 6 p.m. If you have a person who wants tutoring during this time, please email Pastor Jen. She will see that you get connected.  pastor@cornerstonepres.net 
-
-
+**We are currently on summer break. We will update this page in August as we learn what the Olympia School District is deciding about the 2020/2021 school year.**
 
 **Every Wednesday**, while school is in session\
 **5:30 PM** until **8:00 PM**\
