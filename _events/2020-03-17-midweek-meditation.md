@@ -5,7 +5,7 @@ layout: event
 location: https://youtu.be/MKjRC2uK_KI
 map_link: https://youtu.be/MKjRC2uK_KI
 banner_image: /images/uploads/choice.jpg
-priority: true
+priority: false
 ---
 Join Pastor Jen each Wednesday at noon for a brief time for noon prayers.
 
