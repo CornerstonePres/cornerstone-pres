@@ -1,5 +1,5 @@
 ---
-title: Sunday Worship July 12th
+title: "Sunday Worship "
 date: July 12, 2020 2:04 PM
 layout: event
 location: https://youtu.be/AR7IU1XKvd8
