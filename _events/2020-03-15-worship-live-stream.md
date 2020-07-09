@@ -1,6 +1,6 @@
 ---
 title: Sunday Worship July 12th
-date: July 9, 2020 2:04 PM
+date: July 12, 2020 2:04 PM
 layout: event
 location: https://youtu.be/AR7IU1XKvd8
 map_link: https://youtu.be/AR7IU1XKvd8
