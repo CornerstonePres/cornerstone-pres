@@ -1,6 +1,6 @@
 ---
 title: Midweek Meditation
-date: July 9, 2020 12:00 PM
+date: July 15, 2020 12:00 PM
 layout: event
 location: https://youtu.be/MKjRC2uK_KI
 map_link: https://youtu.be/MKjRC2uK_KI
