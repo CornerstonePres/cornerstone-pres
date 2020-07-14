@@ -4,7 +4,7 @@ date: July 19, 2020 10:00 AM
 layout: event
 location: https://youtu.be/MZVnTbbY_lQ
 map_link: https://youtu.be/MZVnTbbY_lQ
-banner_image: /images/uploads/blue-bird-2.jpg
+banner_image: /images/uploads/071920.jpg
 priority: true
 ---
 Join us this Sunday (July 19) as we worship via ZOOM and YouTube.
