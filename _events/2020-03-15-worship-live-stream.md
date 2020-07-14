@@ -13,4 +13,4 @@ The service will start off with ZOOM as usual, at 10 AM. When it comes time, Pas
 
 [July 19 2020](vqkx-xtu9-1abk-a8tv-ejvc)
 
-Her sermon is titled "You Are Still A Child"
+Her sermon is titled "You Are Still A Child" \[1 John 3:1-10]
