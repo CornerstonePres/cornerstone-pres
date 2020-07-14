@@ -5,7 +5,7 @@ layout: event
 location: https://youtu.be/MZVnTbbY_lQ
 map_link: https://youtu.be/MZVnTbbY_lQ
 banner_image: /images/uploads/071920.jpg
-priority: true
+priority: false
 ---
 Join us this Sunday (July 19) as we worship via ZOOM and YouTube.
 
