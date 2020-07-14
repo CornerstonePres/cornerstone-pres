@@ -7,21 +7,23 @@ map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/spiritual-practices-3-2-.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for the week of June 28-July 13: Lectio Divina
+SPIRITUAL PRACTICE for the week of July 15-July 21: Lectio Divina
 
-You will need your Bible and something to write with and upon.
+The Cornerstone community has been engaging our spirits and minds with the writings of the apostle John. Began a study of John's first letter (1 John) and are currently in Chapter 3. Those who wish to deepen their relationship with God through the scriptures are encouraged to engage in the practice of Lectio Divina.
 
-You may choose to start your day with this practice and find that it "walks with you" through the day; or, in the evening as you come to close of the day, the practice may offer you solace, peace of mind, and calming of anxieties.
+You will need your Bible and writing tools.
+
+As you start your day with this practice you will discover that the scripture "walks with you" through the day; or, in the evening as you come to close of the day, the practice may offer you solace, peace of mind, and calming presence.
 
 Lectio Divina is the practice of prayerfully reading scripture. The scriptures are God's Word spoken to you in the present moment - alive, the Living Word.
 
 Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we cannot live by bread alone, but by every word that proceeds from your mouth. Give us a hunger for your Word, and in that food satisfy our daily need; through Jesus the Christ. Amen" [*Book of Common Worship*, p. 20]. Repeat this prayer until you feel ready to be open to what God's Living Word is speaking today.
 
-Choose a Bible passage (*for example*): The epistle (letter) of 1 John chapter 1 found in the New Testament.
+Choose a Bible passage (*for example*): The epistle (letter) of 1 John chapter 3 found in the New Testament.
 
-During your second reading of 1 John 2 write down the verses you notice most.
+During your second reading of 1 John 3 write down the verses you notice most.
 
-In your third reading of 1 John 2 write down all words that speak to your mind, heart, and spirit.
+In your third reading of 1 John 3 write down all words that speak to your mind, heart, and spirit.
 
 Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write this down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
 
