@@ -9,7 +9,7 @@ priority: true
 ---
 SPIRITUAL PRACTICE for the week of July 15-July 21: Lectio Divina
 
-The Cornerstone community has been engaging our spirits and minds with the writings of the apostle John. Began a study of John's first letter (1 John) and are currently in Chapter 3. Those who wish to deepen their relationship with God through the scriptures are encouraged to engage in the practice of Lectio Divina.
+The Cornerstone community has been engaging our spirits and minds with the writings of the apostle John. We began a study of John's first letter (1 John) and are currently in Chapter 3. Those who wish to deepen their relationship with God through the scriptures are encouraged to engage in the practice of Lectio Divina.
 
 You will need your Bible and writing tools.
 
