@@ -9,7 +9,7 @@ priority: false
 ---
 Join us this Sunday (July 19) as we worship via ZOOM and YouTube.
 
-The service will start off with ZOOM as usual, at 10 AM. When it comes time, Pastor Jen will give the sermon via the YouTube link below. We will remain in the ZOOM worship the entire service.
+The service will start off with ZOOM at 10 AM. Pastor Jen will include YouTube via link below at 10:30 a.m.
 
 [July 19 2020](vqkx-xtu9-1abk-a8tv-ejvc)
 
