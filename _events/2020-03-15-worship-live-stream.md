@@ -7,7 +7,7 @@ map_link: https://youtu.be/gMUPiTYZQPU
 banner_image: /images/uploads/love.jpg
 priority: false
 ---
-Join us this Sunday (July 19) as we worship via ZOOM and YouTube.
+Join us this Sunday (July 26) as we worship via ZOOM and YouTube.
 
 The service will air in its entirety via ZOOM starting at 10 AM. You can email us at admin@cornerstonepres.net for link information. Pastor Jen will include YouTube via link below at 10:30 a.m. for the scripture reading and sermon.
 
