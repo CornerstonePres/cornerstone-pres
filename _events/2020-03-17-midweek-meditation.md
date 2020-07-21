@@ -1,10 +1,10 @@
 ---
 title: Midweek Meditation
-date: July 15, 2020 12:00 PM
+date: July 22, 2020 12:00 PM
 layout: event
-location: https://youtu.be/MKjRC2uK_KI
-map_link: https://youtu.be/MKjRC2uK_KI
-banner_image: /images/uploads/071920.jpg
+location: https://youtu.be/q14s6YOS7pI
+map_link: https://youtu.be/q14s6YOS7pI
+banner_image: /images/uploads/love.jpg
 priority: true
 ---
-Enjoy ten minutes of prayer, scripture reading, and reflection in your week. This week's reading is 1 John 3:1-10
+Enjoy a moment of prayer, scripture reading, and reflection and be refreshed in the rhythm of your week.
