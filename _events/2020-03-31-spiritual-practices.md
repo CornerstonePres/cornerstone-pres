@@ -1,13 +1,13 @@
 ---
 title: SPIRITUAL PRACTICE
-date: July 21, 2020 12:00 AM
+date: July 28, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/spiritual-practices-3-2-.jpg
 priority: true
 ---
-SPIRITUAL PRACTICE for the week of July 22-July 28: Lectio Divina
+SPIRITUAL PRACTICE for the week of July 29-August 3: Lectio Divina
 
 The Cornerstone community continues to engage our spirits and minds with the writings of the apostle John. We began a study of John's first letter (1 John) and are currently in Chapter 3. Those who wish to deepen their relationship with God through the scriptures are encouraged to engage in the practice of Lectio Divina.
 
@@ -19,11 +19,11 @@ Lectio Divina is the practice of prayerfully reading scripture. The scriptures a
 
 Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we cannot live by bread alone, but by every word that proceeds from your mouth. Give us a hunger for your Word, and in that food satisfy our daily need; through Jesus the Christ. Amen" [*Book of Common Worship*, p. 20]. Repeat this prayer until you feel ready to be open to what God's Living Word is speaking today.
 
-Choose a Bible passage (*for example*): The epistle (letter) of **1 John chapter 3:10-24** found in the New Testament. This is the passage Pastor Jen will teach on Sunday, July 26, 2020. You might be helped by referring to the previous lessons on the Cornerstone Presbyterian YouTube Channel as no passage of scripture stands alone. You might watch the lesson on [1 John 3:1-10](https://youtu.be/MZVnTbbY_lQ) by clicking the link.
+Choose a Bible passage (*for example*): The epistle (letter) of **1 John chapter 3:10-24** found in the New Testament. This is the passage Pastor Jen will teach on Sunday, July 26, 2020. You might be helped by referring to the previous lessons on the Cornerstone Presbyterian YouTube Channel as no passage of scripture stands alone. 
 
-During your second reading of 1 John 3:10-24 write down the verses you notice most.
+During your second reading of 1 John 4:1-6 write down the verses you notice most.
 
-In your third reading of 1 John 3:10-24 write down all words that speak to your mind, heart, and spirit.
+In your third reading of 1 John 4:1-6 write down all words that speak to your mind, heart, and spirit.
 
 Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write this down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
 
