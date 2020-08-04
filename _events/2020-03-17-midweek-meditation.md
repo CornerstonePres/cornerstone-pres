@@ -1,9 +1,9 @@
 ---
 title: Midweek Meditation
-date: July 29, 2020 12:00 PM
+date: August 5, 2020 12:00 PM
 layout: event
-location: https://youtu.be/oHq2OYY9zPE
-map_link: https://youtu.be/oHq2OYY9zPE
+location: https://youtu.be/c8n6JJTO6_U
+map_link: https://youtu.be/c8n6JJTO6_U
 banner_image: /images/uploads/love.jpg
 priority: true
 ---
