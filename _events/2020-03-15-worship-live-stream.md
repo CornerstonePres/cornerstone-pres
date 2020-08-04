@@ -4,7 +4,7 @@ date: August 9, 2020 10:00 AM
 layout: event
 location: https://youtu.be/vVHWNMiYG_4
 map_link: https://youtu.be/vVHWNMiYG_4
-banner_image: /images/uploads/heaven-and-hell-2.jpg
+banner_image: /images/uploads/small_groups.jpg
 priority: false
 ---
 Join us this Sunday (August 9) as we worship via ZOOM and YouTube.
