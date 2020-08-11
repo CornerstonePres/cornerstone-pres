@@ -4,7 +4,7 @@ date: August 16, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/small_groups.jpg
+banner_image: /images/uploads/1-john-4.jpg
 priority: false
 ---
 Join us this Sunday (August 16) as we worship in-person on the church driveway. We are practicing Distant Socializing (Social distancing with the emphasis on socializing).
