@@ -9,8 +9,10 @@ priority: false
 ---
 Join us this Sunday (August 16) as we worship in-person on the church driveway. We are practicing Social distancing with the emphasis on socializing.
 
-The service will air in its entirety via ZOOM starting at 10 AM. You can email us at admin@cornerstonepres.net for link information. 
+The service will air in its entirety via **ZOOM** starting at 10 AM. 
 
 [](https://youtu.be/vVHWNMiYG_4)1 John 4:13-21 "Spirit of God"
+
+**ZOOM Link:**   https://zoom.us/j/448243505?pwd=bGt3Ym9ieFhSQmtyUlB2YVdLUlhpdz09
 
 We are observing Holy Communion this Sunday using COVID-safe practices.
