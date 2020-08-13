@@ -11,7 +11,7 @@ Join us this Sunday (August 16) as we worship in-person on the church driveway. 
 
 If you are unable to make it to the Outdoor Service it will air in its entirety via **ZOOM** starting at 10 AM. 
 
- Scripture & Sermon: [](https://youtu.be/vVHWNMiYG_4)1 John 4:13-21 "Spirit of God"
+Scripture & Sermon: [](https://youtu.be/vVHWNMiYG_4)1 John 4:13-21 "Spirit of God"
 
 **ZOOM Link:**   https://zoom.us/j/448243505?pwd=bGt3Ym9ieFhSQmtyUlB2YVdLUlhpdz09
 
