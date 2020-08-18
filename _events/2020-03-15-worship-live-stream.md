@@ -7,12 +7,12 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/1-john-4.jpg
 priority: false
 ---
-Join us this Sunday (August 16) as we worship in-person on the church driveway. We are practicing Social distancing with the emphasis on socializing.
+Join us this Sunday (August 23) as we worship via **ZOOM** starting at 10 AM.
 
-If you are unable to make it to the Outdoor Service it will air in its entirety via **ZOOM** starting at 10 AM. 
+Scripture & Sermon: [](https://youtu.be/vVHWNMiYG_4)1 John 5:1-5 *"Who Are the Children of God?"*
 
-Scripture & Sermon: [](https://youtu.be/vVHWNMiYG_4)1 John 4:13-21 "Spirit of God"
+**ZOOM Link:**   <https://zoom.us/j/448243505>
 
-**ZOOM Link:**   https://zoom.us/j/448243505?pwd=bGt3Ym9ieFhSQmtyUlB2YVdLUlhpdz09
+**YouTube Link:** <https://youtu.be/qIsSmT4YHXY>
 
-We are observing Holy Communion this Sunday using COVID-safe practices.
+Our next in-person worship service will be held Sunday, August 30th at 10 a.m. 218 Overhulse Rd. NW
