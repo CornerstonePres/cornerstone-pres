@@ -1,6 +1,6 @@
 ---
 title: Living Stones Gathering
-date: August 12, 2020 6:30 PM
+date: August 19, 2020 6:30 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia WA
 map_link: https://goo.gl/maps/V1ukcm7DbBoTvHMM7
