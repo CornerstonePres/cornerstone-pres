@@ -25,7 +25,7 @@ During your second reading of 1 John 5:1-5 write down the verses you notice most
 
 In your third reading of 1 John 5:1-5 write down all words that speak to your mind, heart, and spirit.
 
-Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write this down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
+Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write these down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
 
 Close your practice with **Prayer and Blessing**: "O Lord our God, you are always more ready to bestow your good gifts upon us than we are to seek them. You are more willing to give than we desire or deserve. Help us so to seek that we may truly find, so to ask that we may joyfully receive, so to knock that the door of mercy may be opened for us; through Jesus Christ our Lord. Amen" [*Book of Common Worship*, p. 361]
 
