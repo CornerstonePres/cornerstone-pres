@@ -19,7 +19,7 @@ Lectio Divina is the practice of prayerfully reading scripture. The scriptures a
 
 Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we cannot live by bread alone, but by every word that proceeds from your mouth. Give us a hunger for your Word, and in that food satisfy our daily need; through Jesus the Christ. Amen" [*Book of Common Worship*, p. 20]. Repeat this prayer until you feel ready to be open to what God's Living Word is speaking today.
 
-Choose a Bible passage (*for example*): The epistle (letter) of **1 John chapter 5:1-5** found in the New Testament. This is the passage Pastor Jen will teach on Sunday, August 9, 2020. You might be helped by referring to the previous lessons on the Cornerstone Presbyterian YouTube Channel as no passage of scripture stands alone. 
+Choose a Bible passage (*for example*): The epistle (letter) of **1 John chapter 5:1-5** found in the New Testament. This is the passage Pastor Jen will teach on Sunday, August 23, 2020. You might be helped by referring to the previous lessons on the Cornerstone Presbyterian YouTube Channel as no passage of scripture stands alone. 
 
 During your second reading of 1 John 5:1-5 write down the verses you notice most.
 
