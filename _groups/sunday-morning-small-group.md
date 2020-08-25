@@ -1,10 +1,12 @@
 ---
 title: Sunday Morning Small Group
 ---
-**COVID-19 RESPONSE:** we are meeting using ZOOM. contact Pastor Jen for more information at pastor@cornerstonepres.net
+**COVID-19 RESPONSE:** we are meeting in-person the week of August 30th and using ZOOM for those who prefer to. You may contact Pastor Jen for more information at pastor@cornerstonepres.net or the church administrator at admin@cornerstonepres.net for link information.
 
 **Every Sunday**\
 **9:00 AM**, Before Service
+
+**This Week's Topic:** *1 John 5:6-21 "The Heart of Prayer"*
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
