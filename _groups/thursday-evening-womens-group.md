@@ -1,7 +1,7 @@
 ---
 title: Thursday Evening Women's Group
 ---
-**This Small Group is meeting July 16th at 7 p.m. via ZOOM**
+**This Small Group is meeting August 26th at 7 p.m. via ZOOM**
 
 We continue our study of James using Bible Study Fellowship materials.
 
