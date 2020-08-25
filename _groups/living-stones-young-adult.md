@@ -15,10 +15,7 @@ Now to you who believe, this stone is precious. But those who do not believe,
 
 "The stone the builders rejected has become the cornerstone,"
 
-and,
-
-\
-"A stone that causes people to stumble and a rock that makes them fall."
+and, "A stone that causes people to stumble and a rock that makes them fall."
 
 They stumble because they disobey the message - which is also what they were destined for.
 
