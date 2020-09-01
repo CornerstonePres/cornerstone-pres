@@ -7,4 +7,4 @@ map_link: https://youtu.be/NJbca6CgDdM
 banner_image: /images/uploads/love.jpg
 priority: true
 ---
-Enjoy a moment of prayer, scripture reading, and reflection and be refreshed in the rhythm of your week.
+Enjoy a moment of prayer, scripture reading, reflection and refreshment in the rhythm of your week.
