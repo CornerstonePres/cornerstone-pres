@@ -11,7 +11,7 @@ SPIRITUAL PRACTICE for the week of September 1-7: ***Taking Time to Notice***
 
 During the past several months we, as a people, have experienced much to grieve: tragic unnecessary loss of life through disease and violence; loss of normality; loss of livelihood; loss of confidence in our cultural systems; and, lamentation regarding the health of the planet (hurricanes, fires, drought, climatic changes). When you feel bombarded and overwhelmed by the events of this earthly life which surround you, ***take time to notice***.
 
-Earlier this year I was observing the anniversary of my eldest sibling's death. Her favorite symbolic creation was the dragonfly. The dragonfly reminded me of her of transformation - God's transforming power that makes all things new. As with many people whose loved one has passed, we often notice their favorite bird or their favorite creation and are reminded of their presence in our life.
+Earlier this year I was observing the anniversary of my eldest sibling's death. Her favorite symbolic creation was the dragonfly. The dragonfly reminded me of God's transforming power that makes all things new and which makes us all into new creations. As with many people whose loved one has passed, we often notice their favorite bird or their favorite creation and are reminded of their presence in our life.
 
 I was grieving the morning of the anniversary when my daughter called. She noticed my sadness and said, "I hope you see a dragonfly today."
 
