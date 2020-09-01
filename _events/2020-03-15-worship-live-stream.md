@@ -17,7 +17,7 @@ B. Follow the steps of Love
 
 C. Follow the life of Jesus
 
-**ZOOM Link:**   <https://zoom.us/j/448243505>
+**ZOOM Link:**   <https://zoom.us/j/448243505>?pwd=bGt3Ym9ieFhSQmtyUIB2YVdLUlhpdz09
 
 **YouTube Link:** <https://youtu.be/EOpuD7aaRnM>
 
