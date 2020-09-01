@@ -17,8 +17,6 @@ I was grieving the morning of the anniversary when my daughter called. She notic
 
 The afternoon was bright and sunny despite my grief. I decided to take a walk that afternoon and get a dose of sun and scenery. Midway through the walk I was looking down at my dog sniffing the smells all around him - noticing what other creatures had left their scent, when I noticed a shadow on the pavement. The shadow was of a giant dragonfly. As my gaze wandered up, I spotted it directly in front of me. It hovered there for a few moments before zipping away in search of what it would notice in its existence.
 
-Our time here is brief my friends. I hope you notice the love of God for all that God has created.
-
-Take Time to Notice each day this week the wonders God has in store for you.
+Our time here is brief my friends. I hope you ***take time to notice*** God's love for you during the times you take to notice this week.
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
