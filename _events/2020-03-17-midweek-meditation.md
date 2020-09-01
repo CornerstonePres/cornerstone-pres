@@ -1,10 +1,10 @@
 ---
 title: Midweek Meditation
-date: August 26, 2020 12:00 PM
+date: September 2, 2020 12:00 PM
 layout: event
-location: https://youtu.be/Or-rNe-Utww
-map_link: https://youtu.be/Or-rNe-Utww
-banner_image: /images/uploads/jack-sharp-optesfuzwoq-unsplash.jpg
+location: https://youtu.be/NJbca6CgDdM
+map_link: https://youtu.be/NJbca6CgDdM
+banner_image: /images/uploads/love.jpg
 priority: true
 ---
 Enjoy a moment of prayer, scripture reading, and reflection and be refreshed in the rhythm of your week.
