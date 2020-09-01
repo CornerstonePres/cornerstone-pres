@@ -7,26 +7,18 @@ map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/spiritual-practices-3-2-.jpg
 priority: true
 ---
-SPIRITUAL PRACTICE for the week of August 25-31: Lectio Divina
+SPIRITUAL PRACTICE for the week of September 1-7: ***Taking Time to Notice***
 
-The Cornerstone community continues to engage our spirits and minds with the writings of the apostle John. We began a study of John's first letter (1 John) and are currently in Chapter 5:6-21. Those who wish to deepen their relationship with God through the scriptures are encouraged to engage in the practice of Lectio Divina.
+During the past several months we, as a people, have experienced much to grieve: tragic unnecessary loss of life through disease and violence; loss of normality; loss of livelihood; loss of confidence in our cultural systems; and, lamentation regarding the health of the planet (hurricanes, fires, drought, climatic changes). When you feel bombarded and overwhelmed by the events of this earthly life which surround you, ***take time to notice***.
 
-You will need your Bible and writing tools and as much time as you wish to spend with God's word.
+Earlier this year I was observing the anniversary of my eldest sibling's death. Her favorite symbolic creation was the dragonfly. The dragonfly reminded me of her of transformation - God's transforming power that makes all things new. As with many people whose loved one has passed, we often notice their favorite bird or their favorite creation and are reminded of their presence in our life.
 
-As you start your day with this practice you will discover that the scripture "walks with you" through the day; or, in the evening as you come to close of the day, the practice may offer you solace, peace of mind, and calming presence.
+I was grieving the morning of the anniversary when my daughter called. She noticed my sadness and said, "I hope you see a dragonfly today."
 
-Lectio Divina is the practice of prayerfully reading scripture. The scriptures are God's Word spoken to you in the present moment - alive, the Living Word.
+The afternoon was bright and sunny despite my grief. I decided to take a walk that afternoon and get a dose of sun and scenery. Midway through the walk I was looking down at my dog sniffing the smells all around him - noticing what other creatures had left their scent, when I noticed a shadow on the pavement. The shadow was of a giant dragonfly. As my gaze wandered up, I spotted it directly in front of me. It hovered there for a few moments before zipping away in search of what it would notice in its existence.
 
-Begin with a **Prayer of Preparation**: "Loving God, you have so made us that we cannot live by bread alone, but by every word that proceeds from your mouth. Give us a hunger for your Word, and in that food satisfy our daily need; through Jesus the Christ. Amen" [*Book of Common Worship*, p. 20]. Repeat this prayer until you feel ready to be open to what God's Living Word is speaking today.
+Our time here is brief my friends. I hope you notice the love of God for all that God has created.
 
-Choose a Bible passage (*for example*): The epistle (letter) of **1 John chapter 5:6-21** found in the New Testament. This is the passage Pastor Jen will teach on Sunday, August 30, 2020. You might be helped by referring to the previous lessons on the Cornerstone Presbyterian YouTube Channel as no passage of scripture stands alone. 
-
-During your second reading of 1 John 5:6-21 write down the verses you notice most.
-
-In your third reading of 1 John 5:6-21 write down all words that speak to your mind, heart, and spirit.
-
-Prayerfully ask the Holy Spirit to speak to you from this Living Word: \*notice what your soul hears with its spiritual ears; \*what your heart sees with your spiritual eyes. Write these down if you so choose or hold the reflection in your heart. Perhaps God's Word speaks words of invitation to notice the delight of "BEING" and sometimes God's word prompts us to action "DOING".
-
-Close your practice with **Prayer and Blessing**: "O Lord our God, you are always more ready to bestow your good gifts upon us than we are to seek them. You are more willing to give than we desire or deserve. Help us so to seek that we may truly find, so to ask that we may joyfully receive, so to knock that the door of mercy may be opened for us; through Jesus Christ our Lord. Amen" [*Book of Common Worship*, p. 361]
+Take Time to Notice each day this week the wonders God has in store for you.
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
