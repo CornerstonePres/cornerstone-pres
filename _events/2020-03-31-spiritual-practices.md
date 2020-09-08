@@ -1,13 +1,13 @@
 ---
 title: SPIRITUAL PRACTICE
-date: September 1, 2020 12:00 AM
+date: September 8, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/spiritual-practices-3-2-.jpg
 priority: true
 ---
-SPIRITUAL PRACTICE for the week of September 1-7: ***Taking Time to Notice***
+SPIRITUAL PRACTICE for the week of September 8-14: ***Taking Time to Notice***
 
 During the past several months we, as a people, have experienced much to grieve: tragic unnecessary loss of life through disease and violence; loss of normality; loss of livelihood; loss of confidence in our cultural systems; and, lamentation regarding the health of the planet (hurricanes, fires, drought, climatic changes). When you feel bombarded and overwhelmed by the events of this earthly life which surround you, ***take time to notice***.
 
