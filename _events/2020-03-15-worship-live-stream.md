@@ -7,7 +7,7 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/ilias-chebbi-l3i3s5hkcl0-unsplash.jpg
 priority: false
 ---
-Join us this Sunday (September 20) for **OUTDOOR WORSHIP**, via **ZOOM**, or **YouTube Livestream** starting at 10 AM.
+Join us this Sunday (September 20) for **OUTDOOR WORSHIP**, via **ZOOM**, or **YouTube Livestream** starting at 10 AM. Currently we are beginning a two-part series on Jude. This Sunday is Part 1:
 
 **Scripture & Sermon**: [](https://youtu.be/vVHWNMiYG_4)Jude 1-16  "Contend for the Faith"
 
