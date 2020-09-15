@@ -1,6 +1,6 @@
 ---
 title: "Sunday Worship "
-date: September 13, 2020 10:00 AM
+date: September 20, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
