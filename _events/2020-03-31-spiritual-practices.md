@@ -19,7 +19,7 @@ In Luke's Gospel we first read about the spiritual practice of fasting and prayi
 
 When you are in a time of seeking God's direction (1 Kings 21:9), God's leading, God's call upon you, God's mercy or healing (Psalm 35:13), God's protection, in times of grief (2 Samuel 12:23 and Esther 4:3), God's mercy and forgiveness (Nehemiah 9:1), in times of lamentation (Esther 9:31), do so with a pure intent and a clean heart. God says through the prophet Isaiah: "Your fasting ends in quarreling and strife, and in striking each other with wicked fists. You cannot fast as you do today and expect your voice to be heard on high. ... Is not this the kind of fasting I have chosen: to loose the chains of injustice and untie the cords of the yoke, to set the oppressed free and break every yoke?"
 
-Fasting is the giving up of a food, drink, or behavior that one relies upon for survival and is prayer of supplication and sole reliance upon God for provision - it is holy dependence, humbility, and trust upon God.
+Fasting is the giving up of a food, drink, or behavior that one relies upon for survival and is prayer of supplication and sole reliance upon God for provision - it is holy dependence, humility, and trust upon God.
 
 For all that you seek that is holy and of the Lord, come before God privately with prayers and fasting and the God who is unseen will reward you.
 
