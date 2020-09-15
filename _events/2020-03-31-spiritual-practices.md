@@ -7,16 +7,20 @@ map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/spiritual-practices-3-2-.jpg
 priority: true
 ---
-SPIRITUAL PRACTICE for the week of September 8-14: ***Taking Time to Notice***
+SPIRITUAL PRACTICE for the week of September 15-21: Fasting as a form of Prayer
 
-During the past several months we, as a people, have experienced much to grieve: tragic unnecessary loss of life through disease and violence; loss of normality; loss of livelihood; loss of confidence in our cultural systems; and, lamentation regarding the health of the planet (hurricanes, fires, drought, climatic changes). When you feel bombarded and overwhelmed by the events of this earthly life which surround you, ***take time to notice***.
+"Intermittent Fasting" is a real buzz topic in the current diet and health culture in connection with the Keto weight loss program. You can find any number of articles that will educate you about the health benefits of this practice. Did you know though that fasting began as a form of prayer to God and is still a powerful spiritual practice?
 
-Earlier this year I was observing the anniversary of my eldest sibling's death. Her favorite symbolic creation was the dragonfly. The dragonfly reminded me of God's transforming power that makes all things new and which makes us all into new creations. As with many people whose loved one has passed, we often notice their favorite bird or their favorite creation and are reminded of their presence in our life.
+Jesus fasted as a form of prayer during the time of his temptation in the wilderness (Matthew 4:2). When his disciples asked Jesus about prayer and fasting Jesus had this to say:
 
-I was grieving the morning of the anniversary when my daughter called. She noticed my sadness and said, "I hope you see a dragonfly today."
+"When you fast, do not look somber as the hypocrites do, for they disfigure their faces to show othrs they are fasting. Truly I tell you, they have received their reward in full. But when you fast, put oil on your head and wash your face, so that it will not be obvious to others that you are fasting, but only to your Father, who is unsen; and your Father, who sees what is done in scret, will reward you." (Matthew 6:16-18 NIV)
 
-The afternoon was bright and sunny despite my grief. I decided to take a walk that afternoon and get a dose of sun and scenery. Midway through the walk I was looking down at my dog sniffing the smells all around him - noticing what other creatures had left their scent, when I noticed a shadow on the pavement. The shadow was of a giant dragonfly. As my gaze wandered up, I spotted it directly in front of me. It hovered there for a few moments before zipping away in search of what it would notice in its existence.
+In Luke's Gospel we first read about the spiritual practice of fasting and praying in connection to an 84 year old widdow. "She never left the temple but worshipped night and day, fasting and praying." (Luke 2:37 NIV)
 
-Our time here is brief my friends. I hope you ***take time to notice*** God's love for you during the times you take to notice this week.
+When you are in a time of seeking God's direction (1 Kings 21:9), God's leading, God's call upon you, God's mercy or healing (Psalm 35:13), God's protection, in times of grief (2 Samuel 12:23 and Esther 4:3), God's mercy and forgiveness (Nehemiah 9:1), in times of lamentation (Esther 9:31), do so with a pure intent and a clean heart. God says through the prophet Isaiah: "Your fasting ends in quarreling and strife, and in striking each other with wicked fists. You cannot fast as you do today and expect your voice to be heard on high. ... Is not this the kind of fasting I have chosen: to loose the chains of injustice and untie the cords of the yoke, to set the oppressed free and break every yoke?"
+
+Fasting is the giving up of a food, drink, or behavior that one relies upon for survival and is prayer of supplication and sole reliance upon God for provision - it is holy dependence, humbility, and trust upon God.
+
+For all that you seek that is holy and of the Lord, come before God privately with prayers and fasting and the God who is unseen will reward you.
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
