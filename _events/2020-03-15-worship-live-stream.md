@@ -1,19 +1,19 @@
 ---
 title: "Sunday Worship "
-date: September 20, 2020 10:00 AM
+date: September 27, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/ilias-chebbi-l3i3s5hkcl0-unsplash.jpg
 priority: false
 ---
-Join us this Sunday (September 20) for **OUTDOOR WORSHIP**, via **ZOOM**, or **YouTube Livestream** starting at 10 AM. Currently we are beginning a two-part series on Jude. This Sunday is Part 1:
+Join us this Sunday (September 27) for **OUTDOOR WORSHIP**, via **ZOOM**, or **YouTube video** starting at 10 AM. Currently we are beginning a two-part series on Jude. This Sunday is Part 2.
 
-**Scripture & Sermon**: [](https://youtu.be/vVHWNMiYG_4)Jude 1-16  "Contend for the Faith"
+**Scripture & Sermon**: [](https://youtu.be/vVHWNMiYG_4)Jude 17-25  "Contend for the Faith"
 
-1. The History of the Letter
-2. The Purpose of the Letter
-3. The Meaning of the Letter 
+1. Pray in the Spirit
+2. Keep Your SELF in the Love of God
+3. Show Mercy to Others
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
