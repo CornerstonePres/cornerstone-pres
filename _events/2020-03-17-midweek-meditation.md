@@ -1,10 +1,10 @@
 ---
 title: Midweek Meditation
-date: September 16, 2020 12:00 PM
+date: September 23, 2020 12:00 PM
 layout: event
-location: https://youtu.be/1C5HF4Bm2Ys
-map_link: https://youtu.be/1C5HF4Bm2Ys
-banner_image: /images/uploads/jude-beck-zw1zugnxsve-unsplash-2.jpg
+location: https://youtu.be/6KcWBlpjASQ
+map_link: https://youtu.be/6KcWBlpjASQ
+banner_image: /images/uploads/wolfgang-hasselmann-xseeatuyhss-unsplash.jpg
 priority: true
 ---
 Enjoy a moment of prayer, scripture reading, reflection and refreshment in the rhythm of your week.
