@@ -1,6 +1,10 @@
 ---
 title: Youth Camps
 ---
+**THERE ARE NO CAMPS DURING COVID**
+
+
+
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
 [admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
