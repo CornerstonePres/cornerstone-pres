@@ -1,7 +1,7 @@
 ---
 title: Sunday Morning Small Group
 ---
-**COVID-19 RESPONSE:** we are meeting in-person the week of August 30th and using ZOOM for those who prefer to. You may contact Pastor Jen for more information at pastor@cornerstonepres.net or the church administrator at admin@cornerstonepres.net for link information.
+**COVID-19 RESPONSE:** You may contact Pastor Jen for more information at pastor@cornerstonepres.net or the church administrator at admin@cornerstonepres.net for link information.
 
 **Every Sunday**\
 **9:00 AM**, Before Service
