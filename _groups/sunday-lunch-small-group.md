@@ -1,6 +1,10 @@
 ---
 title: Sunday Lunch Small Group
 ---
+**THIS SMALL GROUP IS CURRENTLY NOT MEETING**
+
+
+
 **DURING COVID-19:** this group is not meeting. For more information please contact Pastor Jen at pastor@cornerstonepres.net
 
 **Every other Sunday**\
