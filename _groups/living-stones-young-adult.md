@@ -1,6 +1,10 @@
 ---
 title: Living Stones Young Adult
 ---
+**THIS GROUP IS NOT MEETING AT THIS TIME. VISIT HERE FREQUESNTLY AS THEY WILL START UP AGAIN SOON.**
+
+
+
 **WEDNESDAYS at 6:30 p.m.** at Cornerstone Presbyterian Church in a COVID-safe environment.
 
 This small group of 18-30somethings meets weekly to connect, build faith relationships, reflect on a theme found in scriptures, serve together in the community, and enjoy fellowship activities.
