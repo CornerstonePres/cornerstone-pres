@@ -14,7 +14,7 @@ Join us this Sunday, September 27, via **ZOOM** starting at 10 AM. Currently we 
 **Scripture & Sermon**: [](https://youtu.be/vVHWNMiYG_4)Jude 17-25  "Contend for the Faith"
 
 1. Pray in the Spirit
-2. Keep Your SELF in the Love of God
+2. Keep Your Self in the Love of God
 3. Show Mercy to Others
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
