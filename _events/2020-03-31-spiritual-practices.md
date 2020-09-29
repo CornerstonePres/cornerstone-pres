@@ -1,13 +1,13 @@
 ---
 title: SPIRITUAL PRACTICE
-date: September 22, 2020 12:00 AM
+date: September 29, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/spiritual-practices-3-2-.jpg
 priority: true
 ---
-SPIRITUAL PRACTICE for the week of September 22-28: Retreat!
+SPIRITUAL PRACTICE for the week of September 29 to October 18: Retreat!
 
 The desert fathers of the early Christian faith, chose a Christian hermitage lifestyle. They withdrew themselves from the world into the desert places to meditate, pray, read scriptures, and live quietly - to be in the world but not of the world. Here are two sites from which you can learn more about the desert fathers:
 
