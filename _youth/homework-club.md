@@ -1,7 +1,7 @@
 ---
 title: Homework Club
 ---
-**We are currently on summer break. We will update this page in August as we learn what the Olympia School District is deciding about the 2020/2021 school year.**
+**We are currently not meeting due to COVID-19 restrictions. We will update this page as we learn what the Olympia School District is deciding about the 2020/2021 school year as it progresses.**
 
 **Every Wednesday**, while school is in session\
 **5:30 PM** until **8:00 PM**\
