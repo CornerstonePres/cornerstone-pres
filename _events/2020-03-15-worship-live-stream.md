@@ -1,21 +1,19 @@
 ---
 title: "Sunday Worship "
-date: September 27, 2020 10:00 AM
+date: October 4, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/ilias-chebbi-l3i3s5hkcl0-unsplash.jpg
+banner_image: /images/uploads/hebrews5.jpg
 priority: false
 ---
-Join us this Sunday, September 27, via **ZOOM** starting at 10 AM. Currently we are in a two-part series on Jude. This Sunday is Part 2.
+Join us this Sunday, October 4, via **ZOOM** starting at 10 AM. 
 
-**NO OUTDOOR SERVICE WHICH WAS PREVIOUSLY PLANNED**
+**Scripture & Sermon**: [](https://youtu.be/vVHWNMiYG_4)Hebrews 1:1-4;2:5-12  "Subjects of the Most High" 
 
-**Scripture & Sermon**: [](https://youtu.be/vVHWNMiYG_4)Jude 17-25  "Contend for the Faith"
-
-1. Pray in the Spirit
-2. Keep Your Self in the Love of God
-3. Show Mercy to Others
+1. The place of angels in creation
+2. The duties of angels to God
+3. The ranks of angels in God's hierarchy
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
