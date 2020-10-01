@@ -67,7 +67,7 @@ Who Is Jesus?
 \
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
-[admin@CornerstonePres.net](mailto:admin@cornerstonepres.net)
+[admin@cornerstonepres.net](mailto:admin@cornerstonepres.net)
 
 **Matthew 19:14** Jesus said, “Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.”
 
