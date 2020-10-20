@@ -7,26 +7,30 @@ map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/spiritual-practices-3-2-.jpg
 priority: true
 ---
-SPIRITUAL PRACTICE for the week of September 29 to October 18: Retreat!
+SPIRITUAL PRACTICE for the week of October 19-26: SPIRITUAL JOURNAL
 
-The desert fathers of the early Christian faith, chose a Christian hermitage lifestyle. They withdrew themselves from the world into the desert places to meditate, pray, read scriptures, and live quietly - to be in the world but not of the world. Here are two sites from which you can learn more about the desert fathers:
+Supplies: writing tool, paper, computer notepad, quiet space
 
-* <https://www.academia.edu/11196748/The_Desert_Fathers>
-* <https://stjohnmiami.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fstjohnmiami.org%2Fsites%2Fdefault%2Ffiles%2Fbook%2F72%2Fsayings-desert-fathers-desert-fathers.pdf>
+The practice of writing about your personal spiritual journey will help you to notice God's activity and hand in your life. The prompting of the Holy Spirit will awaken your awareness of those places in your life and relationships that God is inviting you receive pruning so that your life may bear abundant fruit and grow the spiritual lives of those around you. 
 
-Retreat into the wilderness to spend time in prayer and with God, asking questions, seeking God's leading in one's life, centering one's mind and soul upon Christ, living in silence to listen for God's Spirit to speak, and engaging one's mind upon a spiritual practice are long-sought after disciplines in the Christian life. Retreat is not an avoidance of people. It is much more a reckoning of one's spirit, mind, body, and strength with a disciplined life. There are a variety of approaches to retreat: individual, group, silent, spiritually lead, pastorally lead and a variety of topics one can approach through the practice of retreat.
+Spiritual Journal prompt: God is always present to you. God is all around you and is in you at all times. You have but to tke a moment to to breathe in and out, to listen to the sound of your heart beat; to hear the crackle of the fire in your room. write down 5 things you notice about your surroundings:
 
-You will discover in participating in a retreat the center of who God has shaped you to be in this world, in this place, and in this time and discover the harmony of your life's direction with God's will.  Not only can retreat be weeks or even days, retreat can be found in the daily practice of withdrawing to your room for a set period of time at a set time each day.  Within that context one can retreat through the Office of Prayer through the course of the day. Resources for morning prayer, midday prayers, and evening prayers are available through many sites, my personal favorites are *The Book of Common Worship; A Guide to Prayer;* and, *Daily Prayer, Supplemental Liturgical Resource*. 
+   1) what do you hear?
 
-Jesus regularly practiced retreat as the scriptures tell us:
+   2) what can you see?
 
-* Matthew 14:13
-* Mark 3:7
-* Luke 5:16
-* Luke 9:10
-* John 6:15
-* John 11:54
+   3) what taste is in your mouth?
 
-Be encouraged this week in your faith journey to create opportunity to withdraw to a private place to spend time with God. When you hear of an opportunity to participate in a planned retreat through Olympia Presbytery, be encouraged to participate. If you are interested in attending a retreat and would like Pastor Jen to organize one - be sure to hit her up! She would LOVE to provide the leadership and guidance for a retreat with you and your group. 
+   4) what do you smell?
+
+   5) what is supporting your body?
+
+   6) Where is your body touching a surface and what does that feel like?
+
+   7) listen to the silence around you
+
+   8) allow your mind to focus on only one subject - what was the first thing you noticed?
+
+Take the next 5 minutes to listen, allowing your thoughts to wander, perhaps visualize your favorite walk, your favorite place to relax. What is God's voice inviting you to notice in this moment? Write down your thoughts and any conversation you hear inside your heart, then read it again for the purpose of noticing a point in which you might be asking for healing, encouragement, growth, or personal power. See it and understand this is the work of God within you. The peace of our Lord, Jesus Christ, be with you today and always.
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
