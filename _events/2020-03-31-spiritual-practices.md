@@ -11,7 +11,7 @@ SPIRITUAL PRACTICE for the week of October 20-26: SPIRITUAL JOURNAL
 
 Supplies: writing tool, paper, computer notepad, quiet space
 
-The practice of writing about your personal spiritual journey will help you to notice God's activity and hand in your life. The prompting of the Holy Spirit will awaken your awareness of those places in your life and relationships that God is inviting you receive pruning so that your life may bear abundant fruit and grow the spiritual lives of those around you. 
+The practice of writing about your personal spiritual journey will help you to notice God's activity and hand in your life. The prompting of the Holy Spirit will awaken your awareness of those places in your life and relationships that God is inviting you to receive from God a pruning of that which is not life-giving or that does not bear fruit in you so that your life may bear abundant fruit and grow the spiritual lives of those around you. 
 
 Spiritual Journal prompt: God is always present to you. God is all around you and is in you at all times. You have but to tke a moment to to breathe in and out, to listen to the sound of your heart beat; to hear the crackle of the fire in your room. write down 5 things you notice about your surroundings:
 
