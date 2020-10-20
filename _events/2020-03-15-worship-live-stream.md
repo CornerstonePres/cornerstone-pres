@@ -1,19 +1,15 @@
 ---
 title: "Sunday Worship "
-date: October 4, 2020 10:00 AM
+date: October 25, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/hebrews5.jpg
+banner_image: /images/uploads/intolight.jpg
 priority: false
 ---
-Join us this Sunday, October 4, via **ZOOM** starting at 10 AM. 
+Join us this Reformation Sunday, October 25, at 10 AM. We worship both **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
 
-**Scripture & Sermon**: [](https://youtu.be/vVHWNMiYG_4)Hebrews 1:1-4;2:5-12  "Subjects of the Most High" 
-
-1. The place of angels in creation
-2. The duties of angels to God
-3. The ranks of angels in God's hierarchy
+**Scripture**: John 11: 32-44 "Walking Into Life"
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
