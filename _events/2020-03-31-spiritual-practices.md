@@ -4,7 +4,7 @@ date: October 27, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/20200331_112638.jpg
+banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: true
 ---
 SPIRITUAL PRACTICE for the week of October 27-November 2: SPIRITUAL JOURNALING
