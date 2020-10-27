@@ -5,7 +5,7 @@ layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
-priority: true
+priority: false
 ---
 SPIRITUAL PRACTICE for the week of October 27-November 2: SPIRITUAL JOURNALING
 
