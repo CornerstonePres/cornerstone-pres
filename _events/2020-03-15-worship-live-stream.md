@@ -1,15 +1,15 @@
 ---
-title: Sunday Worship  "Walking Into Life"
-date: October 25, 2020 10:00 AM
+title: Sunday Worship "Jesus Our High Priest"
+date: November 1, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/intolight.jpg
 priority: false
 ---
-Join us this Reformation Sunday, October 25, at 10 AM. We worship both **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
+Join us this Reformation Sunday, November 1, at 10 AM. The Cornerstone church family worships weekly simultaneously **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
 
-**Scripture**: John 11: 32-44 "Walking Into Life"
+**Scripture**: Hebrews 7:23-28
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
