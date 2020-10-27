@@ -4,8 +4,8 @@ date: November 1, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/intolight.jpg
-priority: false
+banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
+priority: true
 ---
 Join us this Reformation Sunday, November 1, at 10 AM. The Cornerstone church family worships weekly simultaneously **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
 
