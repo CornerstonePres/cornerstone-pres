@@ -4,7 +4,7 @@ date: November 1, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
+banner_image: /images/uploads/fran-hogan-spkmd-uafg4-unsplash.jpg
 priority: true
 ---
 November 8, at 10 AM, the Cornerstone church family will worship **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
