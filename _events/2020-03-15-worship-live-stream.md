@@ -1,6 +1,6 @@
 ---
 title: Sunday Worship "Jesus the Red Heifer?"
-date: November 1, 2020 10:00 AM
+date: November 8, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
