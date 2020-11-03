@@ -7,9 +7,9 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: true
 ---
-Join us this Reformation Sunday, November 1, at 10 AM. The Cornerstone church family worships weekly simultaneously **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
+November 8, at 10 AM, the Cornerstone church family will worship **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
 
-**Scripture**: Hebrews 7:23-28
+**Scripture**: Hebrews 9:11-14
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
