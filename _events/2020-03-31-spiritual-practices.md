@@ -1,13 +1,13 @@
 ---
 title: SPIRITUAL PRACTICE
-date: November 3, 2020 12:00 AM
+date: November 17, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for the week of November 3rd: SPIRITUAL JOURNALING
+SPIRITUAL PRACTICE for the week of November 17th: SPIRITUAL JOURNALING
 
 Supplies: writing tool, paper, computer notepad, quiet space
 
