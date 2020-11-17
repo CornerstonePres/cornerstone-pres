@@ -7,9 +7,9 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/fran-hogan-spkmd-uafg4-unsplash.jpg
 priority: true
 ---
-November 8, at 10 AM, the Cornerstone church family will worship **in the sanctuary** at 218 Overhulse Dr NW following all COVID-19 safe gathering practices and via **ZOOM** (link is below).
+November 22, at 10 AM, the Cornerstone church family will worship via **ZOOM** (link is below) only this Sunday per the Governor's mandate.
 
-**Scripture**: Hebrews 9:11-14
+**Scripture**: Hebrews 10
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
