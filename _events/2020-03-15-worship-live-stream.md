@@ -1,10 +1,10 @@
 ---
 title: Sunday Worship "Jesus and the Red Heifer"
-date: November 8, 2020 10:00 AM
+date: November 22, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/fran-hogan-spkmd-uafg4-unsplash.jpg
+banner_image: /images/uploads/1122.jpg
 priority: true
 ---
 November 22, at 10 AM, the Cornerstone church family will worship via **ZOOM** (link is below) only this Sunday per the Governor's mandate.
