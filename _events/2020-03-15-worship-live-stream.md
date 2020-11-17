@@ -1,5 +1,5 @@
 ---
-title: Sunday Worship
+title: WORSHIP
 date: November 22, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
