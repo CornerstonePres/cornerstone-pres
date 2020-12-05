@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: November 22, 2020 10:00 AM
+date: December 6, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/1122.jpg
 priority: true
 ---
-November 22, at 10 AM, the Cornerstone church family will worship via **ZOOM** (link is below) only this Sunday per the Governor's mandate.
+December 6, at 10 AM, the Cornerstone church family will worship via **ZOOM** only this Sunday per the Governor's mandate. (the link is below)
 
-**Scripture**: Hebrews 10
+**Scripture**: Luke 1:46-55
 
-**Sermon Title**: "Only A Shadow"
+**Sermon Title**: "The Songs of Christmas: Mary's Song"
 
 **ZOOM Link:**[https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
