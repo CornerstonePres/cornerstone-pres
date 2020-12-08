@@ -1,15 +1,17 @@
 ---
 title: SPIRITUAL PRACTICE
-date: November 17, 2020 12:00 AM
+date: December 8, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for the week of November 17th: SPIRITUAL JOURNALING
+SPIRITUAL PRACTICE for the weeks of Advent: SPIRITUAL JOURNALING
 
 Supplies: writing tool, paper, computer notepad, quiet space
+
+Pastor Jen mailed out an Advent Devotional for your personal use and for use as a guide to Sunday School discussions during the season of Advent.  Use this resource as a tool to guide you in your Spiritual Journaling by reading the scripture of the day and writing in your journal the answers to the questions posed in the devotional.
 
 The practice of writing about your personal spiritual journey will help you to notice the Heaenly Father's activity (the G-d's hand at work) in your life. The prompting of the Holy Spirit will awaken your awareness of those places in your life and relationships that the Heavenly Father is inviting you to receive from God a pruning of that which is not life-giving or that does not bear fruit in you so that your life may bear abundant fruit and grow the spiritual lives of those around you. 
 
