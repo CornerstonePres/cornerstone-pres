@@ -15,6 +15,6 @@ December 13, at 10 AM, the Cornerstone church family will worship via **ZOOM** o
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
-**COVID-safe Environment**: the leadership at Cornerstone has adopted the following COVID-19 plan for our outdoor worship services. **We will not be worshiping or offering groups indoors at this time.**     
+**COVID-safe Environment**:   **We will not be worshiping or offering groups indoors at this time.**     
 
 LOVE GOD, LOVE OTHERS, and SERVE THE WORLD.
