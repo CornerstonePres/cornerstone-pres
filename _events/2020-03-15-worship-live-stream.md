@@ -1,5 +1,5 @@
 ---
-title: WORSHIP
+title: WORSHIP  Luke 2:13-14
 date: December 13, 2020 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
