@@ -9,9 +9,9 @@ priority: true
 ---
 December 13, at 10 AM, the Cornerstone church family will worship via **ZOOM** only this Sunday per the Governor's mandate. (the link is below)
 
-**Scripture**: Luke 2:13-14
+**Scripture**: Luke 1:67-79
 
-**Sermon Title**: "The Songs of Christmas: The Angels' Song - The Dream We Covet"
+**Sermon Title**: "The Songs of Christmas: Zecharias' Song - What God Means"
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
