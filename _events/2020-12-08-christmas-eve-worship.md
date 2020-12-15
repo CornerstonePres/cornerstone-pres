@@ -7,6 +7,4 @@ map_link: https://goo.gl/maps/gHTsY4ftMbZ4pSK39
 banner_image: /images/uploads/greyson-joralemon-ddvr7ed6pf8-unsplash.jpg
 priority: false
 ---
-The Worship Team is currently awaiting recommendations from the Governor to determine appropriate and safe worship opportunities for Christmas Eve'. We are planning to offer a hybrid Christmas Eve' worship experience including worship inside the sanctuary and on ZOOM.  Please stay-tuned to this page as we continue to update you.
-
-Christmas Eve' worship will begin at 5:00 p.m. either on ZOOM alone or as a hybrid including worship in the sanctuary.
+May the blessings that come with God's gift at Christmas bring Hope, Joy, Peace, and Love to you and your family. Cornerstone will celebrate Christmas this year with a special reading of Scriptures and singing of favorite Christmas Carols and songs on Christmas Eve'. Worship will begin at 5 p.m. on ZOOM.
