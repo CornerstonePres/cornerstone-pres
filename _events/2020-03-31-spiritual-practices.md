@@ -28,4 +28,6 @@ Spiritual Journal prompt: G-d presence is constant and available  to you at all 
 
 Take the next 5 minutes to be present to your self, allow your thoughts to wander, visualize your favorite walk,  visualize your favorite place to relax. If you are a person who experiences an inner dialogue notice the content of your current dialogue that is inviting you to notice in this moment? Write down your thoughts and any conversation you experience inside your heart, then read it again for the purpose of noticing a point in which you might be asking for healing, encouragement, growth, or personal power. See it and understand this is the work of the Heavenly Father within you. The peace of our Lord, Jesus Christ, be with you today and always.
 
+Beginning January 1, 2021 we will engage in a study of The Gospel of Saint Matthew. We will read 3 verses each day.  I encourage you to maintain the journal you have begun with this spiritual practice or if you are beginning your spiritual practice journey in January to select a special journal for yourself.  I will provide occasional guidance, information, questions, and reflections.
+
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
