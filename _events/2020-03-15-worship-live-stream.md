@@ -11,7 +11,7 @@ January 3, at 10 AM, the Cornerstone church family will worship via **ZOOM** onl
 
 **Scripture**: Isaiah 61:10-62:3
 
-**Sermon Title**: "God's Intimate Care"
+**Sermon Title**: "God's Intimate Care" \[click on the Facebook icon below for more information]
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
