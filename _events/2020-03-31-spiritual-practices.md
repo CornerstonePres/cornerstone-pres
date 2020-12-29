@@ -4,7 +4,7 @@ date: December 29, 2020 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
+banner_image: /images/uploads/aaron-burden-nxt5prob_7u-unsplash.jpg
 priority: false
 ---
 SPIRITUAL PRACTICE for 2021
