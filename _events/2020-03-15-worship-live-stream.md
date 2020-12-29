@@ -7,11 +7,11 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/ornamentexchange.jpg
 priority: true
 ---
-December 27, at 10 AM, the Cornerstone church family will worship via **ZOOM** only this Sunday per the Governor's mandate. (the link is below)
+January 3, at 10 AM, the Cornerstone church family will worship via **ZOOM** only this Sunday per the Governor's mandate. (the link is below)
 
-**Scripture**: Matthew 1:18-25
+**Scripture**: Isaiah 61:10-62:3
 
-**Sermon Title**: "The Songs of Christmas: The 12 Days of Christmas"
+**Sermon Title**: "God's Intimate Care"
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
