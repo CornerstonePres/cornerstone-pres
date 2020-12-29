@@ -4,7 +4,7 @@ date: January 3, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/ornamentexchange.jpg
+banner_image: /images/uploads/meghna-r-my5kbg_xr3k-unsplash.jpg
 priority: true
 ---
 January 3, at 10 AM, the Cornerstone church family will worship via **ZOOM** only this Sunday per the Governor's mandate. (the link is below)
