@@ -13,7 +13,7 @@ Suggested supplies: a writing tool, paper, or a computer notepad, and a quiet sp
 
 In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[ Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyerian Church (USA). \[click the link for further information].  
 
-As part of this we will be engaging in the study of the Gospel of Matthew this year. Each day on our Cornerstone Presbyterian Church Facebook page Pastor Jen will post the day's 3 verse reading. This will begin January 1, 2021 and end Christmas Eve' day.  She will also post the week's readings here for your convenience, starting with January 1 through January 4, and then each week on Tuesday for the remainder of the year.
+As part of this we will be engaging in the study of the Gospel of Matthew this year. Each day on our Cornerstone Presbyterian Church Facebook page Pastor Jen will post the day's 3 verse reading. This will begin January 1, 2021 and end Christmas Eve' day.  She will also post the week's readings here for your convenience, starting with January 1 through January 4, and then each week on Tuesday for the remainder of the year.  You can also check out the "Pastor Jen's Jottings" event on the carousel for reading my own reflections, I (Pastor Jen) will update that page on Tuesdays.
 
 In your Spiritual Practices you are encouraged each day to take 15 minutes to read the verses and do one of the following:  journal, draw, pray over, act upon, find a study tool like a commentary (many are available on-line and through Biblegateway), have a conversation with another person about the reading, or simply spend time with God for yourself in the practice.
 
