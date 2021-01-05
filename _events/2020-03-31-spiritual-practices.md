@@ -34,12 +34,18 @@ Take the next 5 minutes to be present to your self, allow your thoughts to wande
 
 READINGS:
 
-January 1 - Matthew 1:1-3
+January 5 - Matthew 1:13-15
 
-January 2 - Matthew 1:4-6
+January 6 - Matthew 1:15-17
 
-January 3 - Matthew 1:7-9
+January 7 - Matthew 1:18-20
 
-January 4 - Matthew 1:10-12
+January 8 - Matthew 1:21-23
+
+January 9 - Matthew 1:24 to Matthew 2:1
+
+January 10 - Matthew 2:2-4
+
+January 11 - Matthew 2:5-7
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
