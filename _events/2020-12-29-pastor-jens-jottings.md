@@ -7,7 +7,7 @@ map_link: https://www.facebook.com/CornerstonePresOly
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Prologue
+REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Chapter 1:1-3
 
 I like learning about scripture from an historical context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the writer, the circumstances they were facing in the time period from which they wrote, and the people to whom they were writing for that is where the heart, purpose, hope for outcome, and purest intent finds its seed for propagation (telling forth the truth of the gospel). Scholars who study the scriptures are the most reliable source of this type of information.
 
