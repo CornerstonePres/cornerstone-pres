@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: December 29, 2020 12:00 AM
+date: January 5, 2021 12:00 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
