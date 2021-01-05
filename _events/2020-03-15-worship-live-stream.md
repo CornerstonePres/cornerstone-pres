@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: January 3, 2021 10:00 AM
+date: January 10, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/meghna-r-my5kbg_xr3k-unsplash.jpg
 priority: false
 ---
-January 3, at 10 AM, the Cornerstone church family will worship via **ZOOM** only this Sunday per the Governor's mandate. (the link is below)
+January 10, at 10 AM, the Cornerstone church family will worship via **ZOOM** this Sunday per the Governor's mandate. (the link is below)
 
-**Scripture**: Isaiah 61:10-62:3
+**Scripture**: Mark 1:4-11
 
-**Sermon Title**: "God's Intimate Care" \[click on the Facebook icon below for more information]
+**Sermon Title**: The Revelation of Baptism
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
