@@ -1,6 +1,6 @@
 ---
 title: PASTOR JEN's JOTTINGS
-date: January 1, 2021 12:00 AM
+date: January 5, 2021 12:00 AM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
 map_link: https://www.facebook.com/CornerstonePresOly
@@ -15,4 +15,6 @@ It is my understanding that Matthew's Gospel was written to the Hebrew people to
 
 For more information I encourage you to read a commentary such as: *The Interpreter's Bible, Interpretation Commentary, Matthew Henry's Commentary, John Calvin's Commentary*. There is a long list of commentaries available. If you are a member of Cornerstone and would like more information, Pastor Jen is willing to lend you a commentary. Please speak with her directly.
 
-I will update this page every Tuesday with reflections on the previous week's readings. For example: Tuesday, January 5, I will include reflections from the readings for January 1-4, 2021; and, January 12, I will include reflections from the readings for January 5-11, 2021.  I will **date the entry** below.
+My personal reflections are updated every Tuesday with reflections on the previous week's readings. All of the reflections are on this page beginning with the most recent.
+
+**January 5, 2021**
