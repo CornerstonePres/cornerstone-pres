@@ -21,7 +21,7 @@ My personal reflections are updated every Tuesday with reflections on the previo
 
 My dad passed away the night before Thanksgiving in 2020. My brother pointed out to us on Thanksgiving when we went to the funeral home that leaving a legacy was important to my dad.  Growing up we learned a great deal about my mother's family; however, my dad was much quieter about his side of the family.  I can remember searching him out in the furnace room, where he would sit at his work bench reloading his ammunition cartridges for the coming year's hunting season - it was a money saver.  There in the dimly lit, quiet, cozy, rustic space in the corner of the basement, I would inquire about my dad's family. I continued to ask him bits and pieces over the years and even on the last night that we spoke when he was still lucid, he said, "I have something important to tell you about my family."  Those moments of listening to my dad tell his life's story will remain his legacy to me and some of my fondest memories with my dad.
 
-The first time I ever started to the Gospels from start to finish on my own, I was 15.  I began to read it because my dad's mom had passed away and my dad had returned from Oregon with his mom's Bible, the one he had given to her the Christmas of 1957 when he entered the United States Air Force.  Reading those words in King James fashion, "Abraham begat Isaac, Isaac begat Jacob, Jacob begat..." it was heavy for a young mind to decipher the importance and value.
+The first time I ever started to read the Gospels from start to finish on my own, I was 15.  I began to read it because my dad's mom had passed away and my dad had returned from Oregon with his mom's Bible, the one he had given to her the Christmas of 1957 when he entered the United States Air Force.  Reading those words in King James fashion, "Abraham begat Isaac, Isaac begat Jacob, Jacob begat..." it was heavy for a young mind to decipher the importance and value.
 
 It's about more than lineage.  It's like remembering the family stories. Most of us have them - family history.  Those stories that get passed along generation after generation, unless there is a trauma that stops the telling of the stories (but that's a subject for another "Pondering")
 
@@ -35,4 +35,4 @@ Jesus' great grandmother was the prostitute, Rahab. Another of his grandmothers 
 
 And so, I do not take lightly the listing of Jesus' family. I pray you will also not take it lightly, or gloss over it too quickly.  In what family events can you witness the activity of God in your lives that might also be an encouragement to the faith journey of another soul who walks a parallel path?
 
-Love 'n Christ, Pastor Jen
+Love in Christ, Pastor Jen
