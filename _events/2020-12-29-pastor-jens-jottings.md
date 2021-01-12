@@ -25,7 +25,7 @@ I remember my first backpacking expedition with a large group of Christians. Amo
 
 God came into the world to do just this - to carry our load, the load of our sin - and people came great distances to offer gratitude and to pay homage to King who would be born in the lowliest of places, among the lowliest of people.  Scriptures tell us that the low places will be made high by God's hand and in the birth of Jesus Christ we see what is meant.
 
-"But you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Juday; for out of you will come a ruler who will shepherd my people Israel."
+"But you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel."
 
 God has always chosen to take the people most other people consider to be beneath them and to raise them up to leadership. David was a shepherd - defiled and unclean - and made him Israel's greatest king for example. We ought always to see one another through the eyes of God in God's greatest light and not in light of this world. We ought always to view our self as lower than the other person and not lord over people for we have but One Lord, One God, One King - and that is our Lord, Jesus God's Christ. And so, as the hymn lyric goes: "Humble thyself in the sight of the Lord. And He shall lift you up." \[The Maranatha! Singers]
 
