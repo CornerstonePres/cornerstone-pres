@@ -7,7 +7,7 @@ map_link: https://www.facebook.com/CornerstonePresOly
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Chapter 1:4-2:7
+REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Chapter 2:8-3:7
 
 I like learning about scripture from an historical context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the writer, the circumstances they were facing in the time period from which they wrote, and the people to whom they were writing for that is where the heart, purpose, hope for outcome, and purest intent finds its seed for propagation (telling forth the truth of the gospel). Scholars who study the scriptures are the most reliable source of this type of information.
 
@@ -16,6 +16,18 @@ It is my understanding that Matthew's Gospel was written to the Hebrew people to
 For more information I encourage you to read a commentary such as: *The Interpreter's Bible, Interpretation Commentary, Matthew Henry's Commentary, John Calvin's Commentary, or The Reformation Commentary*. There is a long list of commentaries available. If you are a member of Cornerstone and would like more information, Pastor Jen is willing to lend you a commentary. Please speak with her directly.
 
 My personal reflections are updated every Tuesday with reflections on the previous week's readings. All of the reflections are on this page beginning with the most recent.
+
+**January 19, 2021**
+
+God consistently thwarts the attempts by the enemies of God to sabotage God's plans. Each time people with evil intent come at the servants of God, God provides them the way out: when Peter was imprisoned - the angels came to free him; when Joseph was jailed - God freed him; when David faced Goliath - God equipped and empowered him; when Israel was enslaved by Pharoah - God set them free; when Jesus was verbally attacked - He knew the thoughts of those seeking to entrap him and spoke directly; when Herod pursued the infant Jesus - God sent an angel to warn Joseph in a dream and instructed him what to do.
+
+God consistently thwarts the attempts of others to sabotage or stop God's plan among the faithful. God will do this in your life as well. Blessed are the pure in heart, for they will see God. Another way of saying this is that God will reveal God's self to them (in vision, in angelic visitation, in dreams, in foresight). You need not fear those who seek to persecute you, sabotage you, stand in the way of serving with positive hearts, minds, and energy.  Do not fear little flock - continue to be the light of God in a world that seeks to dim the light God gave you to carry.
+
+The way has been made clear for you to carry the joy, truth, and love of the gospel. So walk forward in joy, regardless what others do to thwart God's activity of love through you. For the kingdom of heaven draws near every time you choose to continue to bear the light of Christ and the love of God into your interpersonal relationships.  Be like John, "A voice of one" - one person's voice calling out in an uncertain wilderness can make all the difference in the world. Jesus is proof of this and his call upon you as his follower is to do likewise - "prepare the way for the Lord, make straight paths for him." \[NRSV - Matthew 3:3]
+
+Serving Christ Together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
+
+
 
 **January 12, 2021**
 
