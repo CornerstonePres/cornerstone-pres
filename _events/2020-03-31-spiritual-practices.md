@@ -13,7 +13,7 @@ Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, 
 
 In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[ Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyerian Church (USA). \[click the link for further information].  
 
-As part of this we will be engaging in the study of the Gospel of Matthew this year. Each day on our Cornerstone Presbyterian Church Facebook page Pastor Jen will post the day's 3 verse reading, beginning January 1, 2021 and ending on Christmas Eve' day. Just 3 verses a day from January 1st to December 24th gets you through the Gospel of Matthew. Each Tuesday, she will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
+As part of this we will be engaging in the study of the Gospel of Matthew this year. In reading just 3 verses a day from January 1st to December 24th you will have read through the Gospel of Matthew. Each Tuesday, she will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
 
 In your Spiritual Practices you are encouraged each day to take 15 minutes to read the verses and do one of the following:  journal, draw, pray over, act upon, find a study tool like a commentary (many are available on-line and through Biblegateway), have a conversation with another person about the reading, or simply spend time with God for yourself in the practice.
 
@@ -32,20 +32,20 @@ Spiritual Journal prompt: God's presence is constant and available to you at all
 
 Take the next 5 minutes to be present with your self, allow your thoughts to wander, visualize your favorite walk,  visualize your favorite place to relax. If you are a person who experiences an inner dialogue notice the content of your current dialogue that is inviting you to notice in this moment? Write down your thoughts and any conversation you experience inside your heart, then read it again for the purpose of noticing a point in which you might be asking for healing, encouragement, growth or personal power. See it and understand this is the work of the Heavenly Father within you. The peace of our Lord, Jesus Christ, be with you today and always.
 
-THIS WEEK's READINGS:
+**THIS WEEK's READINGS:**
 
-January 26 - Matthew 4:10-12
+**January 26** - Matthew 4:10-12
 
-January 27 - Matthew 4:13-15
+**January 27** - Matthew 4:13-15
 
-January 28 - Matthew 4:16-18
+**January 28** - Matthew 4:16-18
 
-January 29 - Matthew 4: 19-21
+**January 29** - Matthew 4: 19-21
 
-January 30 - Matthew 4:22-24
+**January 30** - Matthew 4:22-24
 
-January 31 - Matthew 4:25 - 5:2
+**January 31** - Matthew 4:25 - 5:2
 
-February 1 - Matthew 5:3-5
+**February 1** - Matthew 5:3-5
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
