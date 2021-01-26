@@ -15,6 +15,6 @@ January 31, at 10 AM, the Cornerstone church family will worship via **ZOOM** th
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
-**COVID-safe Environment**:   **We will not be worshiping or offering groups indoors at this time.**     
+**COVID-safe Environment**: We will continue to worship from home on ZOOM until the COVID vaccine has been available to all or the Governor's office moves us to a phase that allows for small groups to gather indoors.
 
 LOVE GOD, LOVE OTHERS, and SERVE THE WORLD.
