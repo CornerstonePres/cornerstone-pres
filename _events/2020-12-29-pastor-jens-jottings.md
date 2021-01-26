@@ -63,7 +63,7 @@ My dad passed away the night before Thanksgiving in 2020. My brother pointed out
 
 The first time I ever started to read the Gospels from start to finish on my own, I was 15.  I began to read it because my dad's mom had passed away and my dad had returned from Oregon with his mom's Bible, the one he had given to her the Christmas of 1957 when he entered the United States Air Force.  Reading those words in King James fashion, "Abraham begat Isaac, Isaac begat Jacob, Jacob begat..." it was heavy for a young mind to decipher the importance and value.
 
-It's about more than lineage.  It's like remembering the family stories. Most of us have them - family history.  Those stories that get passed along generation after generation, unless there is a trauma that stops the telling of the stories (but that's a subject for another "Pondering")
+It's about more than lineage.  It's like remembering the family stories. Most of us have them - family history.  Those stories that get passed along generation after generation, unless there is a trauma that stops the telling of the stories (but that's a subject for another "Pondering").
 
 The writer of the gospel crafted this opening as a mirror reflection of Genesis, as a retelling of the family story of Israel and God's activity in the life of this family.
 
