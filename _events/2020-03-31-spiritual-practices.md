@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: January 19, 2021 12:00 PM
+date: January 26, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -9,7 +9,7 @@ priority: false
 ---
 SPIRITUAL PRACTICE for 2021
 
-Suggested supplies: a writing tool, paper, or a computer notepad, and a quiet space
+Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
 In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[ Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyerian Church (USA). \[click the link for further information].  
 
@@ -34,18 +34,18 @@ Take the next 5 minutes to be present with your self, allow your thoughts to wan
 
 THIS WEEK's READINGS:
 
-January 19 - Matthew 3:6-8
+January 26 - Matthew 4:10-12
 
-January 20 - Matthew 3:9-11
+January 27 - Matthew 4:13-15
 
-January 21 - Matthew 3:12-14
+January 28 - Matthew 4:16-18
 
-January 22 - Matthew 3:15-17
+January 29 - Matthew 4: 19-21
 
-January 23 - Matthew 4:1-3
+January 30 - Matthew 4:22-24
 
-January 24 - Matthew 4:4-6
+January 31 - Matthew 4:25 - 5:2
 
-January 25 - Matthew 4:7-9
+February 1 - Matthew 5:3-5
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
