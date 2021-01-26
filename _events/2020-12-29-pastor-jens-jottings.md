@@ -49,7 +49,7 @@ Many of us have taken a long trip. My favorite long trips involve walking, not j
 
 I remember my first backpacking expedition with a large group of Christians. Among the group were a few who believed in the idea of "the faster you are the better you are." This is not always true - in backpacking or in life. There is joy in encouraging the weaker members to realize their personal potential and to remind leaders that they can only go as fast as the weakest member; that we are responsible for one another on the journey; and, that we are responsible to one another - to use helpful language, positive language, encouraging language; to build up and not tear down.  People are willing to travel great distances, carrying heavy loads, for people they care about.
 
-God came into the world to do just this - to carry our load, the load of our sin - and people came great distances to offer gratitude and to pay homage to King who would be born in the lowliest of places, among the lowliest of people.  Scriptures tell us that the low places will be made high by God's hand and in the birth of Jesus Christ we see what is meant.
+God came into the world to do just this - to carry our load, the load of our sin - and people came great distances to offer gratitude and to pay homage to a King who would be born in the lowliest of places, among the lowliest of people.  Scriptures tell us that the low places will be made high by God's hand and in the birth of Jesus Christ we see what is meant.
 
 "But you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel."
 
