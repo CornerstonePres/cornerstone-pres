@@ -7,15 +7,31 @@ map_link: https://www.facebook.com/CornerstonePresOly
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Chapter 2:8-3:7
+REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Chapter 3:8 to Chapter 4:9
 
-I like learning about scripture from an historical context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the writer, the circumstances they were facing in the time period from which they wrote, and the people to whom they were writing for that is where the heart, purpose, hope for outcome, and purest intent finds its seed for propagation (telling forth the truth of the gospel). Scholars who study the scriptures are the most reliable source of this type of information.
+INTRODUCTION:
+
+I am a life-long learner on a variety of subjects.  I particularly enjoy learning in-depth about scriptures, including from an historical context, a linguistic context, a spiritual context, and a social context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the writer, the circumstances they were facing in the time period from which they wrote and the people to whom they were writing, for that is where the heart, purpose, hoped for outcome, and purest intent finds its seed for propagation (telling forward the truth of the gospel). Scholars who study the scriptures are the most reliable sources of this type of information.
 
 It is my understanding that Matthew's Gospel was written to the Hebrew people to encourage them to place their faith in God that Jesus of Nazareth was and is God's promised Messiah.  Matthew wrote in a particular style for this very specific purpose. His gospel is written in mirror form of the Pentateuch (the first 5 books of the Old Testament in the Christian Bible): Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Matthew's gospel is written in 5 parts as well.  
 
 For more information I encourage you to read a commentary such as: *The Interpreter's Bible, Interpretation Commentary, Matthew Henry's Commentary, John Calvin's Commentary, or The Reformation Commentary*. There is a long list of commentaries available. If you are a member of Cornerstone and would like more information, Pastor Jen is willing to lend you a commentary. Please speak with her directly.
 
 My personal reflections are updated every Tuesday with reflections on the previous week's readings. All of the reflections are on this page beginning with the most recent.
+
+**January 26, 2021**
+
+It is far too easy for us as human beings to rely solely or completely upon the traditions of those who have gone before us.  If we have learned nothing else in the denominational circle of faith, it ought to be that.  God is always at work in and amongst God's children and a new generation arising will bear witness to the gospel in the contexts of the world in which they find themselves. That is not to say there is no "truth" upon which to build the solid foundation of faith.
+
+The writer of Matthew's gospel began last week in chapter 3, verses 8-9 with John's words to this effect.  John the Baptist said:
+
+"Produce fruit in keeping with repentance. And do not think you can say to yourselves, 'We have Abraham as our father'. I tell you that out of these stones God can raise up children for Abraham."
+
+We cannot go through this life idlely saying, "I have faith: I believe", without giving physical witness to our faith that God is love.  "...every tree that does not produce fruit will be cut down and thrown into the fire" \[Mt. 3:10].
+
+When we consider being a Matthew 25 Congregation with the mission and vision of being a Christ-centered family who love God, love others, and serve the world, it is with the united mind, intent, and purpose of existing in Olympia as a Vital Congregation, seeking and working to Eradicate Systemic Poverty, and to Dismantle Structural Racism with the hopes that our activities in the community will produce fruits of faith in the people God calls us to love and to serve.
+
+Serving Christ Together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
 
 **January 19, 2021**
 
@@ -26,8 +42,6 @@ God consistently thwarts the attempts of others to sabotage or stop God's plan a
 The way has been made clear for you to carry the joy, truth, and love of the gospel. So walk forward in joy, regardless what others do to thwart God's activity of love through you. For the kingdom of heaven draws near every time you choose to continue to bear the light of Christ and the love of God into your interpersonal relationships.  Be like John, "A voice of one" - one person's voice calling out in an uncertain wilderness can make all the difference in the world. Jesus is proof of this and his call upon you as his follower is to do likewise - "prepare the way for the Lord, make straight paths for him." \[NRSV - Matthew 3:3]
 
 Serving Christ Together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
-
-
 
 **January 12, 2021**
 
