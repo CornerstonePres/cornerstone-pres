@@ -33,9 +33,9 @@ So that, when we say to the Lord, "Test me and see that my heart is good," we ou
 
 And so, we have Jesus being tempted by the accuser.  Remember that Jesus was sent or driven by the Holy Spirit out into the wilderness for the holy purpose to be tempted to sin in body, mind, and soul.  And upon addressing each type of temptation, responded appropriately with, "Away from me Satan!" 
 
-Puts all of our own temptations into perspective and shows us the absolute way of resisting "And lead us not into temptation but deliver us from evil" takes on a complete understanding of the term and its application in your and my every day living.
+The realization that Jesus has supplied you and I with the words needed to put behind us all of our own temptations, assists us in taking hold of a true perspective and shows us the absolute way of resisting. "And lead us not into temptation but deliver us from evil" takes on a complete understanding of the term and its application in your and my every day living.
 
-Jesus has provided you and I with the language needed to put temptation behind us and empower us to move forward as godly sons and daughters of the Most High.
+Jesus has provided you and I with the language needed to put temptation behind us and has empowered us to move forward as godly sons and daughters of the Most High.
 
 May God's Word bless and feed you this day and each day you carry these thoughts with you in mind and spirit.
 
