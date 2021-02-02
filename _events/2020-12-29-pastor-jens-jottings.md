@@ -1,6 +1,6 @@
 ---
 title: PASTOR JEN's JOTTINGS
-date: January 26, 2021 12:00 AM
+date: February 2, 2021 12:00 AM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
 map_link: https://www.facebook.com/CornerstonePresOly
