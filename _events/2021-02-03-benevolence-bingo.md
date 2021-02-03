@@ -15,6 +15,6 @@ What is **Benevolence BINGO**?? you ask?
 
 * During the **Deacon** **Social Hour** we will play several rounds of on-line BINGO. 
 * You will receive instructions when you join the ZOOM Social Hour. 
-* The winner of each round will get to select the Heifer International project they desire to receive a designated amount from the Deacons' Benevolence Fund. (A list of projects will provided in the "CHAT" section of your ZOOM screen.)
+* The winner of each round will get to select the Heifer International project they desire to receive a designated amount from the Deacons' Benevolence Fund. (A list of projects will be provided in the "CHAT" section of your ZOOM screen.)
 
 The Mission Statement of Cornerstone Presbyterian Church is to be a Christ-centered community that Loves God, Loves Others, and Serves the World. As a participating congregation of the Presbyterian Church (USA) Matthew 25 initiative, we seek to carry out our mission by joining others in Eradicating Systemic Poverty, Dismantling Structural Racism, and Being A Vital Congregation in our community.  [Heifer International ](https://myheiferfoundationgiving.org)(this is a link to their site if you'd like more information) is an organization who seek to lift people out of poverty, give them skills to start a business that is capable of sustaining their family, and supports our endeavor to dismantle structural racism both in the United States and abroad.
