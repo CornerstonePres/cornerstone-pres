@@ -5,7 +5,7 @@ layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/sarah-gualtieri-tr9go9wxnri-unsplash.jpg
-priority: false
+priority: true
 ---
 February 7, at 10 AM, the Cornerstone church family will worship via **ZOOM** this Sunday per the Governor's mandate. (the link is below)
 
