@@ -19,6 +19,30 @@ For more information I encourage you to read a commentary such as: *The Interpre
 
 My personal reflections are updated every Tuesday with reflections on the previous week's readings. I will leave up the reflections for the current month beginning with the most recent. If you would care to read Jen's Jottings from previous months, please contact her and she is happy to email you the archived materials.
 
+**February 9, 2021** Matthew 5:6-27
+
+"Anyone who breaks one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven. For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven." \[Matthew 5:19-20, NIV]
+
+Three phrases in these two verses have taken hold of my attention today.
+
+1) "will be called least in the kingdom of heaven";
+
+2) "will be called great in the kingdom of heaven"; and,
+
+3) "will certainly not enter the kingdom of heaven."
+
+I notice that my thoughts instinctively begin to sort and attempt to discern the outcome of my life - to which group will I belong? Another thought arising goes to the question: what is at the heart of Jesus' teaching in these phrases. The kingdom of heaven is a conceptualization of the kingdom of God. So upon which does Scripture encourage a person to focus?
+
+Rabbinic teaching thought of God's sovereignty as "a divine discipline to be accepted by individuals by obedient submission to God's will [*The Interpreter's Dictionary of the Bible*, vol. 3, p. 20]."  This is certainly reflected in Jesus' saying above: those who are obedient to God's Law and to teaching it in all walks of life will be called (by whom?) "great in the kingdom of heaven" and this is appealing to our human competitive nature to have a high view of one's self. This high view of one's self was an point Jesus often addressed, and in fact addressed in his teaching in the Sermon on the Mount (refer to Matthew 6:1; 6:16ff; 7:1-6).  
+
+The conceptualization of God's kingdom as an ideal to be taken upon by a person and carried with them was a common contemporary thought in Jesus' time. Jesus was well aware of the various ways the people conceived the idea. And in this passage is subtly addressing the difficulties found therein if one truly knows God. Jesus' predominant use in this lesson is an eschatological one - it regards the kingdom that is to come.
+
+Understanding and grasping the view of the people in Jesus' time and having insight into Jesus' conception, are imperative to our own understanding when reading of the passage above. Jesus acknowledges in this teaching both the common view people held and his teaching about God's kingdom being one of grace and forgiveness - a resurrection kingdom. Then we can see the point Jesus is making: you can only be called great in the kingdom of heaven if your own actions exceed those who view themselves as perfect in carrying out the Ten Commandments; knowing this is impossible, we realize that we are indeed, each and everyone, the least in the kingdom of heaven because we fail to uphold God's law in every way (Jesus will then drive home his point by showing us we sin even when we do not carry out the action - one does not have to commit murder to be a murderer in God's eye for if you even do the smallest thing such as THINK someone is without capability of thinking "correctly" you have committed murder in your heart already). Thus the point Jesus is making becomes clear - we will enter the kingdom of heaven by God's grace and forgiveness alone. We will enter the kingdom of heaven through God's Son, the Messiah who forgives the sins of the world. Have mercy upon us Lord, in Jesus' name. Amen.
+
+The peace, grace, and love of our Lord Jesus Christ be yours today and always. Pastor Jen
+
+
+
 **February 2, 2021**  Matthew 4:10 to 5:5
 
 "Get away from me Satan"
