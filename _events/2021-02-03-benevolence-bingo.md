@@ -5,7 +5,7 @@ layout: event
 location: 218 Overhulse Road NW, Olympia, WA 98502
 map_link: https://goo.gl/maps/WoSQ3EqZPSxVbyrQ8
 banner_image: /images/uploads/kerri-shaver-eb2ztallktw-unsplash.jpg
-priority: true
+priority: false
 ---
 **Happy Valentine's Day!** The Deacons are hosting this Cornerstone Cares Benevolence BINGO party on **FRIDAY, February 12, at 5:30 p.m.**
 
