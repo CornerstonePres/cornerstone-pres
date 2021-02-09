@@ -1,6 +1,6 @@
 ---
 title: WORSHIP
-date: February 7, 2021 10:00 AM
+date: February 14, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
