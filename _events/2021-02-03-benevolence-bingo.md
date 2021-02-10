@@ -9,7 +9,7 @@ priority: false
 ---
 **Happy Valentine's Day!** The Deacons are hosting this Cornerstone Cares Benevolence BINGO party on **FRIDAY, February 12, at 5:30 p.m.**
 
-Benevolence [BINGO ZOOM link](<https://zoom.us/j/576205605? pwd=ZG9TMWF3QUVmdFdoVnJ5SnJndFdlZz09>)
+Benevolence [BINGO ZOOM](<https://zoom.us/j/576205605? pwd=ZG9TMWF3QUVmdFdoVnJ5SnJndFdlZz09>) link
 
 What is **Benevolence BINGO**?? you ask? 
 
