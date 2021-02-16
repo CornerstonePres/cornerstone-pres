@@ -1,5 +1,5 @@
 ---
-title: BENEVOLENCE BINGO
+title: BENEVOLENCE BINGO RESULTS
 date: February 16, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Road NW, Olympia, WA 98502
