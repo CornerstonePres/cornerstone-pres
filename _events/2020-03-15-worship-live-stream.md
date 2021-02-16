@@ -5,9 +5,9 @@ layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/rinck-content-studio-dovov_nkjfe-unsplash.jpg
-priority: false
+priority: true
 ---
-February 21, at 10 AM, the Cornerstone church family will worship via **ZOOM** this Sunday.  As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
+February 21, at 10 AM, the Cornerstone church family will worship both in the **SANCTUARY** and via **ZOOM** this Sunday.  As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
 **Scripture**: Psalm 25
 
