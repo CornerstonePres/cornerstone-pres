@@ -15,6 +15,6 @@ February 21, at 10 AM, the Cornerstone church family will worship via **ZOOM** t
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
-**COVID-safe Environment**: As Thurston County is in Phase 2 as of Jan. 28, 2021, of the Governor's plan, we are able to offer worship both via ZOOM and in the SANCTUARY for up to 20 people with masks.  We look forward to our worship time together.
+**COVID-safe Environment**: As Thurston County is in Phase 2 as of Jan. 28, 2021, of the Governor's plan, we are able to offer worship both via ZOOM and in the SANCTUARY for up to 20 people with masks.  We look forward to our worship time together. If you prefer to worship in person, I encourage you to come join Pastor Jen in the Sanctuary.
 
 LOVE GOD, LOVE OTHERS, and SERVE THE WORLD.
