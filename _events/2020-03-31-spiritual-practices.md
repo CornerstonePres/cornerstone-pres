@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: February 9, 2021 12:00 PM
+date: February 16, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -34,18 +34,18 @@ Take the next 5 minutes to be present with your self, allow your thoughts to wan
 
 **THIS WEEK's READINGS:**
 
-**February 9** - Matthew 5:28-30 
+**February 16** - Matthew 6:1-3
 
-**February 10** - Matthew 5:31-33 
+**February 17** - Matthew 6:4-6
 
-**February 11** - Matthew 5:34-36
+**February 18** - Matthew 6:7-9
 
-**February 12** - Matthew 5:37-39
+**February 19** - Matthew 6:10-12
 
-**February** 13 - Matthew 5:40-42
+**February 20** - Matthew 6:13-15
 
-**February 14** - Matthew 5:43-45
+**February 21** - Matthew 6:16-18
 
-**February 15** - Matthew 5:46-48
+**February 22** - Matthew 6:19-21
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
