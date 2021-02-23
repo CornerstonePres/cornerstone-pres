@@ -1,6 +1,6 @@
 ---
 title: PASTOR JEN's JOTTINGS
-date: February 2, 2021 12:00 AM
+date: February 23, 2021 12:00 AM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
 map_link: https://www.facebook.com/CornerstonePresOly
@@ -21,7 +21,22 @@ My personal reflections are updated every Tuesday with reflections on the previo
 
 **February 23, 2021** Matthew 6:1-21
 
+We’ve all been there.  We’ve each done it – sought out attention. Sometimes attention seeking is positive and sometimes negative. There is an old saying in treatment center circles, “Negative attention is better than no attention.” So when a person experiences neglect or is missing positive attention from someone they look up to, they will act out, become angry, set their teeth on edge against you, sabotage you or themselves, in order to get your attention. You can notice the same types of behaviors in your pets. Typically a person does so without even realizing that is what they are doing. And it stems back to this need we have for belonging and love. However, that choice often does not result in the positive feedback we crave. “Is that choice helpful or harmful?” then becomes the question. 
 
+Jesus acknowledges people’s penchant for attention seeking behavior in religious circles too. We gravitate toward the misconception that when others witness our good acts, acts of kindness, benevolent acts we will receive an eternal reward.  The accolades or perceived approval rewards our brain center. This is a positive result we want to pursue as it encourages us to continue to carry out such actions.  So, it is imperative to my thinking to point out what Jesus IS saying and what Jesus is NOT saying in our verses for last week so that we have a proper context.
+
+In the context of Matthew 6:1, 5, 16, 19-21 \[all scripture quotes are from the NIV]
+
+* “Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.”
+* “And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by others. Truly, I tell you, they have received their reward in full.”
+* “When you fast, do not look somber as the hypocrites do, for they disfigure their faces to show others they are fasting. Truly I tell you, they have received their reward in full.
+* “Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. For where your treasure is, there your heart will be also.”
+
+Jesus is encouraging his followers to realize that their *motivation* for doing these acts is important. His point is – do not participate in these behaviors “for show”. A good way to test your motivation is to engage in your giving at times without anyone knowing how it is you have supplied the needs of another "do not let your left hand know what your right hand is doing" \[Mt. 6:3]; without anyone knowing what your positive conversations are for a person you are struggling with for example \[Mt. 6:6-8]; without showing the depths of your devotion to God \[Mt. 6:17-18] but instead: to give, to pray, to fast in ways that only God will see.
+
+By focusing your motivation upon devotional love for God, you will experience longer-lasting and greater reward than in those times your motivation is to impress others. \[Mt. 6:19-21] "Do not store up for yourselves treasures on earth, where moths and vermin destory, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. For where your treasure is, there your heart will be also."
+
+Let your spiritual practice this week include giving financially, praying, and fasting in ways that only you and God know about and share the results you notice with us on our Facebook page: <https://www.facebook.com/CornerstonePresOly>
 
 **February 16, 2021** Matthew 5:28-48
 
@@ -72,8 +87,6 @@ During the season of Lent, followers of Jesus (Christians), are encouraged to ex
 Have mercy upon us Lord, in Jesus' name. Amen.
 
 The peace, grace, and love of our Lord Jesus Christ be yours today and always. Pastor Jen
-
-
 
 **February 2, 2021**  Matthew 4:10 to 5:5
 
