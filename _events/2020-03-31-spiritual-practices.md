@@ -34,18 +34,18 @@ Take the next 5 minutes to be present with your self, allow your thoughts to wan
 
 **THIS WEEK's READINGS:**
 
-**February 16** - Matthew 6:1-3
+**February 23** - Matthew 6:22-24
 
-**February 17** - Matthew 6:4-6
+**February 24** - Matthew 6:25-27
 
-**February 18** - Matthew 6:7-9
+**February 25** - Matthew 6:28-30
 
-**February 19** - Matthew 6:10-12
+**February 26** - Matthew 6:31-33
 
-**February 20** - Matthew 6:13-15
+**February 27** - Matthew 6:34-7:2
 
-**February 21** - Matthew 6:16-18
+**February 28** - Matthew 7:3-5
 
-**February 22** - Matthew 6:19-21
+**March 1** - Matthew 7:6-8
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
