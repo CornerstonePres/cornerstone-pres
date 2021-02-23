@@ -19,6 +19,36 @@ For more information I encourage you to read a commentary such as: *The Interpre
 
 My personal reflections are updated every Tuesday with reflections on the previous week's readings. I will leave up the reflections for the current month beginning with the most recent. If you would care to read Jen's Jottings from previous months, please contact her and she is happy to email you the archived materials.
 
+**February 23, 2021** Matthew 6:1-21
+
+
+
+**February 16, 2021** Matthew 5:28-48
+
+It has been an oft too common practice in religious circles to misinterpret the scriptures read for last week.  I would be intrigued to learn what your personal reflections and thoughts are. Any who take time to read these reflections will soon know my reflections regarding the context.
+
+Were we to read the above listed verses in Chapter 5, in an isolated reading, we might come to an incomplete conclusion of the main point of Jesus’ sayings in this text.  Verses 27-48 begin with illustrative scenarios for the statement he makes in verses 17-20 regarding his being the fulfillment of the Law.  Last week I addressed verse 19 in particular (“Therefore, anyone who sets aside one of the least of these commandments and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.” \[NIV])
+
+Jesus shows “You have heard it said … “ \[NIV vs. 21] to be a phrase he used to set before the listener a teaching through a list of examples with which they are already familiar. It is like saying, “you know how it is” in modern vernacular.  Jesus is making an emphatic point to show that there is not one single person who has not committed sin – whether in word, deed, or THOUGHT. He states that if you say the simplest insult – "You’re a fool," as an example – you have committed murder in your heart toward that person.  How many people have you and I murdered when taking that saying literally?
+
+Jesus’ point is that ALL are in need of repenting for their sins and ALL are in need of God’s grace and forgiveness.
+
+Jesus’ next prominent line is to support the point that aligns with love your neighbor as yourself – “Settle matters quickly with your adversary who is taking you to court.” In other words, if you know someone has a legitimate experience of your sin against them, go and clear up the matter, apologize, and offer steps for reconciliation.  If you have harmed someone and do not, and they have a case against you in the afterlife, God will hold you accountable for what is left unsettled or unrepaired.
+
+Then moving into the text for last week: Matthew 5:28-48 the subjects of Adultery, Divorce, and Oaths are in the same context as those just now discussed. They are examples for the point Jesus is making.
+
+Beginning in verse 43, we hear Jesus get to the point – “love your enemies and pray for those who persecute you, that you may be children of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. If you love those who love, what reward will you get? Are not even the tax collectors doing that? And if you greet only your own people, what are you doing more than others? Do not even pagans do that? Be perfect, therefore, as your heavenly Father is perfect.” \[NIV]
+
+This does NOT mean that we excuse the inappropriate behavior of another.  It DOES mean that we are to love everyone, especially those who are hardest on us.  We are to pray for them. There is a saying I learned while working in treatment centers – “hurt people, hurt people.” If someone is attempting to hurt you, it comes from a deep place in their heart of having been wounded by others first. Most times, they are not even aware of their own wounded spirit: they lash out, typically with words meant to hurt you through personal insults; to diminish you in the eyes of others by putting you down or mocking or discrediting you in some way; to take away from you the opportunity to share the spiritual gifts through which your godly light shines; and/or, to emotionally manipulate you or sabotage the efforts you make. If any of this sounds familiar to you, I encourage you to seek out pastoral support for your spiritual journey with persecution.
+
+Jesus is saying what you already know – it is easy to love those who love you; to spend time with people who are “your tribe”; and/or, to bless those who bless you.  Everyone, regardless of one’s belief and faith system, does this because it is *human nature*. One of our mind’s hierarchal needs is *BELONGING*.  Jesus reminds you that if this approach to love were a reflection of Godly love, none of us would ever make it to God’s heavenly realm. 
+
+God’s love reaches out to you and I (who are the enemy of God because we sin against God) regardless of our status as an enemy of God. This is the reason he used all of those examples – to drive home his point on God’s forgiving grace. You and I are living in godliness when we choose likewise to forgive and to love in the same way as God loves and forgives us.
+
+Won’t you have courage my friend – the courage Jesus had – to forgive those who hurt you; to pray for those who make your life tough or unpleasant and thus be like your Father in Heaven and be called “Child of God”?
+
+Serving Christ Together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
+
 **February 9, 2021** Matthew 5:6-27
 
 "Anyone who breaks one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven. For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven." \[Matthew 5:19-20, NIV]
@@ -35,39 +65,15 @@ Rabbinic teaching thought of God's sovereignty as "a divine discipline to be acc
 
 The conceptualization of God's kingdom as an ideal to be taken upon by a person and carried with them was a common contemporary thought in Jesus' time. Jesus was well aware of the various ways the people conceived the idea. And in this passage is subtly addressing the difficulties found therein if one truly knows God. Jesus' predominant use in this lesson is an eschatological one - it regards the kingdom that is to come.
 
-Understanding and grasping the view of the people in Jesus' time and having insight into Jesus' conception, are imperative to our own understanding when reading of the passage above. Jesus acknowledges in this teaching both the common view people held and his teaching about God's kingdom being one of grace and forgiveness - a resurrection kingdom. Then we can see the point Jesus is making: you can only be called great in the kingdom of heaven if your own actions exceed those who view themselves as perfect in carrying out the Ten Commandments; knowing this is impossible, we realize that we are indeed, each and everyone, the least in the kingdom of heaven because we fail to uphold God's law in every way (Jesus will then drive home his point by showing us we sin even when we do not carry out the action - one does not have to commit murder to be a murderer in God's eye for if you even do the smallest thing such as THINK someone is without capability of thinking "correctly" you have committed murder in your heart already). Thus the point Jesus is making becomes clear - we will enter the kingdom of heaven by God's grace and forgiveness alone. We will enter the kingdom of heaven through God's Son, the Messiah who forgives the sins of the world. Have mercy upon us Lord, in Jesus' name. Amen.
+Understanding and grasping the view of the people in Jesus' time and having insight into Jesus' conception, are imperative to our own understanding when reading of the passage above. Jesus acknowledges in this teaching both the common view people held and his teaching about God's kingdom being one of grace and forgiveness - a resurrection kingdom. Then we can see the point Jesus is making: you can only be called great in the kingdom of heaven if your own actions exceed those who view themselves as perfect in carrying out the Ten Commandments; knowing this is impossible, we realize that we are indeed, each and everyone, the least in the kingdom of heaven because we fail to uphold God's law in every way (Jesus will then drive home his point by showing us we sin even when we do not carry out the action - one does not have to commit murder to be a murderer in God's eye for if you even do the smallest thing such as THINK someone is without capability of thinking "correctly" you have committed murder in your heart already). Thus the point Jesus is making becomes clear - we will enter the kingdom of heaven by God's grace and forgiveness alone. We will enter the kingdom of heaven through God's Son, the Messiah who forgives the sins of the world. 
+
+During the season of Lent, followers of Jesus (Christians), are encouraged to examine their daily living, to repent for the sin against others, God, and self and to return to the ways of God the Father, as a child follows the example of their parent/s or care-givers ("the fruit doesn't fall far from the tree").  May you have the bold courage to be honest with your own self about your need for God's forgiveness and humbly seek it out.
+
+Have mercy upon us Lord, in Jesus' name. Amen.
 
 The peace, grace, and love of our Lord Jesus Christ be yours today and always. Pastor Jen
 
-**February 16, 2021** Matthew 5:28-48
 
-It has been an oft too common practice in religious circles to misinterpret the scriptures read for last week.  I would be intrigued to learn what your personal reflections and thoughts are. Any who take time to read these reflections will soon know my reflections regarding the context.
-
-Were we to read the above listed verses in Chapter 5, in an isolated reading, we might come to an incomplete conclusion of the main point of Jesus’ sayings in this text.  Verses 27-48 begin with illustrative scenarios for the statement he makes in verses 17-20 regarding his being the fulfillment of the Law.  Last week I addressed verse 19 in particular (“Therefore, anyone who sets aside one of the least of these commandments and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.” \[NIV])
-
-Jesus shows “You have heard it said … “ \[NIV vs. 21] to be a phrase he used to set before the listener a teaching through a list of examples with which they are already familiar. It is like saying, “you know how it is” in modern vernacular.  Jesus is making an emphatic point to show that there is not one single person who has not committed sin – whether in word, deed, or THOUGHT. He states that if you say the simplest insult – You’re a fool as an example – you have committed murder in your heart toward that person.  How many people have you and I murdered when taking that saying literally?
-
-Jesus’ point is that ALL are in need of repenting for their sins and ALL are in need of God’s grace and forgiveness.
-
-Jesus’ next prominent line is to support the point that aligns with love your neighbor as yourself – “Settle matters quickly with your adversary who is taking you to court.” In other words, if you know someone has a legitimate experience of your sin against them, go and clear up the matter, apologize, and offer steps for reconciliation.  If you have harmed someone and do not, and they have a case against you in the afterlife, God will hold you accountable for what is left unsettled or unrepaired.
-
-Then moving into the text for last week: Matthew 5:28-48 the subjects of Adultery, Divorce, and Oaths are in the same context as those just now discussed. They are examples for the point Jesus is making.
-
-Beginning in verse 43, we hear Jesus get to the point – “love your enemies and pray for those who persecute you, that you may be children of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. If you love those who love, what reward will you get? Are not even the tax collectors doing that? And if you greet only your own people, what are you doing more than others? Do not even pagans do that? Be perfect, therefore, as your heavenly Father is perfect.” \[NIV]
-
-This does NOT mean that we excuse the inappropriate behavior of another.  It DOES mean that we are to love everyone, especially those who are hardest on us.  We are to pray for them. There is a saying I learned while working in treatment centers – “hurt people, hurt people.” If someone is attempting to hurt you, it comes from a deep place in their heart of having been wounded by others first. Most times, they are not even aware of their own wounded spirit: they lash out, typically with words meant to hurt you through personal insults; to diminish you in the eyes of others by putting you down or mocking or discrediting you in some way; to take away from you the opportunity to share the spiritual gifts through which your godly light shines; and/or, to emotionally manipulate you or sabotage the efforts you make. If any of this sounds familiar to you, I encourage you to seek out pastoral support for your spiritual journey with persecution.
-
-Jesus is saying what you already know – it is easy to love those who love you; to spend time with people who are “your tribe”; and/or, to bless those who bless you.  Everyone, regardless of one’s belief and faith system, does this because it is **human nature**. One of our mind’s hierarchal needs is **BELONGING**.  Jesus reminds you that if this approach to love were a reflection of Godly love, none of us would ever make it to God’s heavenly realm. 
-
-God’s love reaches out to you and I (who are the enemy of God because we sin against God) regardless of our status as an enemy of God. This is the reason he used all of those examples – to drive home his point on God’s forgiving grace. You and I are living in godliness when we choose to do the same.
-
-Won’t you have courage my friend – the courage Jesus had – to forgive those who hurt you; to pray for those who make your life tough or unpleasant and thus be like your Father in Heaven and be called “Child of God”?
-
-Serving Christ Together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
-
-**February 9, 2021** Matthew 5:6-5:27
-
-\[this entry was deleted unbeknownst to the writer. We apologize for the lost content. Back-ups are now in place to prevent a reoccurence]
 
 **February 2, 2021**  Matthew 4:10 to 5:5
 
