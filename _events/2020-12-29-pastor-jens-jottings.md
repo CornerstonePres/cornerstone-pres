@@ -25,9 +25,9 @@ Ask.  Seek.  Knock.  Run to the One who can transform us, make us into the pe
 
 
 
+REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW:
 
-
-REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: **Chapter 5:28-48**
+ **Chapter 5:28-48**
 
 INTRODUCTION:
 
