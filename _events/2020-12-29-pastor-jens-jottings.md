@@ -23,11 +23,7 @@ Ask.  Seek.  Knock.  Run to the One who can transform us, make us into the pe
 
  Grab that promise!
 
-
-
-
-
-###### **INTRODUCTION:**
+# **INTRODUCTION:**
 
 I am a life-long learner on a variety of subjects.  I particularly enjoy learning in-depth about scriptures, including from an historical context, a linguistic context, a spiritual context, and a social context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the writer, the circumstances they were facing in the time period from which they wrote and the people to whom they were writing, for that is where the heart, purpose, hoped for outcome, and purest intent finds its seed for propagation (telling forward the truth of the gospel). Scholars who study the scriptures are the most reliable sources of this type of information.
 
