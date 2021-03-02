@@ -7,7 +7,7 @@ map_link: https://goo.gl/maps/WoSQ3EqZPSxVbyrQ8
 banner_image: /images/uploads/kerri-shaver-eb2ztallktw-unsplash.jpg
 priority: false
 ---
-What a gloriously fun time was had by all attendees!  Thank you to our Deacons and Pastor Jen for this fun and creative way to involve us all in living out the mission of Cornerstone Presbyterian! Here are the projects our winners chose to support through the Deacon Benevolence Fund:
+What a gloriously fun time was had by all attendees!  Thank you to our Deacons and Pastor Jen for this fun and creative way to involve us all in living out the mission of Cornerstone Presbyterian Church! Here are the projects our winners chose to support through the Deacon's Benevolence Fund:
 
 2 Flocks of Chickens
 
