@@ -7,9 +7,9 @@ map_link: https://www.facebook.com/CornerstonePresOly
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-March 2, 2021 Matthew 6:22-7:8
+**March 2, 2021 Matthew 6:22-7:8**
 
-By a Mysterious Guest Jotter
+**By a Mysterious Guest Jotter**
 
      Jesus has given us a lot of “commandments” in Matthew 5-7 so far: about murder and anger, adultery and divorce, vows and revenge, loving enemies and giving to the poor, fasting and prayer.  Now he is telling us to be contented with what we have and not to worry.  He enjoins us to not be judges of each other, but to look to our own attitudes and behavior.  I don’t know about you, but at this point I’m sinking under the conviction of my own utter inability to do ANY of this.  How in the world can I be the perfect person God wants me to be?
 
@@ -22,8 +22,6 @@ By a Mysterious Guest Jotter
      “For EVERYONE who asks, receives; she who seeks, finds; and to him who knocks, the door will be opened.” 
 
      Grab that promise!
-
-
 
 REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Chapter 5:28-48
 
