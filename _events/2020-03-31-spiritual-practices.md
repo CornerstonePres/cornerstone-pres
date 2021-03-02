@@ -11,7 +11,9 @@ SPIRITUAL PRACTICE for 2021
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
-In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[ Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyterian Church (USA). \[click the link for further information].  
+In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/)
+
+### [ Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyterian Church (USA). \[click the link for further information].  
 
 As part of this we will be engaging in the study of the Gospel of Matthew this year. In reading just 3 verses a day from January 1st to December 24th you will have read through the Gospel of Matthew. Each Tuesday, she will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
 
