@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: March 2, 2021 12:23 PM
+date: March 2, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
