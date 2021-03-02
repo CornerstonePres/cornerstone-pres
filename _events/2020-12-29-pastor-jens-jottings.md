@@ -11,17 +11,19 @@ priority: false
 
 **By a Mysterious Guest Jotter**
 
-     Jesus has given us a lot of “commandments” in Matthew 5-7 so far: about murder and anger, adultery and divorce, vows and revenge, loving enemies and giving to the poor, fasting and prayer.  Now he is telling us to be contented with what we have and not to worry.  He enjoins us to not be judges of each other, but to look to our own attitudes and behavior.  I don’t know about you, but at this point I’m sinking under the conviction of my own utter inability to do ANY of this.  How in the world can I be the perfect person God wants me to be?
+Jesus has given us a lot of “commandments” in Matthew 5-7 so far: about murder and anger, adultery and divorce, vows and revenge, loving enemies and giving to the poor, fasting and prayer.  Now he is telling us to be contented with what we have and not to worry.  He enjoins us to not be judges of each other, but to look to our own attitudes and behavior.  I don’t know about you, but at this point I’m sinking under the conviction of my own utter inability to do ANY of this.  How in the world can I be the perfect person God wants me to be?
 
-    The simple answer is that I can’t.  I am completely incapable of loving my own brothers and sisters, much less my enemies.  How can I survive without worrying, without judging?  What Jesus asks is impossible!
+The simple answer is that I can’t.  I am completely incapable of loving my own brothers and sisters, much less my enemies.  How can I survive without worrying, without judging?  What Jesus asks is impossible!
 
-     Yes.  It is.  On my own I can’t do any of this.  So now in Matthew 7:7 Jesus directs me to the One Who Sees Me, the One Who Hears Me, the All Mighty, the Creator of the world, my Rock, my Hiding Place, my Savior.
+Yes.  It is.  On my own I can’t do any of this.  So now in Matthew 7:7 Jesus directs me to the One Who Sees Me, the One Who Hears Me, the All Mighty, the Creator of the world, my Rock, my Hiding Place, my Savior.
 
-     Ask.  Seek.  Knock.  Run to the One who can transform us, make us into the people He created us to be, into the image of His Son.
+Ask.  Seek.  Knock.  Run to the One who can transform us, make us into the people He created us to be, into the image of His Son. 
 
-     “For EVERYONE who asks, receives; she who seeks, finds; and to him who knocks, the door will be opened.” 
+“For EVERYONE who asks, receives; she who seeks, finds; and to him who knocks, the door will be opened.” 
 
-     Grab that promise!
+ Grab that promise!
+
+
 
 
 
