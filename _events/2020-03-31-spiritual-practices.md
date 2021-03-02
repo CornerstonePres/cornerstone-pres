@@ -1,17 +1,17 @@
 ---
 title: SPIRITUAL PRACTICE
-date: February 23, 2021 12:00 PM
+date: March 2, 2021 11:43 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/aaron-burden-nxt5prob_7u-unsplash.jpg
+banner_image: /images/uploads/matthew-7.jpg
 priority: false
 ---
 SPIRITUAL PRACTICE for 2021
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
-In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[ Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyerian Church (USA). \[click the link for further information].  
+In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[ Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyterian Church (USA). \[click the link for further information].  
 
 As part of this we will be engaging in the study of the Gospel of Matthew this year. In reading just 3 verses a day from January 1st to December 24th you will have read through the Gospel of Matthew. Each Tuesday, she will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
 
@@ -30,22 +30,22 @@ Spiritual Journal prompt: God's presence is constant and available to you at all
 7. listen to the silence around you
 8. allow your mind to focus on only one subject - what was the first thing you noticed?
 
-Take the next 5 minutes to be present with your self, allow your thoughts to wander, visualize your favorite walk,  visualize your favorite place to relax. If you are a person who experiences an inner dialogue notice the content of your current dialogue that is inviting you to notice in this moment? Write down your thoughts and any conversation you experience inside your heart, then read it again for the purpose of noticing a point in which you might be asking for healing, encouragement, growth or personal power. See it and understand this is the work of the Heavenly Father within you. The peace of our Lord, Jesus Christ, be with you today and always.
+Take the next 5 minutes to be present with yourself, allow your thoughts to wander, visualize your favorite walk,  visualize your favorite place to relax. If you are a person who experiences an inner dialogue notice the content of your current dialogue that is inviting you to notice in this moment? Write down your thoughts and any conversation you experience inside your heart, then read it again for the purpose of noticing a point in which you might be asking for healing, encouragement, growth or personal power. See it and understand this is the work of the Heavenly Father within you. The peace of our Lord, Jesus Christ, be with you today and always.
 
-**THIS WEEK's READINGS:**
+**THIS WEEK'S READINGS:**
 
-**February 23** - Matthew 6:22-24
+**March 2** - Matthew 7:9-11
 
-**February 24** - Matthew 6:25-27
+**March 3** - Matthew 7:12-14
 
-**February 25** - Matthew 6:28-30
+**March 4** - Matthew 7:15-17
 
-**February 26** - Matthew 6:31-33
+**March 5** - Matthew 7:18-20
 
-**February 27** - Matthew 6:34-7:2
+**March 6** - Matthew 7:21-23
 
-**February 28** - Matthew 7:3-5
+**March 7** - Matthew 7:24-26
 
-**March 1** - Matthew 7:6-8
+**March 8** - Matthew 7:27-29
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
