@@ -1,6 +1,6 @@
 ---
 title: PASTOR JEN's JOTTINGS
-date: March 2, 2021 12:00 AM
+date: March 2, 2021 12:00 PM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
 map_link: https://www.facebook.com/CornerstonePresOly
@@ -23,7 +23,9 @@ priority: false
 
      Grab that promise!
 
-REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: Chapter 5:28-48
+
+
+REFLECTIONS ON THE READING OF THE GOSPEL OF MATTHEW: **Chapter 5:28-48**
 
 INTRODUCTION:
 
