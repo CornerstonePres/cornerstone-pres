@@ -1,10 +1,10 @@
 ---
 title: SPIRITUAL PRACTICE
-date: March 2, 2021 12:00 PM
+date: March 16, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/matthew-7.jpg
+banner_image: /images/uploads/aaron-burden-nxt5prob_7u-unsplash.jpg
 priority: false
 ---
 SPIRITUAL PRACTICE for 2021
@@ -13,7 +13,7 @@ Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, 
 
 In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/)
 
-### [Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyterian Church (USA). \[click the link for further information].
+##### [Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyterian Church (USA). \[click the link for further information].
 
 As part of this we will be engaging in the study of the Gospel of Matthew this year. In reading just 3 verses a day from January 1st to December 24th you will have read through the Gospel of Matthew. Each Tuesday, she will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
 
@@ -36,18 +36,18 @@ Take the next 5 minutes to be present with yourself, allow your thoughts to wand
 
 **THIS WEEK'S READINGS:**
 
-**March 2** - Matthew 7:9-11
+**March 16** - Matthew 9:9-11
 
-**March 3** - Matthew 7:12-14
+**March 17** - Matthew 9:12-14
 
-**March 4** - Matthew 7:15-17
+**March 18** - Matthew 9:15-17
 
-**March 5** - Matthew 7:18-20
+**March 19** - Matthew 9:18-20
 
-**March 6** - Matthew 7:21-23
+**March 20** - Matthew 9:21-23
 
-**March 7** - Matthew 7:24-26
+**March 21** - Matthew 9:24-26
 
-**March 8** - Matthew 7:27-29
+**March 22** - Matthew 9:27-29
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
