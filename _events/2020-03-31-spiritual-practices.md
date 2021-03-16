@@ -7,15 +7,11 @@ map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
 banner_image: /images/uploads/aaron-burden-nxt5prob_7u-unsplash.jpg
 priority: false
 ---
-SPIRITUAL PRACTICE for 2021
+# **SPIRITUAL PRACTICE for 2021**
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
-In 2021, Cornerstone Presbyterian Church is looking in-depth at becoming a[](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/)
-
-##### [Matthew 25 Congregation](https://www.presbyterianmission.org/ministries/matthew-25/welcome-kit/), which is an initiative of the Presbyterian Church (USA). \[click the link for further information].
-
-As part of this we will be engaging in the study of the Gospel of Matthew this year. In reading just 3 verses a day from January 1st to December 24th you will have read through the Gospel of Matthew. Each Tuesday, she will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
+Cornerstone is engaging in the study of the Gospel of Matthew this year. By reading just 3 verses a day from January 1st to December 24th you will have read through the Gospel of Matthew. Each Tuesday, the pastor will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
 
 In your Spiritual Practices you are encouraged each day to take 15 minutes to read the verses and do one of the following:  journal, draw, pray over, act upon, find a study tool like a commentary (many are available on-line and through Biblegateway), have a conversation with another person about the reading, or simply spend time with God for yourself in the practice.
 
