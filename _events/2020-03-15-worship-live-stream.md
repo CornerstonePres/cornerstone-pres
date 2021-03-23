@@ -4,7 +4,7 @@ date: March 28, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/james-w-brilmayer-6kkhdqdzewc-unsplash.jpg
+banner_image: /images/uploads/palm-sunday.jpg
 priority: true
 ---
 **March 28th, at 10 AM,** the Cornerstone church family will worship **in the SANCTUARY** and via **ZOOM** this Sunday.  
