@@ -9,13 +9,23 @@ priority: false
 ---
 # **INTRODUCTION:**
 
-I am a life-long learner on a variety of subjects.  I particularly enjoy learning in-depth about scriptures, including from an historical context, a linguistic context, a spiritual context, and a social context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the writer, the circumstances they were facing in the time period from which they wrote and the people to whom they were writing, for that is where the heart, purpose, hoped for outcome, and purest intent finds its seed for propagation (telling forward the truth of the gospel). Scholars who study the scriptures are the most reliable sources of this type of information.
+I am a person who enjoys life-long learning on a variety of subjects.  I particularly enjoy learning in-depth about scriptures, including from an historical context, a linguistic context, a spiritual context, and a social context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the original writer, the circumstances they were facing in the time period from which they wrote and the people to whom they were writing, for that is where the heart, purpose, hoped for outcome, and purest intent finds its seed for propagation (telling forward the truth of the gospel). Scholars who study the scriptures are the most reliable sources of this type of information.
 
 It is my understanding that Matthew's Gospel was written to the Hebrew people to encourage them to place their faith in God that Jesus of Nazareth was and is God's promised Messiah.  Matthew wrote in a particular style for this very specific purpose. His gospel is written in mirror form of the Pentateuch (the first 5 books of the Old Testament in the Christian Bible): Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Matthew's gospel is written in 5 parts as well.  
 
 For more information I encourage you to read a commentary such as: *The Interpreter's Bible, Interpretation Commentary, Matthew Henry's Commentary, John Calvin's Commentary, or The Reformation Commentary*. There is a long list of commentaries available. If you are a member of Cornerstone and would like more information, Pastor Jen is willing to lend you a commentary. Please speak with her directly.
 
 My personal reflections are updated every Tuesday with reflections on the previous week's readings. I will leave up the reflections for the current month beginning with the most recent. If you would care to read Jen's Jottings from previous months, please contact her and she is happy to email you the archived materials.
+
+**March 23, 2021 Matthew 9:9-29**
+
+Something strikes me as interesting and important in this week's texts. Once again Jesus shows those who are seeking to learn God's ways from him the expansive inclusion God extends to enter the kingdom of heaven for those who embrace God's ways. The disciples have been following for some time. They are men and women who are "mainline" Hebrew - in other words, they have some concrete ideas which have been taught to them about who is and is NOT welcome in God's kingdom. Tax collectors were the direct opposite of the zealots like Simon. Levi (Matthew) a tax collector comes to be invited onto the team late in the game as well. Ministry, miracles, healings, and lessons have been underway for quite awhile and are well inswing. It's like introducing a player to the team, after spring training is well underway and the team members are meshing and forming group structures and organizational leadership. Those disciples we hear about most often are in leadership positions before Levi enters the scene: Peter, James, John, Andrew, and Philip. And now, one third of the way through the gospel account, we are introduced to Matthew (Levi).
+
+This scripture speaks to me about not discounting or excluding a child of God from leadership or creating a barrier to discipleship to anyone based on our personal pre-conceived perspectives. Levi’s lifestyle would have seemed a contradiction to the faithful Jewish person: partying, licentiousness, “sinners” those who people deem unworthy of God’s grace and kingdom dwelling. Who is that in your mind? I mean, certainly we do not perceive that as ourselves? Oh, yes, that is you and it IS me. We are no better than any other sinner – NO better, in ANY way. So how is it that we think we are more worthy of God’s calling to leadership than any other person whom we think is a heinous sinner? After all, Jesus hand-picked more than one heinous sinner above all other sinners (Levi and Saul – murderous thieving sinners) to be carriers of God’s promise of forgiveness, grace, mercy, and LOVE.
+
+I’m going to sit with that for a spell and let you do the same.
+
+Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Rev. Jennifer Swier
 
 **March 16, 2021 Matthew 8:1-21**
 
@@ -36,8 +46,6 @@ On another tangent, we can invite Jesus into our "house" - our heart - knowing t
 As you read last week's text, perhaps you had similar thoughts and insights. Where are you in need of inviting Jesus into your "house" and at what places in your life do you feel so assured in Jesus' healing response that you feel confident saying, "Only say the word, and I shall be healed"?
 
 Lov'in  Christ, Pastor Jen
-
-
 
 **March 2, 2021 Matthew 6:22-7:8**
 
