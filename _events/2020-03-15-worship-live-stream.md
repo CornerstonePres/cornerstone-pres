@@ -1,17 +1,17 @@
 ---
 title: SUNDAY WORSHIP
-date: March 28, 2021 10:00 AM
+date: April 4, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/palm-sunday.jpg
+banner_image: /images/uploads/easter.jpg
 priority: true
 ---
-**March 28th, at 10 AM,** the Cornerstone church family will worship **in the SANCTUARY** and via **ZOOM** this Sunday.  
+**April 4th, at 10 AM,** the Cornerstone church family will worship **in the SANCTUARY** and via **ZOOM** this Sunday.  
 
-Scripture Reading: John 12:12-19
+Scripture Reading: John 20:1-18
 
-The title of the message**: "A Royal Welcome"**
+The title of the message**: *God's Foolish Love: Out of Chaos, Hope***
 
 **As a Matthew 25 church**, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
