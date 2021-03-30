@@ -1,5 +1,5 @@
 ---
-title: PASTOR JEN's JOTTINGS
+title: THE REV's RAMBLINGS
 date: March 23, 2021 12:00 PM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
@@ -17,7 +17,11 @@ For more information I encourage you to read a commentary such as: *The Interpre
 
 My personal reflections are updated every Tuesday with reflections on the previous week's readings. I will leave up the reflections for the current month beginning with the most recent. If you would care to read Jen's Jottings from previous months, please contact her and she is happy to email you the archived materials.
 
-**March 23, 2021 Matthew 9:9-29**
+**MARCH 30, 2021     Matthew 9:30-10:12**
+
+
+
+**March 23, 2021     Matthew 9:9-29**
 
 Something strikes me as interesting and important in this week's texts. Once again Jesus shows those who are seeking to learn God's ways from him the expansive inclusion God extends to enter the kingdom of heaven for those who embrace God's ways. The disciples have been following for some time. They are men and women who are "mainline" Hebrew - in other words, they have some concrete ideas which have been taught to them about who is and is NOT welcome in God's kingdom. Tax collectors were the direct opposite of the zealots like Simon. Levi (Matthew) a tax collector comes to be invited onto the team late in the game as well. Ministry, miracles, healings, and lessons have been underway for quite awhile and are well inswing. It's like introducing a player to the team, after spring training is well underway and the team members are meshing and forming group structures and organizational leadership. Those disciples we hear about most often are in leadership positions before Levi enters the scene: Peter, James, John, Andrew, and Philip. And now, one third of the way through the gospel account, we are introduced to Matthew (Levi).
 
@@ -27,7 +31,7 @@ I’m going to sit with that for a spell and let you do the same.
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Rev. Jennifer Swier
 
-**March 16, 2021 Matthew 8:1-21**
+**March 16, 2021     Matthew 8:1-21**
 
 Thanks go out to our "Mysterious Guest Jotter" - I hope you enjoyed reading the entry as much as I.  I look forward to having more entries from our Mysterious Guest Jotter in the future.
 
@@ -47,7 +51,7 @@ As you read last week's text, perhaps you had similar thoughts and insights. Whe
 
 Lov'in  Christ, Pastor Jen
 
-**March 2, 2021 Matthew 6:22-7:8**
+**March 2, 2021     Matthew 6:22-7:8**
 
 **By a Mysterious Guest Jotter**
 
