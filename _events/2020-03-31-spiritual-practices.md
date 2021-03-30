@@ -32,18 +32,18 @@ Take the next 5 minutes to be present with yourself, allow your thoughts to wand
 
 **THIS WEEK'S READINGS:**
 
-**March 23** ~ Matthew 9:30-32
+**March 30** ~ Matthew 10:13-15
 
-**March 24** ~ Matthew 9:33-35
+**March 31** ~ Matthew 10:16-18
 
-**March 25** ~ Matthew 9:36-38
+**April 1** ~ Matthew 10:19-21
 
-**March 26** ~ Matthew 10:1-3
+**April 2** ~ Matthew 10:22-24
 
-**March 27** ~ Matthew 10:4-6
+**April 3** ~ Matthew 10:25-27
 
-**March 28** ~ Matthew 10:7-9
+**April 4** ~ Matthew 10:28-30
 
-**March 29** ~ Matthew 10:10-12
+**April 5** ~ Matthew 10:31-33
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
