@@ -19,7 +19,17 @@ My personal reflections are updated every Tuesday with reflections on the previo
 
 **MARCH 30, 2021     Matthew 9:30-10:12**
 
+"Admiration and amazement are not faith." This comment written in the *New Interpreter's Bible Commentary* on this passage, rang my bells. Both because it is such a succinct statement of truth and because it seems to me that in today's time there are people who have completely lost those feelings of admiration and amazement as they are connected to faith. Because at the heart of Matthew's gospel isn't that the factual event took place so much as it is about the meaning behind the miracles.
 
+Meanings behind the miracles include the tension, dissent, and palpable conflict that exists between Jesus' teachings about approaches to faith and the institutional approach that was being culturally promoted to the benefit and advantage of the institutional religious system. This is played out in human history cycles of events. We can mark similar movements of God's Holy Spirit at work through the Reformation period as well. Presently, Christianity has been undergoing an extended period of reformation during the past 30+ years.
+
+The commentary on this section of scripture points out that the miracles here bring "ann appropriate climax \[to] the response of faith and unbelief portrayed int he final triad of miracle stories in this section. The series declines from the response of authentic faith (vv. 18-26), to faith that becomes disobedient (vv. 27-31), to conclude with the wonder of the crowds, which is still potential fiath and could become authentic faith were it not for the perverse unbelief of the religious leaders (vv. 32-34).
+
+Matthew's gospel more than any of the other three, utilizes the miracle events, including more than twenty. This particular miracle, the exorcism of the demoniac, sets forth the image of the ultimate battle Jesus wages on our behalf and for our sake, welcoming in God's kingdom in the power of healing love and mercy. Each miracle in Matthew's gospel shows a particular facet of our human need and authentic life. God takes action on our behalf through Christ to deliver us from the threat that potentially keeps us from living an abundant and authentic life.
+
+From this event Jesus empowers and authorizes the students of this lifestyle to go out and do exactly what he has been doing. Not just telling people about what they have witnessed Jesus do, but be the agents of God's redemptive freeing activity in the world.  You and I, as disciples (students of the Jesus lifestyle), are also equipped, empowered, and authorized by God to offer the same to those around us, not just to talk about what we witness, but to open ourselves up to become the instruments of Jesus Christ, the vessels of the Holy Spirit, the conduits of God, to set the captive free, heal, and bear witness to the power of God at work in this world bringing alive the greatest event of all time - the Resurrection of Jesus Christ from the dead to eternal life.
+
+Lovin' Christ ~ Pastor Jen
 
 **March 23, 2021     Matthew 9:9-29**
 
