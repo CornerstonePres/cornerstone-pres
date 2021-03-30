@@ -1,5 +1,5 @@
 ---
-title: WORSHIP
+title: SUNDAY WORSHIP
 date: March 28, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
