@@ -5,7 +5,7 @@ layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/YydJi2hqmqpzhCnf8
 banner_image: /images/uploads/james-w-brilmayer-6kkhdqdzewc-unsplash.jpg
-priority: false
+priority: true
 ---
 ALLELUIA! Christ is Risen!
 
