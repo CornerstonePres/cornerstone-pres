@@ -4,7 +4,7 @@ date: March 23, 2021 12:00 PM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
 map_link: https://www.facebook.com/CornerstonePresOly
-banner_image: /images/uploads/aaron-burden-nxt5prob_7u-unsplash.jpg
+banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
 # **INTRODUCTION:**
