@@ -1,5 +1,5 @@
 ---
-title: THE REV's RAMBLINGS
+title: Pastor Jen's Jottings
 date: March 23, 2021 12:00 PM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
