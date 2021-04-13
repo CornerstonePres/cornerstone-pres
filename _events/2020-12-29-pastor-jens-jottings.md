@@ -47,7 +47,9 @@ According to the definition given to us by Washington State University, they are
 
 In order to understand the truth or falsehood of a statement, we must know the context in which the statement is made. I say this as an encouragement to those seeking to learn how to go through this life in the way of Jesus to study the entirety of scripture and not to narrow in on one or two verses at a time.  It is necessary to understand all aspects of scriptural context in which one verse or phrase is being said or written.
 
-The next time someone tells you the Bible if full of contradictions, remember the above definitions. Scripture is not contradictory - it is **Synthetic** by definition.
+The next time someone tells you the Bible is full of contradictions, remember the above definitions. 
+
+Scripture is not contradictory - it is **Synthetic** by definition.
 
 
 
