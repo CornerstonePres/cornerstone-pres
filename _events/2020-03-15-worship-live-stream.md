@@ -1,10 +1,10 @@
 ---
 title: SUNDAY WORSHIP
-date: April 18, 2021 10:00 AM
+date: April 25, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/james-w-brilmayer-6kkhdqdzewc-unsplash.jpg
+banner_image: /images/uploads/brad-switzer-rz8s_p7pofm-unsplash.jpg
 priority: false
 ---
 April 25th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
