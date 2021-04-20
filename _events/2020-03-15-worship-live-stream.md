@@ -1,5 +1,5 @@
 ---
-title: SUNDAY WORSHIP
+title: ABUNDANT LIFE
 date: April 25, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
