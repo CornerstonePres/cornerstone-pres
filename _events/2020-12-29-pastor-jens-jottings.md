@@ -21,6 +21,12 @@ May God's Word bless and feed you this day and each day you carry these thoughts
 
 Love in Christ, Pastor Jen
 
+**April 20, 2021**  Matthew 11:13 - 12:3
+
+
+
+
+
 **April 13, 2021**  Matthew 10:34-11:12
 
 Contradictory statements are sometimes difficult to reconcile:
@@ -35,9 +41,9 @@ It might sound to us like Jesus makes contradictory statements when he states bo
 
 "Blessed are the **peace**makers, for they will be called children of God." \[Matthew 5:9]; and,
 
-"If the house is worthy, let your **peace** come upon it; but if it is not worthy, let your peace return to you." \[Matthew 10:13]; and
+"If the house is worthy, let your **peace** come upon it; but if it is not worthy, let your **peace** return to you." \[Matthew 10:13]; and
 
-"My peace I leave you, my **peace** I give to you. I do not give to you as the world gives. Do not let your hearts be troubled, and do not let them be afraid." \[John 14:27]; and,
+"My **peace** I leave you, my **peace** I give to you. I do not give to you as the world gives. Do not let your hearts be troubled, and do not let them be afraid." \[John 14:27]; and,
 
 "Salt is good; but if salt has lost its saltiness, how can you season it? Have salt in yourselves, and be at **peace** with one another." \[Mark 9:50]
 
@@ -50,8 +56,6 @@ In order to understand the truth or falsehood of a statement, we must know the c
 The next time someone tells you the Bible is full of contradictions, remember the above definitions. 
 
 Scripture is not contradictory - it is **Synthetic** by definition.
-
-
 
 **April 6, 2021**    Matthew 10:13-33
 
