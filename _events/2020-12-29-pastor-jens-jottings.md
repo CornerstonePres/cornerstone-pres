@@ -1,6 +1,6 @@
 ---
 title: Pastor Jen's Jottings
-date: April 6, 2021 12:00 PM
+date: April 20, 2021 12:00 PM
 layout: event
 location: https://www.facebook.com/CornerstonePresOly
 map_link: https://www.facebook.com/CornerstonePresOly
