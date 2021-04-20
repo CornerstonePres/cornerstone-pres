@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: April 13, 2021 12:00 PM
+date: April 20, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -32,18 +32,18 @@ Take the next 5 minutes to be present with yourself, allow your thoughts to wand
 
 **THIS WEEK'S READINGS:**
 
-**April 13**     Matthew 11:13-15
+**April 20**  Matthew 12:4-6
 
-**April 14**    Matthew 11:16-18
+**April 21**   Matthew 12:7-9
 
-**April 15**    Matthew 11:19-21
+**April 22**   Matthew 12:10-12
 
-**April 16**    Matthew 11:22-24
+**April 23**   Matthew 12:13-15
 
-**April 17**    Matthew 11:25-27
+**April 24**   Matthew 12:16-18
 
-**April 18**    Matthew 11:28-30
+**April 25**   Matthew 12:19-21
 
-**April 19**    Matthew 12:1-3
+**April 26**   Matthew 12:22-24
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
