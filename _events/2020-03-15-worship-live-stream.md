@@ -7,13 +7,13 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/james-w-brilmayer-6kkhdqdzewc-unsplash.jpg
 priority: false
 ---
-**April 18th, at 10 AM,** the Cornerstone church family will worship **in the SANCTUARY** and via **ZOOM** this Sunday.  
+April 25th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Readings: Matthew 10:40-42; 15:29-39
+Scripture Readings: Matthew 18:1-14
 
-The title of the message**: The Marks of Vitality Part 2**
+The title of the message**:** Abundant Life Is Found in a Welcome
 
-**As a Matthew 25 church**, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
+As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
 **ZOOM Link:** [https://us02web.zoom.us/j/84210546175](https://zoom.us/j/448243505)
 
