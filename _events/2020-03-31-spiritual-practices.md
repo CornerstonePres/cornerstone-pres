@@ -9,6 +9,22 @@ priority: false
 ---
 # **SPIRITUAL PRACTICE for 2021**
 
+**THIS WEEK'S READINGS:**
+
+**April 20**  Matthew 12:4-6
+
+**April 21**   Matthew 12:7-9
+
+**April 22**   Matthew 12:10-12
+
+**April 23**   Matthew 12:13-15
+
+**April 24**   Matthew 12:16-18
+
+**April 25**   Matthew 12:19-21
+
+**April 26**   Matthew 12:22-24
+
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
 Cornerstone is engaging in the study of the Gospel of Matthew this year. By reading just 3 verses a day from January 1st to December 24th you will have read through the Gospel of Matthew. Each Tuesday, the pastor will post the week's readings here for your convenience. You are encouraged to read "Pastor Jen's Jottings" event on the carousel for her weekly personal reflections.
@@ -29,21 +45,5 @@ Spiritual Journal prompt: God's presence is constant and available to you at all
 8. allow your mind to focus on only one subject - what was the first thing you noticed?
 
 Take the next 5 minutes to be present with yourself, allow your thoughts to wander, visualize your favorite walk,  visualize your favorite place to relax. If you are a person who experiences an inner dialogue notice the content of your current dialogue that is inviting you to notice in this moment? Write down your thoughts and any conversation you experience inside your heart, then read it again for the purpose of noticing a point in which you might be asking for healing, encouragement, growth or personal power. See it and understand this is the work of the Heavenly Father within you. The peace of our Lord, Jesus Christ, be with you today and always.
-
-**THIS WEEK'S READINGS:**
-
-**April 20**  Matthew 12:4-6
-
-**April 21**   Matthew 12:7-9
-
-**April 22**   Matthew 12:10-12
-
-**April 23**   Matthew 12:13-15
-
-**April 24**   Matthew 12:16-18
-
-**April 25**   Matthew 12:19-21
-
-**April 26**   Matthew 12:22-24
 
 Serving Christ together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
