@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: April 20, 2021 12:00 PM
+date: April 27, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S READINGS:**
 
-**April 20**  Matthew 12:4-6
+**April 27**  Matthew 12:25-27
 
-**April 21**   Matthew 12:7-9
+**April 28**  Matthew 12:28-30
 
-**April 22**   Matthew 12:10-12
+**April 29**  Matthew 12:31-33
 
-**April 23**   Matthew 12:13-15
+**April 30**  Matthew 12:34-36
 
-**April 24**   Matthew 12:16-18
+**May 1**      Matthew 12:37-39
 
-**April 25**   Matthew 12:19-21
+**May 2**     Matthew 12:40-42
 
-**April 26**   Matthew 12:22-24
+**May 3**     Matthew 12:43-45
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
