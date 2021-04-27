@@ -21,11 +21,25 @@ May God's Word bless and feed you this day and each day you carry these thoughts
 
 Love in Christ, Pastor Jen
 
-**April 20, 2021**  Matthew 11:13 - 12:3
+**April 27, 2021** Matthew 12:4-12:24
 
+"Something greater than the temple is here." These are the words of Jesus the Messiah in Matthew's gospel in verse 6.  This is the heart of what Jesus is making clear to the religious leaders - those who are the gatekeepers through the idea of mankind being able to follow all of the rules and be perfect.  Jesus said, "Be perfect as your heavenly Father is perfect." \[Matthew 5:48] 
 
+Hear me out now. As a disciple who is in a life-long process of learning, understanding, and growing, I also am in the act of processing my faith. The ideas I am about to express are completely new ideas to my thinking. This means they are not yet a belief system. Please do not jump on them as if they are heresy.
 
+We are created in the image of God. This means that we are a reflection of God's creative purity, breath of life, and person of mercy and forgiveness. If God is not all about you or me and this must be true as God has always been and will always be; then, tt occurs to me that the reason the Trinity includes a Savior is that God understands that God's Self was in need of being released; and, this realization within the Godhead is why redemption is part of God's plan? God is Trinity in harmonious relationship within the Self of the Godhead. The function of the Savior within that personal intimate relationship would be the same as it is for us.
 
+The Trinity is God's image.  Jesus was cleansed in Baptism also. Therefore, God needed this redemptive work as a piece of God's self. We are created in God's image. 
+
+This statement means that God redeemed God from destroying the world also. This means that the rules/laws are there for us to learn and understand how to live towards our best self in relationship to one another and to our own self. Setting up a structure that says some are allowed in and others are not allowed in based on the perceived sins committed, establishes the idea that some people can set the rules and have permission to break the rules and be forgiven; but, others do not have that power and are not forgivable and are condemned.  God sent Jesus to tell us that all who believe in the Trinity of God believe that Jesus was sent to us as God's Son to Save the world.
+
+"Look, your disciples are doing what is not lawful to do on the sabbath."  He said to them, "have you not read what David did when he and his companions were hungry? he entered the house of God and ate the bread of the Presence, which it was not lawful for him or his companions to eat, but only for the priests. Or hae you not read in the law that on the sabbath the priests in the temple break the sabbath and yet are guiltless?  I tell you, something greater than the temple is here. But if you had known what this means, 'I desire mercy and not sacrifice,' you would not have condemned the guiltless. For the Son of Man is lord of the sabbath."
+
+I would love to hear your thoughts if you are open to sharing them.
+
+Be gentle with yourself and others.
+
+Serving Christ Together in faith, hope, and love and the greatest of these is LOVE ~ Pastor Jen
 
 **April 13, 2021**  Matthew 10:34-11:12
 
