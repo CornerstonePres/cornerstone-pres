@@ -1,17 +1,17 @@
 ---
 title: ABUNDANT LIFE
-date: April 25, 2021 10:00 AM
+date: May 2, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/brad-switzer-rz8s_p7pofm-unsplash.jpg
 priority: false
 ---
-April 25th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+May 2nd, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Readings: Matthew 18:1-14
+Scripture Readings: Matthew 12:1-21
 
-The title of the message**:** Abundant Life Is Found in a Welcome
+The title of the message**:** Abundant Life: Is Found Where We Make Room
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
