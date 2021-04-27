@@ -1,5 +1,5 @@
 ---
-title: ABUNDANT LIFE
+title: "WORSHIP: ABUNDANT LIFE"
 date: May 2, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
