@@ -1,8 +1,8 @@
 ---
 title: Pastor Jen's Jottings
-date: April 20, 2021 12:00 PM
+date: May 4, 2021 12:00 PM
 layout: event
-location: https://www.facebook.com/CornerstonePresOly
+location: 218 Overhulse Rd NW
 map_link: https://www.facebook.com/CornerstonePresOly
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
@@ -20,63 +20,5 @@ My personal reflections are updated every Tuesday with reflections on the previo
 May God's Word bless and feed you this day and each day you carry these thoughts with you in mind and spirit.
 
 Love in Christ, Pastor Jen
-
-**April 27, 2021** Matthew 12:4-12:24
-
-"Something greater than the temple is here." These are the words of Jesus the Messiah in Matthew's gospel in verse 6.  This is the heart of what Jesus is making clear to the religious leaders - those who are the gatekeepers through the idea of mankind being able to follow all of the rules and be perfect.  Jesus said, "Be perfect as your heavenly Father is perfect." \[Matthew 5:48] 
-
-Hear me out now. As a disciple who is in a life-long process of learning, understanding, and growing, I also am in the act of processing my faith. The ideas I am about to express are completely new ideas to my thinking. This means they are not yet a belief system. Please do not jump on them as if they are heresy.
-
-We are created in the image of God. This means that we are a reflection of God's creative purity, breath of life, and person of mercy and forgiveness. If God is not all about you or me and this must be true as God has always been and will always be; then, tt occurs to me that the reason the Trinity includes a Savior is that God understands that God's Self was in need of being released; and, this realization within the Godhead is why redemption is part of God's plan? God is Trinity in harmonious relationship within the Self of the Godhead. The function of the Savior within that personal intimate relationship would be the same as it is for us.
-
-The Trinity is God's image.  Jesus was cleansed in Baptism also. Therefore, God needed this redemptive work as a piece of God's self. We are created in God's image. 
-
-This statement means that God redeemed God from destroying the world also. This means that the rules/laws are there for us to learn and understand how to live towards our best self in relationship to one another and to our own self. Setting up a structure that says some are allowed in and others are not allowed in based on the perceived sins committed, establishes the idea that some people can set the rules and have permission to break the rules and be forgiven; but, others do not have that power and are not forgivable and are condemned.  God sent Jesus to tell us that all who believe in the Trinity of God believe that Jesus was sent to us as God's Son to Save the world.
-
-"Look, your disciples are doing what is not lawful to do on the sabbath."  He said to them, "have you not read what David did when he and his companions were hungry? he entered the house of God and ate the bread of the Presence, which it was not lawful for him or his companions to eat, but only for the priests. Or hae you not read in the law that on the sabbath the priests in the temple break the sabbath and yet are guiltless?  I tell you, something greater than the temple is here. But if you had known what this means, 'I desire mercy and not sacrifice,' you would not have condemned the guiltless. For the Son of Man is lord of the sabbath."
-
-I would love to hear your thoughts if you are open to sharing them.
-
-Be gentle with yourself and others.
-
-Serving Christ Together in faith, hope, and love and the greatest of these is LOVE ~ Pastor Jen
-
-**April 13, 2021**  Matthew 10:34-11:12
-
-Contradictory statements are sometimes difficult to reconcile:
-
-\*My sister is jealous of me because I'm an only child
-
-According to Washington State University a contradictory sentence by definition is one which is           "necessarily false, because of the senses of the words in the sentence..." \[https:public.wsu.edu>~gordonl/SO5/256/sententialsemantics.htm]
-
-It might sound to us like Jesus makes contradictory statements when he states both:
-
-"Do not think that I have come to bring **peace** to the earth; I have not come to bring **peace**, but a sword." \[Matthew 10:34] as compared to some of his other statements in the New Testament:
-
-"Blessed are the **peace**makers, for they will be called children of God." \[Matthew 5:9]; and,
-
-"If the house is worthy, let your **peace** come upon it; but if it is not worthy, let your **peace** return to you." \[Matthew 10:13]; and
-
-"My **peace** I leave you, my **peace** I give to you. I do not give to you as the world gives. Do not let your hearts be troubled, and do not let them be afraid." \[John 14:27]; and,
-
-"Salt is good; but if salt has lost its saltiness, how can you season it? Have salt in yourselves, and be at **peace** with one another." \[Mark 9:50]
-
-However, these are not contradictory statements to the first statement found at the opening of our readings for last week.  
-
-According to the definition given to us by Washington State University, they are **Synthetic statements**, which "may be true or false depending on the way the world is. ... One way we talk about the meaning of synthetic sentences is by evaluating the conditions under which they would be true or false" \[ibid]
-
-In order to understand the truth or falsehood of a statement, we must know the context in which the statement is made. I say this as an encouragement to those seeking to learn how to go through this life in the way of Jesus to study the entirety of scripture and not to narrow in on one or two verses at a time.  It is necessary to understand all aspects of scriptural context in which one verse or phrase is being said or written.
-
-The next time someone tells you the Bible is full of contradictions, remember the above definitions. 
-
-Scripture is not contradictory - it is **Synthetic** by definition.
-
-**April 6, 2021**    Matthew 10:13-33
-
-Jesus held nothing back from his disciples. He was very open about what they could expect if they chose to pursue discipleship with him. And the list was unpleasant: your sibling will work toward your death; people will want to kill you; you will be held in low esteem; you will need to run away; a child of faith will rise up against their parents; you will be imprisoned and handed over; you will be dragged into court. Even in the midst of such animosity and persecution, a student of the way of Jesus living is to love: "love your enemy, pray for those who persecute you; turn the other cheek; walk the extra mile (Matt 5:38-48)." Jesus taught followers to "For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? And if you greet only your brothers and sisters, what more are you doing than others? Do not even \[those outside the faith] do the same? Be perfect, therefore, as your heavenly Father is perfect (Mt. 5:43-48)."
-
-Jesus sends those who choose to be followers. Jesus gives us authority to carry out the ministries to which Jesus calls us to attend (see Mt. 10:5ff). As we go throughout the day we are to proclaim God's good news that the kingdom of heaven is not far off but is here presently. This is the news we are to share without fear of retribution. The kingdom of God is love, grace, mercy, and forgiveness.
-
-As you and I do our tasks throughout the day, as we interact with people each day, while we are working to achieve goals with our co-workers - we are to carry ourselves as a follower of Jesus. We accept gentle reminders from our brothers and sisters in Christ when we stumble and we get back on track. We set healthy personal boundaries to ward off compassion fatigue and burnout. We learn about psychology and its integrated existence with the soul. So that ... an action clause that leads to an active responsive outcome ... so that, we can be like Jesus and love one another as we have been shown love; and, so that, we can be like lambs among wolves.
 
 Go in peace my friends to love and serve your Lord, Jesus the Christ, with deep regard ~ Pastor Jen
