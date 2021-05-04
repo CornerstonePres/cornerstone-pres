@@ -3,7 +3,7 @@ title: Pastor Jen's Jottings
 date: May 4, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd NW
-map_link: https://www.facebook.com/CornerstonePresOly
+map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
