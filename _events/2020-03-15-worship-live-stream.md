@@ -7,7 +7,7 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/screenshots_2021-05-11-09-34-59.png
 priority: false
 ---
-May 9th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+May 16th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
 Scripture Readings: Luke 15:11-32
 
