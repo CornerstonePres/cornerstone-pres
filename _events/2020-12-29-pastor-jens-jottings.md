@@ -33,6 +33,8 @@ In last week’s set of readings we now move into chapter 13. Here we find Jesus
 
 How careful you and I must be with our words too.  “Oh, be careful little mouth what you say. For the Father up above is looking down in love; so, be careful little mouth what you say.” We’re never too old to remember the lessons of our childhood.
 
+May these reflections be an encouragement to you as much as they are an encouragement to myself. Go in peace my friends, to love and serve your Lord and Savior, Jesus Christ.  Love, Pastor Jen
+
 **May 4, 2021**  Matthew 12:25-45
 
 My grandmother used to tell me, "Jenny, say what you mean and mean what you say. Be careful what words you choose." I remember a dear friend during my college years choose words very carefully and when I would ask a question about the meaning they were trying to convey the response was always, “I chose my words very carefully. Learn the definitions.”  These statements left an indelible impression upon my mind.  To this day, when I am in a non-anxious frame of mind, I will select my words with some care.  It’s in the heat of a moment, that my lips can be careless.  I imagine you notice the same in your own life.
