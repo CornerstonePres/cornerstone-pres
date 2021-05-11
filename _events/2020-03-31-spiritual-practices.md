@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: May 4, 2021 12:00 PM
+date: May 11, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -9,21 +9,21 @@ priority: false
 ---
 # **SPIRITUAL PRACTICE for 2021**
 
-**THIS WEEK'S READINGS:**
+**THIS WEEK'S Gospel of Matthew READINGS:**
 
-**May 4**    Matthew 12:46-48
+**May 11**  Matthew 13:17-19
 
-**May 5**    Matthew 12:49 - Matthew 13:1
+**May 12**  Matthew 13:20-22
 
-**May 6**    Matthew 13:2-4
+**May 13**  Matthew 13:23-25
 
-**May 7**    Matthew 13:5-7
+**May 14**  Matthew 13:26-28
 
-**May 8**    Matthew 13:8-10
+**May 15**  Matthew 13:29-31
 
-**May 9**    Matthew 13:11-13
+**May 16**  Matthew 13:32-34
 
-**May 10**  Matthew 13:14-16
+**May 17**  Matthew 13:35-37
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
