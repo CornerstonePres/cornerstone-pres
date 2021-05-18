@@ -21,6 +21,12 @@ May God's Word bless and feed you this day and each day you carry these thoughts
 
 Love in Christ, Pastor Jen
 
+**May 18, 2021** Matthew 13:17-37
+
+Ahhhhh … the parables. My soul laps up parables like a kitten laps milk. They sustain me; grow me; open me; and, they allow me to see God.  The parables are complete enrichment. And, verses 17-37 are full of rich insights along with explanations by Christ.  My encouragement to you this week is simply to soak in them.
+
+Peace and blessings ~ Pastor Jen
+
 **May 11, 2021** Matthew 12:46 - 13:16
 
 The scripture passage listed here is a continuation of the scene from last week.  Some instruction is helpful to understanding the scene. The Pharisees were the segment of religious leadership in Israel and Judah who took on the responsibility of reviving Temple worship after the original Temple and priestly leaders had been destroyed and killed in the Old Testament period of exiles into Babylon and Syria and Assyria as a direct result of conquest and consequences for idolatry. When Jesus was alive, the Pharisees and the Sadducees were seeking to disprove Jesus’ Messianic role, as it would mean their own ruin. Feeling their power threatened, they sought ways to discredit Jesus.  This passage is a primary example of this bullying behavior.
