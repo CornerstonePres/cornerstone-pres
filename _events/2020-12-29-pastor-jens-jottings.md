@@ -21,6 +21,24 @@ May God's Word bless and feed you this day and each day you carry these thoughts
 
 Love in Christ, Pastor Jen
 
+**May 25, 2021**   Matthew 13:38-58
+
+Jesus was always creating ways to make God and the kingdom of heaven understandable. This is the motivation and drive behind the parables and this is why he took time to explain their meaning to the disciples close to him.  Jesus’ life IS the revelation of God’s presence in our earthly manifestation of existence. Our existence is not bound to living in this world. Our life in this world is a piece of our existence, not the sum of our existence. Jesus shows us this in part through the parables of the kingdom. Jesus also shows us in these parables, that while we are living life with each other here, we can live out God’s kingdom (hence Jesus teaches us to pray, “Thy kingdom come, thy will be done, on earth as it is in heaven”). 
+
+Matthew shares three of Jesus’ parables about the kingdom of heaven in this section of his gospel as an encouragement to you and I to seek out kingdom living (reflected also in the lessons found in the Sermon on the Mount). Kingdom living Jesus states, is more valuable in your present lifetime, than seeking material riches and Jesus equates material riches to the richness of choosing kingdom living. 
+
+As you seek to implement kingdom living in your daily interactions with people, you too will discover the riches and richness of living into the Light of Jesus Christ.  And so:
+
+“The kingdom of heaven is like treasure hidden in a field, which someone found and hid; then in his joy he goes and sells all that he has and buys that field.
+
+“Again, the kingdom of heaven is like a merchant in search of fine pearls; on finding one pearl of great value, he went and sold all that he had and bought it.
+
+“Again, the kingdom of heaven is like a net that was thrown into the sea and caught fish of every kind; when it was full, they drew it ashore, sat down, and put the good into baskets but threw out the bad.” \[NIV]
+
+In today’s vernacular we might say, “The kingdom of heaven is like a broker, who seeing the capital gains to be made in the day’s market, sells all his bad stock to purchase the most valuable stock.”  
+
+Think of your own version of the value of the kingdom of heaven in your life and write it down as a reminder to you and in so doing you will be the “scribe who has been trained for the kingdom of heaven is like the master of a household \[your soul, body, mind] who brings out of his treasure what is new and what is old.” \[NIV]
+
 **May 18, 2021** Matthew 13:17-37
 
 Ahhhhh … the parables. My soul laps up parables like a kitten laps milk. They sustain me; grow me; open me; and, they allow me to see God.  The parables are complete enrichment. And, verses 17-37 are full of rich insights along with explanations by Christ.  My encouragement to you this week is simply to soak in them.
