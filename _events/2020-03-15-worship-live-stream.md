@@ -7,11 +7,11 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/screenshots_2021-05-11-09-34-59.png
 priority: false
 ---
-May 23rd, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+May 30th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 12:22-37
+Scripture Reading: Matthew 28:16-20
 
-Sermon: We Are Gatherers
+Sermon: We Are Sent: Part 1
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
