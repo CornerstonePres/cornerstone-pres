@@ -1,29 +1,29 @@
 ---
 title: SPIRITUAL PRACTICE
-date: May 25, 2021 12:00 PM
+date: June 1, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
-banner_image: /images/uploads/aaron-burden-nxt5prob_7u-unsplash.jpg
+banner_image: /images/uploads/introspection.jpg
 priority: false
 ---
 # **SPIRITUAL PRACTICE for 2021**
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**May 25**   Matthew 14:1-3
+**June 1**   Matthew 14:22-24
 
-**May 26**   Matthew 14:4-6
+**June 2**   Matthew 14:25-27
 
-**May 27**   Matthew 14:7-9
+**June 3**   Matthew 14:28-30
 
-**May 28**   Matthew 14:10-12
+**June 4**   Matthew 14:31-33
 
-**May 29**   Matthew 14:13-15
+**June 5**   Matthew 14:34-36
 
-**May 30**   Matthew 14:16-18
+**June 6**   Matthew 15:1-3
 
-**May 31**   Matthew 14:19-21
+**June 7**   Matthew 15:4-6
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
