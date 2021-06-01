@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: May 30, 2021 10:00 AM
+date: June 6, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/6-geotc.jpg
 priority: false
 ---
-May 30th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+June 6th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
 Scripture Reading: Matthew 28:16-20
 
-Sermon: We Are Sent: Part 1
+Sermon: We Are Sent: Part 2
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
