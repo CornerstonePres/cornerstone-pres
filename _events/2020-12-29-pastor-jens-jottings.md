@@ -23,9 +23,21 @@ Love in Christ, Pastor Jen
 
 
 
+**June 15, 2021**  Matthew 15:7-27
+
+I find such comfort and encouragement in hearing Jesus say, “Every plant that my heavenly Father has not planted will be uprooted.” \[Mt. 15:13, NRSV] It reminds me that as a child of God, you and I cannot become uprooted from God’s kingdom, no matter what. This passage also reminds me that people who choose to gossip, tell lies about another as if they are the truth without having all of the information, who smear another person’s character by talking to groups of people behind the target's back, in order to feel justified for the manner in which they are behaving, will have much to answer for before God’s throne of grace.  
+
+This is precisely what Jesus was talking about. There were people who were maligning Jesus’ character and person.  Whatever falsehoods come out of your mouth come from a false heart, a mean heart, an ill-intentioned heart and this defiles the speaker not the target. “For out of the heart come evil intentions, … false witness, slander. These are what defile a person …”
+
+“Oh, be careful little mouth what you say. For the Father up above is looking down in love; so, be careful little mouth what you say.”
+
+May the peace and blessing of our Lord, Jesus Christ, guard you in all your ways this day and forever more.
+
+Serving Christ Together in Faith, Hope, and Love and the greatest of these is LOVE ~ Pastor Jen
+
 **JUNE 8, 2021**  Matthew 14:22-15:6
 
-These are just my simply reflections - a fluid thought.  If there are points you wish to discuss for either or both of our enlightenment - I invite you to contact me.
+These are just my simple reflections - a fluid thought.  If there are points you wish to discuss for either or both of our enlightenment - I invite you to contact me.
 
 “Honor your Mother and Father, so that you can live long in the land the Lord your God is giving you.”
 
