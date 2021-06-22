@@ -21,7 +21,21 @@ May God's Word bless and feed you this day and each day you carry these thoughts
 
 Love in Christ, Pastor Jen
 
+**June 22, 2021** Matthew 15:28-16:9
 
+When I first read these verses I thought, "Oh nice, the tone changes a bit in this week's passage of Matthew's Gospel."  Only to discover something weighing heavily upon my heart. We see leading into Matthew 15:28 that the good news of freedom from oppression was an inclusive message and that some times it was by intense beseeching and clarity of one's place among God's people that those outside of the Hebrew culture were recognized and included as people of faith.  We see this exemplified in the telling of the Canaanite woman who requested her daughter by released from the demon tormenting her \[Matthew 15:21-28]  
+
+Jesus' response to the woman's request was "'Woman, great is your faith! Let it be done for you as you wish.' And her daughter was healed instantly." \[NRSV] She had come begging and she understood that it was not so much the act of begging that Jesus responded to as much as it was her humility and faith, "Even the dogs eat the crumbs that fall from their masters' table." She came with the statement of, "I will accept what little bit you are willing to offer me Lord." She understood Jesus had the authority to accept or decline the request.  She came confident that he would respond positively. From this event, word spread in the area, about Jesus and many came to receive healing.  
+
+Jesus had compassion on the peoples' needs to the point of their obvious physical hunger after being with him in the sun, the heat, and the wilderness for three days. When news reached the Pharisees and Sadducees about what Jesus had done, they started to plan how they would sabotage him and set him up by testing and trapping him. It appears that Jesus was being tested on all sides.  He was tested by the people when they came to him with needs. He was tested by the religious leaders who wanted to preserve their way of life. He was tested by his disciples when they did not perceive what he was teaching.
+
+Where in today's culture would Jesus tell us as disciples to "Beware of the yeast of the Christian Church?"  Many evils have been committed by self-professed "Christian" men and women. These evils have proven harmful to thousands of people in their childhoods and adulthoods. So harmful, that Christianity for many is an obscene, ugly, hateful, untruth, manipulative practice.  As a recent example, back in May 215 indigenous children some as young as 3 years old were murdered at "Christian" residential boarding schools. Their mass grave found on the grounds of the school where they were buried. Some were incinerated.  This week 184 child bodies were found in another mass grave at a "Christian" residential boarding school.  We must be certain that we are not spreading "European cultural norms" when we speak about our faith and that we are speaking about the teachings of Jesus of Nazareth. I think we have some "unlearning" to do and some "relearning" to participate in today's society.
+
+May we be like Jesus and enter into dialogue on racism with compassion, on what it is like to be excluded.  Let us enter into respectful listening to the experiences of our brothers and sisters of other cultures and the pain they feel, the righteous anger they hold, the generational trauma they experience still today. People of all minorities continue to this day to suffer at the hands of white American leadership. Until we stop gaslighting their experiences, until we can listen without defending, until we can hear without dismissing or minimizing their factual experiences; and, until we can begin to listen with open hearts, without words ready to defend but to open our hearts to listen, we will remain the problem.
+
+What is on your heart today when you read this passage?  I would love to have you share your thoughts with me.  I can be contacted at pastor@cornerstonepres.net 
+
+The peace and grace of our Lord, Jesus Christ be wtih you today and always.  Pastor Jen
 
 **June 15, 2021**  Matthew 15:7-27
 
