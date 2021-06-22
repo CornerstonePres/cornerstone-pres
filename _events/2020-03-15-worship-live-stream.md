@@ -1,6 +1,6 @@
 ---
 title: WORSHIP
-date: June 22, 2021 10:00 AM
+date: June 27, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
