@@ -4,7 +4,7 @@ date: July 4, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/screenshots_2021-06-22-10-49-36.png
+banner_image: /images/uploads/screen-shot-2021-06-29-at-11.43.56-am-002-.png
 priority: true
 ---
 July 4th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
