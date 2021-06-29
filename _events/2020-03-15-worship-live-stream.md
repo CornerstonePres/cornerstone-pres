@@ -9,7 +9,7 @@ priority: true
 ---
 July 4th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 14:13-21
+Scripture Reading: Matthew 14:32-39
 
 Mission Sunday: Union Gospel Mission (John & Mark)
 
