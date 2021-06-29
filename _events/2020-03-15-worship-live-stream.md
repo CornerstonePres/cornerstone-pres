@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: June 27, 2021 10:00 AM
+date: July 4, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/screenshots_2021-06-22-10-49-36.png
 priority: true
 ---
-June 27th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+July 4th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 10:40-42
+Scripture Reading: Matthew 14:13-21
 
-Sermon: The Rewards of Welcome
+Mission Sunday: Union Gospel Mission (John & Mark)
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
