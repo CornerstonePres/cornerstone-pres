@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**June 22**  Matthew 16:10-12
+**June 29**  Matthew 17:3-5
 
-**June 23**  Matthew 16:13-15
+**June 30**  Matthew 17:6-8
 
-**June 24**  Matthew 16:16-18
+**July 1**  Matthew 17:9-11
 
-**June 25**  Matthew 16:19-21
+**July 2**  Matthew 17:12-14
 
-**June 26**  Matthew 16:22-24
+**July 3**  Matthew 17:15-17
 
-**June 27**  Matthew 16:25-27
+**July 4**  Matthew 17:18-20
 
-**June 28**  Matthew 16:28 - 17:2
+**July 5**  Matthew 17:21-23
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
