@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: July 6, 2021 12:00 PM
+date: July 13, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**July   6**  Matthew 17:24-26
+**July 13**  Matthew 18:18-20
 
-**July   7**  Matthew 17:27-18:2
+**July 14**  Matthew 18:21-23
 
-**July   8**  Matthew 18:3-5
+**July 15**  Matthew 18:24-26
 
-**July   9**  Matthew 18:6-8
+**July 16**  Matthew 18:27-29
 
-**July 10**  Matthew 18:9-11
+**July 17**  Matthew 18:30-32
 
-**July 11**  Matthew 18:12-14
+**July 18**  Matthew 18:33-35
 
-**July 12**  Matthew 18:15-17
+**July 19**  Matthew 19:1-3
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
