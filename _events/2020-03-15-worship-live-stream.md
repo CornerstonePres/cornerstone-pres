@@ -4,7 +4,7 @@ date: July 18, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/loveisadeclarationoffaith-asset-1589488666666.jpg
+banner_image: /images/uploads/screen-shot-2021-07-13-at-2.13.35-pm.png
 priority: true
 ---
 July 18th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
