@@ -7,7 +7,7 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/loveisadeclarationoffaith-asset-1589488666666.jpg
 priority: true
 ---
-July 11th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+July 18th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
 Scripture Reading: Matthew 13:24-43
 
