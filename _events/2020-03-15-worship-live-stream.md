@@ -15,7 +15,7 @@ Sermon Title: God's Kingdom Is Like This
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
-**ZOOM Link:** <https://us02web.zoom.us/j/3116804612>[](http://https//us02web.zoom.us/j/3116804612)
+**ZOOM Link:** <https://us02web.zoom.us/j/3116804612>[](https://us02web.zoom.us/j/3116804612)
 
 **COVID-safe Environment**: join us in the Sanctuary on Overhulse Rd this Sunday in a COVID-safe and friendly environment. We follow all health and safety requirements issued by the CDC.
 
