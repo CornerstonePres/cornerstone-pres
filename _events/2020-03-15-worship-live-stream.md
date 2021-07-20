@@ -11,7 +11,7 @@ July 25th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worsh
 
 Scripture Reading: Matthew 13:31-58
 
-Sermon Title: God's Kingdom Is Like This
+Sermon Title: The Kingdom of Heaven Is Like...
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
