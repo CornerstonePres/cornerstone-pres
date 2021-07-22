@@ -6,7 +6,7 @@ title: Sunday Morning Small Group
 **Every Sunday**\
 **9:00 AM**, Before Service
 
-**This Week's Topic:** *1 John 5:6-21 "The Heart of Prayer"*
+**This Week's Topic:** Evangelism and Discipleship 
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
