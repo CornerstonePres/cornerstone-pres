@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: July 25, 2021 10:00 AM
+date: August 1, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/screen-shot-2021-07-13-at-2.13.35-pm.png
 priority: true
 ---
-July 25th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+August 1st, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 13:31-58
+Scripture Reading: Matthew 14:13-21
 
-Sermon Title: The Kingdom of Heaven Is Like...
+Sermon Title: God's Economy: Part 1 
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
