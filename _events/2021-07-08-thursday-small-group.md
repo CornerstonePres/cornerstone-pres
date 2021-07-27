@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: July 8, 2021 7:00 PM
+date: July 27, 2021 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
