@@ -4,9 +4,9 @@ title: Sunday Morning Small Group
 **COVID-19 RESPONSE:** You may contact Pastor Jen for more information at pastor@cornerstonepres.net or the church administrator at admin@cornerstonepres.net for link information.
 
 **Every Sunday**\
-**9:00 AM**, Before Service
+**9:00 AM**, Before Service @ Cornerstone 
 
-**This Week's Topic:** Evangelism and Discipleship 
+**This Week's Topic:** How we share our faith with others.
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
