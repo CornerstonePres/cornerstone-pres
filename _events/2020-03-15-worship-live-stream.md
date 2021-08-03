@@ -7,11 +7,11 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/screen-shot-2021-07-27-at-11.58.58-am.png
 priority: true
 ---
-August 1st, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+August 8th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 14:13-21
+Scripture Reading: Matthew 14:22-36
 
-Sermon Title: God's Economy: Part 1 
+Sermon Title: In the Boats that Floats
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
