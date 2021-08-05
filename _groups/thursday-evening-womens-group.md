@@ -3,15 +3,9 @@ title: Thursday Evening Women's Group
 ---
 **This Small Group meets Thursdays at 6:45 p.m.** 
 
-This Thursday, July 29th, the group will be discussing Ch. 5 in the book A Long Obedience in the Same Direction by Eugene Peterson and Psalm 123. 
+Next Thursday, August 12th, the group will be discussing Ch. 6 in the book A Long Obedience in the Same Direction by Eugene Peterson and Psalm 124. 
 
-Food for thought: 
-
-* Service begins with an upward look to God.
-* What does God's mercy in your life look like?
-* A servant is not greater than his master.
-
-  * What inspires you to serve? 
+We are not meeting tonight (8/5) but will resume next week.
 
 If you would like more information about this small group, please do not hesitate to find out and ask questions:
 
