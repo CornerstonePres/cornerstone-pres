@@ -1,15 +1,15 @@
 ---
 title: WORSHIP
-date: August 8, 2021 10:00 AM
+date: August 15, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/screen-shot-2021-07-27-at-11.58.58-am.png
 priority: true
 ---
-August 8th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
+August 15th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 14:22-36
+Scripture Reading: Matthew 15:1-28
 
 Sermon Title: In the Boats that Floats
 
