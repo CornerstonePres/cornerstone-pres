@@ -4,7 +4,7 @@ date: August 15, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/screen-shot-2021-07-27-at-11.58.58-am.png
+banner_image: /images/uploads/graphic-081521.png
 priority: true
 ---
 August 15th, at 10 AM**,** the Cornerstone church family will offer "hybrid" worship in the SANCTUARY and via ZOOM.  
