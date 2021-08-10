@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: August 3, 2021 12:00 PM
+date: August 10, 2021 12:00 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**August 3** Matthew 20:16-18
+**August 10**   Matthew 21:3-5
 
-**August 4** Matthew 20:19-21
+**August 11**   Matthew 21:6-8
 
-**August 5** Matthew 20:22-24
+**August 12**   Matthew 21:9-11
 
-**August 6** Matthew 20:25-27
+**August 13**   Matthew 21:12-14
 
-**August 7**  Matthew 20:28-30
+**August 14**   Matthew 21:15-17
 
-**August 8**  Matthew 20:31-33
+**August 15**   Matthew 21:18-20
 
-**August 9**  Matthew 20:34 to 21:2
+**August 16**   Matthew 21:21-23
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
