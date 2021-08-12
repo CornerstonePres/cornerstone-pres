@@ -1,6 +1,10 @@
 ---
 title: Union Gospel Mission
 ---
+**Due to rising COVID Cases we are cancelling this months (August) Taco night, Stay tuned for September as we hope to bring it back!**
+
+
+
 **3rd Monday** of **every month**\
 **4:00 PM** until **7:00 PM**
 
