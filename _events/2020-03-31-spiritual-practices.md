@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**August 10**   Matthew 21:3-5
+**August 17**   Matthew 21:24-26
 
-**August 11**   Matthew 21:6-8
+**August 18**   Matthew 21:27-29
 
-**August 12**   Matthew 21:9-11
+**August 19**   Matthew 21:30-32
 
-**August 13**   Matthew 21:12-14
+**August 20**   Matthew 21:33-35
 
-**August 14**   Matthew 21:15-17
+**August 21**   Matthew 21:36-38
 
-**August 15**   Matthew 21:18-20
+**August 22**   Matthew 21:39-41
 
-**August 16**   Matthew 21:21-23
+**August 23**   Matthew 21:42-44
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
