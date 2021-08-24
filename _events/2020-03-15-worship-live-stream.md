@@ -7,11 +7,11 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/graphic082221.png
 priority: true
 ---
-August 22nd, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+August 29nd, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 16:13-20
+Scripture Reading: Matthew 16:21-28
 
-Sermon Title:  A Thriving Life in Christ
+Sermon Title:  "God's Economy: Part 2"
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
