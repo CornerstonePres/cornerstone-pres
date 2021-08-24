@@ -1,14 +1,12 @@
 ---
 title: Pastor Jen's Jottings
-date: August 17, 2021 12:00 PM
+date: August 24, 2021 10:36 AM
 layout: event
 location: 218 Overhulse Rd NW
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-# **INTRODUCTION:**
-
 As a person who enjoys life-long learning on a variety of subjects,  I particularly enjoy learning in-depth about scriptures: from an historical, linguistic, spiritual, and social context. I have found that the most authentic understanding of a writing is to understand it (as much as possible) through the lens of the original writer: the circumstances they were facing; the time period from which they wrote; and, the people to whom they were writing. The context is where the heart, purpose, hoped for outcome, and purest intent of the writing finds its seed for propagation (telling forward the truth of the gospel). Scholars who study the scriptures are the most reliable sources of this type of information. 
 
 I encourage reading a commentary such as: *The Interpreter's Bible, Interpretation Commentary, Matthew Henry's Commentary, John Calvin's Commentary, or The Reformation Commentary*. There is a long list of commentaries available. If you are a member of Cornerstone and would like more information, I am willing to lend you a commentary.
