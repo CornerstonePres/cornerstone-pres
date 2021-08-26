@@ -1,5 +1,5 @@
 ---
-title: Thursday Evening Women's Group
+title: Thursday Evening Bible Study
 ---
 **This Small Group meets Thursdays at 6:45 p.m.** 
 
