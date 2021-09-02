@@ -1,9 +1,9 @@
 ---
 title: Thursday Evening Bible Study
 ---
-**This Small Group meets Thursdays at 6:45 p.m.** 
+**This Small Group meets Thursdays at 7:00 p.m.** 
 
-Tonight, August 12th, the group will be discussing Ch. 6 in the book A Long Obedience in the Same Direction by Eugene Peterson and Psalm 124. 
+Tonight, September 2nd, the group will be discussing Ch. 9 in the book A Long Obedience in the Same Direction by Eugene Peterson 
 
 If you would like more information about this small group, please do not hesitate to find out and ask questions:
 
