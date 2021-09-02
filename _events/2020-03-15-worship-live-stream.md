@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: August 22, 2021 10:00 AM
+date: September 2, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/0829.jpg
+banner_image: /images/uploads/0905.jpeg
 priority: true
 ---
-August 29nd, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+September 5th, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 16:21-28
+Scripture Reading: Matthew 18: 15-20
 
-Sermon Title:  "God's Economy: Part 2"
+Sermon Title:  "The Symphony of the Faithful"
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
