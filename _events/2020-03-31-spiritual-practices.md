@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**September 7**   Matthew 22:41-43
+**September 14**   Matthew 23:16-18
 
-**September 8**   Matthew 22:44-46
+**September 15**   Matthew 23:19-21
 
-**September 9**   Matthew 23:1-3
+**September 16**   Matthew 23:22-24
 
-**September 10**   Matthew 23:4-6
+**September 17**   Matthew 23:25-27
 
-**September 11**   Matthew 23:7-9
+**September 18**   Matthew 23:28-30
 
-**September 12**   Matthew 23:10-12
+**September 19**   Matthew 23:31-33
 
-**September 13**   Matthew 23:13-15
+**September 20**   Matthew 23:34-36
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
