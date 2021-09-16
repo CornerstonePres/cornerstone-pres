@@ -4,7 +4,7 @@ date: September 16, 2021 11:03 AM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
-banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
+banner_image: /images/uploads/a-long-obedience.jpg
 priority: false
 ---
 Thursday, September 16th, our study will focus on Ch. 10 of A Long Obedience & Psalm 128,\
