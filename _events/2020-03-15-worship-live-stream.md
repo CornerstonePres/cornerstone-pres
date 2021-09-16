@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: September 9, 2021 12:25 PM
+date: September 16, 2021 10:59 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/091221-graphic.png
+banner_image: /images/uploads/091921bg-002-.jpeg
 priority: true
 ---
-September 12th, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+September 19th, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 18: 21-35
+Scripture Reading: Matthew 20:1-16
 
-Sermon Title:  "Forgive From Your Heart"
+Sermon Title: The Scandal of the Gospel
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
