@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: September 21, 2021 11:24 AM
+date: September 29, 2021 8:10 AM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
