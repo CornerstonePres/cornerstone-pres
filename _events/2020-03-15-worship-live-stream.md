@@ -4,7 +4,7 @@ date: September 26, 2021 1:07 PM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/092621.jpg
+banner_image: /images/uploads/graphic1003.jpg
 priority: true
 ---
 September 26th, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
