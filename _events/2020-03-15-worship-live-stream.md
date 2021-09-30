@@ -15,8 +15,8 @@ Sermon Title: There Shall Be Showers of Blessings
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
-**ZOOM Link: [WORSHIP](https://uso2web.zoom.s/j/89012302302?pwd=dXVGU2Sm9VcHJYN2loNzlBM01kQT09)**
-  
+**ZOOM Link: [WORSHIP](https://us02web.zoom.us/j/89012302302?pwd=dXVWVGU2Sm9VcHJYN2loNzlBM01kQT09)**
+
 [](https://us02web.zoom.us/j/3116804612?pwd=MFk1V2N4amtJY3RMczc3R1NmUzVEQT09)[](https://us02web.zoom.us/j/3116804612?pwd=MFk1V2N4amtJY3RMczc3R1NmUzVEQT09)
 
 **COVID-safe Environment**: join us in the Sanctuary on Overhulse Rd this Sunday in a COVID-safe and friendly environment. We follow all health and safety requirements issued by the CDC.
