@@ -1,6 +1,6 @@
 ---
 title: WORSHIP
-date: September 26, 2021 1:07 PM
+date: October 3, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
