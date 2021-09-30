@@ -7,15 +7,17 @@ map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/graphic1003.jpg
 priority: true
 ---
-September 26th, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+October 3, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 21:23-32
+Scripture Reading: Matthew 21:33-46
 
-Sermon Title: Jesus' Question
+Sermon Title: There Shall Be Showers of Blessings
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
-**ZOOM Link:** [](https://us02web.zoom.us/j/84210546175)https://us02web.zoom.us/j/84210546175[](https://us02web.zoom.us/j/3116804612?pwd=MFk1V2N4amtJY3RMczc3R1NmUzVEQT09)[](https://us02web.zoom.us/j/3116804612?pwd=MFk1V2N4amtJY3RMczc3R1NmUzVEQT09)
+**ZOOM Link: [WORSHIP](https://uso2web.zoom.s/j/89012302302?pwd=dXVGU2Sm9VcHJYN2loNzlBM01kQT09)**
+  
+[](https://us02web.zoom.us/j/3116804612?pwd=MFk1V2N4amtJY3RMczc3R1NmUzVEQT09)[](https://us02web.zoom.us/j/3116804612?pwd=MFk1V2N4amtJY3RMczc3R1NmUzVEQT09)
 
 **COVID-safe Environment**: join us in the Sanctuary on Overhulse Rd this Sunday in a COVID-safe and friendly environment. We follow all health and safety requirements issued by the CDC.
 
