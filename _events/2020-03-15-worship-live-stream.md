@@ -1,17 +1,15 @@
 ---
 title: WORSHIP
-date: October 3, 2021 10:00 AM
+date: October 10, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/graphic1003.jpg
+banner_image: /images/uploads/1010-copy.jpg
 priority: true
 ---
-October 3, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+October 10, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Matthew 21:33-46
-
-Sermon Title: There Shall Be Showers of Blessings
+Scripture Reading: Matthew 22:1-14 Sermon Title: There Shall Be Showers of Blessings
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
