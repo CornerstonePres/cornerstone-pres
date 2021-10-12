@@ -3,7 +3,7 @@ title: Thursday Evening Bible Study
 ---
 **This Small Group meets Thursdays at 7:00 p.m.** 
 
-Tonight, October 7, the group will be discussing Ch. 12 in the book,  A Long Obedience in the Same Direction by Eugene Peterson 
+October 14, the group will be discussing Ch. 12 in the book,  A Long Obedience in the Same Direction by Eugene Peterson and Psalm 130
 
 If you would like more information about this small group, please do not hesitate to find out and ask questions:
 
