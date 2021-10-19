@@ -1,6 +1,6 @@
 ---
 title: Pastor Jen's Jottings
-date: October 12, 2021 10:57 AM
+date: October 18, 2021 6:49 PM
 layout: event
 location: 218 Overhulse Rd NW
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
