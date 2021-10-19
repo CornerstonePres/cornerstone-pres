@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: October 12, 2021 10:56 AM
+date: October 18, 2021 6:49 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**October 12**     Matthew 24:40-42
+**October 19**     Matthew 25:10-12
 
-**October 13**     Matthew 24:43-45
+**October 20**     Matthew 25:13-15
 
-**October 14**     Matthew 24:46-48
+**October 21**     Matthew 25:16-18
 
-**October 15**     Matthew 24:49-51
+**October 22**     Matthew 25:19-21
 
-**October 16**     Matthew 25:1-3
+**October 23**     Matthew 25:22-24
 
-**October 17**     Matthew 25:4-6
+**October 24**    Matthew 25:25-27
 
-**October 18**     Matthew 25:7-9
+**October 25**     Matthew 25:28-30
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
