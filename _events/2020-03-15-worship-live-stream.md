@@ -1,15 +1,15 @@
 ---
 title: WORSHIP
-date: October 24, 2021 10:00 AM
+date: October 31, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
 banner_image: /images/uploads/pres_fb_image_eng.jpg
 priority: true
 ---
-October 24, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+October 31, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: John 3:16-17  Romans 8:31-42 Sermon Title: God's Love
+Scripture Reading: Matthew 28:18-20 Romans 10:14-15 Sermon Title: The Good News
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support ministries that help us eradicate systemic poverty and dismantle structural racism.
 
