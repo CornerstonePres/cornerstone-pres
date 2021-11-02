@@ -1,6 +1,6 @@
 ---
 title: "Blessed are You: The Beatitudes of Jesus in Scripture and Life"
-date: November 2, 2021 10:07 AM
+date: November 8, 2021 10:07 AM
 layout: event
 location: 218 Overhulse Rd NW, Olympia, WA 98502
 map_link: https://goo.gl/maps/oymsMHv9rzEZJvpq8
