@@ -1,19 +1,17 @@
 ---
 title: "Blessed are You: The Beatitudes of Jesus in Scripture and Life"
-date: September 2, 2021 12:17 PM
+date: November 2, 2021 10:07 AM
 layout: event
 location: 218 Overhulse Rd NW, Olympia, WA 98502
 map_link: https://goo.gl/maps/oymsMHv9rzEZJvpq8
 banner_image: /images/uploads/kelly-sikkema-ynrndb-xtme-unsplash.jpg
 priority: false
 ---
-
-
 Blessed are You: The Beatitudes of Jesus in Scripture and Life
 
-Monday evenings 6:30 – 7:45 pm on Zoom beginning October 11th. Facilitated
+Monday evenings 6:30 – 7:45 pm on Zoom beginning October 11th. 
 
-By Judith Bendersky.
+Facilitated by Judith Bendersky.
 
 A six – session study that examines the Old Testament roots and context of the Beatitudes and explores the contemporary implications of these powerful words.
 
