@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: November 2, 2021 10:07 AM
+date: November 4, 2021 10:07 AM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
