@@ -1,14 +1,13 @@
 ---
 title: THURSDAY SMALL GROUP
-date: November 11, 2021 7:00 PM
+date: November 18, 2021 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
 banner_image: /images/uploads/a-long-obedience.jpg
 priority: false
 ---
-Thursday, November 11, 2021, will be the concluding study in "A Long Obedience" & Psalm 130,\
-This Bible Study group meets Thursday nights via ZOOM from 7:00 - 8:30 p.m.  A new study  subject will be selected and advertized next week.
+Thursday, November 18, 2021, begins a new study for our Thursday night group. The subject will be selected and advertized later in the week.
 
 > > > Zoom Link: <https://us02web.zoom.us/j/86580263547?pwd=c29iWnZTVnZPSXR0YnhVUE8rbzRKZz09>
 > > >
