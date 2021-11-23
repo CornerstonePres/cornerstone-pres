@@ -1,6 +1,6 @@
 ---
 title: SPIRITUAL PRACTICE
-date: November 16, 2021 10:01 AM
+date: November 23, 2021 2:08 PM
 layout: event
 location: 218 Overhulse Rd. NW Olympia, WA
 map_link: https://goo.gl/maps/Jt1RzKR5NJoPkWxc6
@@ -11,19 +11,19 @@ priority: false
 
 **THIS WEEK'S Gospel of Matthew READINGS:**
 
-**November 16**     Matthew 27:2-4
+**November 23**     Matthew 27:23-25
 
-**November 17**     Matthew 27:5-7
+**November 24**     Matthew 27:26-28
 
-**November 18**     Matthew 27:8-10
+**November 25**     Matthew 27:29-31
 
-**November 19**     Matthew 27:11-13
+**November 26**     Matthew 27:32-34
 
-**November 20**     Matthew 27:14-16
+**November 27**     Matthew 27:35-37
 
-**November 21**     Matthew 27:17-19
+**November 28**     Matthew 27:38-40
 
-**November 22**     Matthew 27:20-22
+**November 29**     Matthew 27:41-43
 
 Suggested supplies: a writing tool, paper, or a computer notepad, art supplies, and a quiet space for reflection
 
