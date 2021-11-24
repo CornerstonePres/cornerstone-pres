@@ -9,7 +9,7 @@ priority: false
 ---
 No Thursday night group November 25. 
 
-NEXT Thursday, December 2, 2021, begins a new study for our Thursday night group. 
+NEXT Thursday, December 2, 2021, last session of the current book.
 
 > > > Zoom Link: <https://us02web.zoom.us/j/86580263547?pwd=c29iWnZTVnZPSXR0YnhVUE8rbzRKZz09>
 > > >
