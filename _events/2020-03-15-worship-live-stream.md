@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: December 5, 2021 10:00 AM
+date: December 12, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/annie-spratt-vdxtvyjvj7a-unsplash.jpg
+banner_image: /images/uploads/christmas-shepherds-002-.jpeg
 priority: false
 ---
-December 5, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+December 12, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Malachi 3:1-4
+Scripture Reading: Psalm 23
 
-Sermon: Behold the Messiah: The Refiner
+Sermon: Behold the Messiah: The Shepherd
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
