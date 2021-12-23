@@ -4,7 +4,7 @@ date: December 26, 2021 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/annie-spratt-vdxtvyjvj7a-unsplash.jpg
+banner_image: /images/uploads/picture1.png
 priority: true
 ---
 Christmas Eve service, December 24, at 5:00 PM, in the sanctuary and on ZOOM. 
