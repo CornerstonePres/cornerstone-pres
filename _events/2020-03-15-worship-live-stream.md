@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: January 9, 2022 10:00 AM
+date: January 16, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/prepare-the-way.png
+banner_image: /images/uploads/jean-philippe-delberghe-75xpheqbmva-unsplash.jpg
 priority: true
 ---
-January 9, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+January 16, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Luke 3:1-22
+Scripture Reading: Isaiah 62:1-5
 
-Sermon: Preparing the Way
+Sermon: The 7 Names of God ~ YHWH
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
