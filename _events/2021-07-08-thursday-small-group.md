@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: January 6, 2022 7:00 PM
+date: January 20, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -9,13 +9,13 @@ priority: false
 ---
 Dear Thursday night Bible study,
 
-We are resuming study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to come whether or not you have the book. 
+We are resuming study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to come whether or not you have the book. Ruth will lead us in Chapter 5 of Traveling Light; this is based on Galatians 2:1-10
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\[if !supportLineBreakNewLine]-->
+<!--\\\[if !supportLineBreakNewLine]-->
 
-<!--\\[endif]-->
+<!--\\\[endif]-->
 
 <!--EndFragment-->
 
