@@ -9,19 +9,19 @@ priority: false
 ---
 Dear Thursday night Bible study,
 
-We are resuming study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. Elaine will lead us in Chapter 6 of Traveling Light; this is based on Galatians 2:11-21
+We are resuming study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. We are reading Chapter 7, Free to Think in Traveling Light. Scripture passage is Galatians 3:1-14. Cheryl will lead and Carol will do a devotion/ opening prayer.
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\[endif]-->
+<!--\\\\\[endif]-->
 
 <!--EndFragment-->
 
 > > > Zoom Link: <https://us02web.zoom.us/j/86580263547?pwd=c29iWnZTVnZPSXR0YnhVUE8rbzRKZz09>
 > > >
-> > > Meeting ID: 865 8026 3547 
-> > > Passcode: 568955
+> > > Meeting ID: 6988 2800 70
+> > > Passcode: 011904
 > > >
 > > > For more information please contact us at admin@cornerstonepres.net
