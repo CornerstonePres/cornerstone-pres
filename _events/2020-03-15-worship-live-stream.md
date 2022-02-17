@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: February 13, 2022 10:00 AM
+date: February 20, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/adonai.jpg
+banner_image: /images/uploads/fb20-1-.jpg
 priority: true
 ---
-February 13, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+February 20, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Jeremiah 17:5-10
+Scripture Reading: Luke 6:27-38
 
-Sermon: The 7 Names of God ~ Adonai
+Sermon: The 7 Names of God ~ Tzevaot
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
