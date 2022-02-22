@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: February 17, 2022 7:00 PM
+date: February 24, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -9,13 +9,13 @@ priority: false
 ---
 Dear Thursday night Bible study,
 
-We are resuming study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. We are reading Chapter 8, Free to Fail in Traveling Light. Scripture passage is Galatians 3:15-27. Carol will lead and Karyn will do a devotion/ opening prayer.
+We are resuming study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. We are reading Chapter 9 in Traveling Light. Scripture passage is Galatians 3:28-4:11. Karyn will lead and Cheryl will do a devotion/ opening prayer.
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\[endif]-->
+<!--\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
