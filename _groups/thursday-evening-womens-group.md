@@ -3,7 +3,7 @@ title: Thursday Evening Bible Study
 ---
 **This Small Group meets Thursdays at 7:00 p.m.** 
 
-October 14, the group will be discussing Ch. 12 in the book,  A Long Obedience in the Same Direction by Eugene Peterson and Psalm 130
+We will continue our study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. We are reading Chapter 11, Free to Stand, in Traveling Light.  Cheryl will lead and Ruth will do devotions.
 
 If you would like more information about this small group, please do not hesitate to find out and ask questions:
 
