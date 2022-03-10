@@ -6,7 +6,7 @@ title: Sunday Morning Small Group
 **Every Sunday**\
 **9:00 AM**, Before Service @ Cornerstone 
 
-**This Week's Topic:** How we share our faith with others.
+**This Week's Topic:** We are studying Paul's letter to the Philippians. Please come join us for this in person group.
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
