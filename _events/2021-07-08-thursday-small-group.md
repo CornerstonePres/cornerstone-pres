@@ -9,13 +9,13 @@ priority: false
 ---
 Dear Thursday night Bible study,
 
-We will continue our study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. We are now reading Chapter 12, Free to Love, in Traveling Light. Scripture is Galatians 5: 13 - 21. Carol will lead and Karyn will do devotions.
+We will continue our study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. We are now reading Chapter 12, Free to Love, in Traveling Light. Scripture is Galatians 5:13-21. Carol will lead and Karyn will do devotions.
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
