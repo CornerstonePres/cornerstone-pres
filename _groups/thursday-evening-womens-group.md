@@ -3,7 +3,7 @@ title: Thursday Evening Bible Study
 ---
 **This Small Group meets Thursdays at 7:00 p.m.** 
 
-We will continue our study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. We are reading Chapter 11, Free to Stand, in Traveling Light.  Cheryl will lead and Ruth will do devotions.
+We will continue our study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. 
 
 If you would like more information about this small group, please do not hesitate to find out and ask questions:
 
