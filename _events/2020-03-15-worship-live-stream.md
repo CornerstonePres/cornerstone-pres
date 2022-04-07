@@ -4,7 +4,7 @@ date: April 10, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/lent.jpg
+banner_image: /images/uploads/palm-sunday.jpg
 priority: true
 ---
 April 10, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
