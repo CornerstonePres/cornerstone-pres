@@ -1,19 +1,19 @@
 ---
 title: WORSHIP
-date: April 10, 2022 10:00 AM
+date: April 17, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/palm-sunday.jpg
+banner_image: /images/uploads/easter-graphic.jpg
 priority: true
 ---
-April 10, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+April 17, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Palm Sunday
+Easter Sunday
 
-Scripture Reading: John 12:9-19
+Scripture Reading: Mark 16:1-16 and 1Peter 1:3-5
 
-Sermon: Enter God: In Seasons of Celebration
+Sermon: Enter God: Praise Be to God!
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
