@@ -1,21 +1,21 @@
 ---
 title: THURSDAY SMALL GROUP
-date: April 14, 2022 7:00 PM
+date: April 21, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
-banner_image: /images/uploads/traveling-light-by-eugene-h.-peterson.jpg
+banner_image: /images/uploads/40-days-of-decrease.jpg
 priority: false
 ---
 Dear Thursday night Bible study,
 
-We are wrapping up the Eugene Peterson book, Traveling Light, Free to Die- join us whether or not you have the book. 
+We are trying out a new book, "40 Days of Decrease" by Alicia Britt Chole. The Scriptures for Day 1 and Day 2: John 12:1-11 and 12-19 Come even if you don't have the book. We will all lead, and Cheryl will do the devotional prayer. Hope to see you Thursday at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
