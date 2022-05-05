@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: April 28, 2022 7:00 PM
+date: May 5, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -9,13 +9,17 @@ priority: false
 ---
 Dear Thursday night Bible study,
 
-We are trying out a new book, "40 Days of Decrease" by Alicia Britt Chole. The Scriptures for Day 1 and Day 2: John 12:1-11 and 12-19 Come even if you don't have the book. We will all lead, and Cheryl will do the devotional prayer. Hope to see you Thursday at 7:00 PM
+<!--StartFragment-->
+
+> We will continue our study of John using Days 4-6 of 40 Days of Decrease to guide our discussion. Carol will lead and Karyn will do Devotions. The Scripture is John 12:29-50. Come even if you do not have the book.
+
+<!--EndFragment-->Hope to see you Thursday at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
