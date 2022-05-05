@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: May 1, 2022 10:00 AM
+date: May 8, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/graphic0501.jpg
+banner_image: /images/uploads/050822graphic.jpg.png
 priority: true
 ---
-May 1, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+May 8, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: John 21: 15-19
+Scripture Reading: John 10:22-30
 
-Sermon: Feed My Sheep
+Sermon: Stuck Like Glue
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
