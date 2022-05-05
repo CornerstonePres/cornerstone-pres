@@ -3,14 +3,20 @@ title: Thursday Evening Bible Study
 ---
 **This Small Group meets Thursdays at 7:00 p.m.** 
 
-We will continue our study of Eugene Peterson’s book, Traveling Light. This book is based on Galatians- feel free to join us whether or not you have the book. 
+<!--StartFragment-->
+
+> We will continue our study of John using Days 4-6 of 40 Days of Decrease to guide our discussion. Carol will lead and Karyn will do Devotions. The Scripture is John 12:29-50. Come even if you do not have the book.
+
+<!--EndFragment-->
 
 If you would like more information about this small group, please do not hesitate to find out and ask questions:
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749) or [admin@cornerstonepres.net](admin@cornerstonepres.net)
 
-Zoom Link: <https://us02web.zoom.us/j/86580263547?pwd=c29iWnZTVnZPSXR0YnhVUE8rbzRKZz09>
+Zoom Link: https://us02web.zoom.us/j/6988280070?
 
-Meeting ID: 865 8026 3547 
-Passcode: 568955
+pwd=bjHTzVzc1FCejM4VTMwbnQyQkZQZz09
+
+Meeting ID: 6988280070
+Passcode: 011904
