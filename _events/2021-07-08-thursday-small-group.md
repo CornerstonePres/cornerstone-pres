@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: May 12, 2022 7:00 PM
+date: May 26, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -11,15 +11,15 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-> We will continue our study of John using Days 6-7 of 40 Days of Decrease to guide our discussion. Carol will lead and Elaine will do Devotions. The Scripture is John 12:44-50 & John 13:1-7. Come even if you do not have the book.
+We are NOT meeting Thursday, May 19. We will continue our study of John using Days 8 & 9 of 40 Days of Decrease next Thursday, May 26th. Elaine will lead and Karyn will do Devotions. The Scripture is John 13. Come even if you do not have the book.
 
-<!--EndFragment-->Hope to see you Thursday at 7:00 PM
+<!--EndFragment-->Hope to see you Thursday, May 26 at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
