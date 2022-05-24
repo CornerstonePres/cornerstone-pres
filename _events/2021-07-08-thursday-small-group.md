@@ -11,15 +11,15 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We are NOT meeting Thursday, May 19. We will continue our study of John using Days 8 & 9 of 40 Days of Decrease next Thursday, May 26th. Elaine will lead and Karyn will do Devotions. The Scripture is John 13. Come even if you do not have the book.
+We are meeting Thursday, May 26. We will continue our study of John using Days 8 & 9 of 40 Days of Decrease, Elaine will lead and Karyn will do Devotions. The Scripture is John 13. Come even if you do not have the book.
 
 <!--EndFragment-->Hope to see you Thursday, May 26 at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
