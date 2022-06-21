@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: June 19, 2022 10:00 AM
+date: June 26, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/graphic061922.jpg
+banner_image: /images/uploads/062622.jpg
 priority: true
 ---
-June 19, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+June 26, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Psalm 42
+Scripture Reading: 2Kings 2:1-2, 6-14
 
-Sermon: The Hymns Preach: Devotion
+Sermon: The Hymns Preach: Assurance
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
