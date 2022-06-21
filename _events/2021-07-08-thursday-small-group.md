@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: June 16, 2022 7:00 PM
+date: June 23, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -11,15 +11,15 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We are meeting Thursday, June 16. We will continue our study of John and how we might fast either isolation or stinginess. This week is Chapters 12 & 13 of "40 Days of Decrease." Cheryl will lead and Carol will do Devotions. Come even if you do not have the book.
+We are meeting Thursday, June 23. We will continue our study of John. Come even if you do not have the book.
 
-<!--EndFragment-->Hope to see you Thursday, June 16, at 7:00 PM
+<!--EndFragment-->Hope to see you Thursday, June 23, at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
