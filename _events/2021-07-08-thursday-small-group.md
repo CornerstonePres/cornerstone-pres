@@ -11,15 +11,21 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We are meeting Thursday, June 30. We will continue our study of John. Come even if you do not have the book.
+We are meeting Thursday, June 30. We will continue our study of John. Ruth is leading and Karyn is doing devotions. 
+
+Scripture: John 16:5-33
+
+We are reading chapter 16 and 17 in 40 Days of Decrease
+
+Come even if you do not have the book.
 
 <!--EndFragment-->Hope to see you Thursday, June 30, at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
