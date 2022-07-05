@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: July 3, 2022 10:00 AM
+date: July 10, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/holycommunion.jpg
+banner_image: /images/uploads/071022.jpg
 priority: true
 ---
-July 3, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+July 10, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Acts 12:1-11
+Scripture Reading: John 4:1-26
 
-Sermon: The Hymns Preach - Chain Breaker
+Sermon: The Hymns Preach - You Say
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
