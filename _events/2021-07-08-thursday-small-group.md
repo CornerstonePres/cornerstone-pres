@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: June 30, 2022 7:00 PM
+date: July 7, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -11,11 +11,11 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We are meeting Thursday, June 30. We will continue our study of John. Ruth is leading and Karyn is doing devotions. 
+We are meeting Thursday, July 7. We will continue our study of John. Elaine will lead and Ruth will do Devotions.
 
-Scripture: John 16:5-33
+Scripture: John 17: 1-19
 
-We are reading chapter 16 and 17 in 40 Days of Decrease
+We are reading chapter 18 and 19 in 40 Days of Decrease
 
 Come even if you do not have the book.
 
@@ -23,9 +23,9 @@ Come even if you do not have the book.
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
