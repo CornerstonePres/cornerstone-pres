@@ -5,7 +5,7 @@ title: Thursday Evening Bible Study
 
 <!--StartFragment-->
 
-> We will continue our study of John using Days 4-6 of 40 Days of Decrease to guide our discussion. Carol will lead and Karyn will do Devotions. The Scripture is John 12:29-50. Come even if you do not have the book.
+> We will continue our study of John using 40 Days of Decrease to guide our discussion.  Come even if you do not have the book.
 
 <!--EndFragment-->
 
