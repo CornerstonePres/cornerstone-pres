@@ -9,7 +9,7 @@ priority: true
 ---
 July 17, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Joshua 5:13 - 16:27
+Scripture Reading: Joshua 5:13 - 6:25
 
 Sermon: The Hymns Preach - Jericho
 
