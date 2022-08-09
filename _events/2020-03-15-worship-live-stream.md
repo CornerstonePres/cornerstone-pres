@@ -1,15 +1,15 @@
 ---
 title: WORSHIP
-date: August 7, 2022 10:00 AM
+date: August 14, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/080722.jpg
+banner_image: /images/uploads/081422.jpg
 priority: true
 ---
-August 7, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+August 14, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
 
-Scripture Reading: Isaiah 1:1, 10-20
+Scripture Reading: Isaiah 5:1-7
 
 Sermon: Preaching the Prophets: Isaiah
 
