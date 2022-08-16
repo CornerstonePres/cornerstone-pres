@@ -1,17 +1,15 @@
 ---
 title: WORSHIP
-date: August 14, 2022 10:00 AM
+date: August 21, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/081422.jpg
+banner_image: /images/uploads/12_fb_gnpi_064_good_samaritan_1024.jpg
 priority: true
 ---
-August 14, 2022, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM.  
+August 21, 2022, at 10 AM**,** the Cornerstone church family will offer Outdoor Worship  
 
-Scripture Reading: Isaiah 5:1-7
-
-Sermon: Preaching the Prophets: Isaiah
+The Good Samaritan
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
