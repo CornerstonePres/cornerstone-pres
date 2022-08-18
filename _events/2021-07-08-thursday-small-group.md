@@ -11,7 +11,7 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We are NOT meeting Thursday, August 11, 2022.                             We will continue our study of John, August 18. 
+We will continue our study of John, August 18. 
 
 Elaine will lead and Cheryl will do Devotions.
 
@@ -19,7 +19,7 @@ Scripture: John 18:1-16
 
 We will read chapter 28 & 29 in 40 Days of Decrease
 
-See you NEXT Thursday, August 18.
+See you Thursday, August 18.
 
 Come even if you do not have the book.
 
@@ -27,9 +27,9 @@ Come even if you do not have the book.
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
