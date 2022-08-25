@@ -6,7 +6,7 @@ title: Sunday Morning Small Group
 **Every Sunday**\
 **9:00 AM**, Before Service @ Cornerstone 
 
-**This Week's Topic:** We are studying Paul's letter to the Philippians. Please come join us for this in person group.
+**This Week's Topic:** We will continue with the series called Follow Me that takes us through the practical Christian living as demonstrated in Jesus' Life. 
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
