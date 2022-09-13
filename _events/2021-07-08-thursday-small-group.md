@@ -11,11 +11,9 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
+**N﻿O THURSDAY Night Bible Study, September 15**
 
-
-We will continue our study of John, September 8. 
-
-
+We will continue our study of John, September 22.
 
 Come even if you do not have the book.
 
@@ -23,9 +21,9 @@ Come even if you do not have the book.
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
