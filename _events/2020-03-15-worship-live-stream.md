@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: September 11, 2022 10:00 AM
+date: September 18, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/091122.jpg
+banner_image: /images/uploads/091822graphic.jpg
 priority: true
 ---
-September 11, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
+September 18, at 10 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
 
-Scripture Reading: 1Timothy 1:12-17
+Scripture Reading: 1Timothy 2:1-7
 
-Sermon: Unlimited Patience
+Sermon: Prayer/A Service of Prayer
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
