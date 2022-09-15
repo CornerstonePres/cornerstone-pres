@@ -11,7 +11,7 @@ September 18, at 10 AM**,** the Cornerstone church family will offer hybrid wors
 
 Scripture Reading: 1Timothy 2:1-7
 
-Sermon: Prayer/A Service of Prayer
+Sermon: We Are Urged to Pray
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
