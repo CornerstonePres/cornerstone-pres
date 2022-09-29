@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: September 22, 2022 7:00 PM
+date: September 29, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -11,19 +11,17 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-
-
-We will continue our study of John, September 22. We are reading Chapters 34 & 35. Carol will lead and Elaine will do devotions.
+We will continue our study of John, September 29. We are reading Chapters 36 & 37. Ruth will lead and Cheryl will do devotions
 
 Come even if you do not have the book.
 
-<!--EndFragment-->Hope to see you Thursday, September 22, at 7:00 PM
+<!--EndFragment-->Hope to see you Thursday, September 29, at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
