@@ -11,7 +11,7 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We will continue our study of John, October 6. We are reading Chapters 38 & 39. 
+We will continue our study of John, October 6. We are reading Chapters 37 & 38. 
 
 Come even if you do not have the book.
 
@@ -19,9 +19,9 @@ Come even if you do not have the book.
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
