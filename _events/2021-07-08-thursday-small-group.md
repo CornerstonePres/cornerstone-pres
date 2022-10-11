@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: October 6, 2022 7:00 PM
+date: October 13, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -11,17 +11,17 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We will continue our study of John, October 6. We are reading Chapters 37 & 38. 
+We will continue our study of John, October 13
 
 Come even if you do not have the book.
 
-<!--EndFragment-->We hope to see you Thursday, October 6, at 7:00 PM
+<!--EndFragment-->We hope to see you Thursday, October 13, at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
