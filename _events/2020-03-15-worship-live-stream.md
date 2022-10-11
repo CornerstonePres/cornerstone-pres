@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: October 9, 2022 10:00 AM
+date: October 16, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/100922-graphic.jpg
+banner_image: /images/uploads/graphic-101622n102322.jpg
 priority: true
 ---
-October 9 at 10:00 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
+October 16 at 10:00 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
 
-Scripture Reading: 2Timothy 2:8-15
+Scripture Reading: Colossians 3:1-11
 
-Sermon: The Richness of Faith ~ Freeing Frozen Assets
+Video Sermon: "A Life Lived In Christ" by Rev. David Jeremiah
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
