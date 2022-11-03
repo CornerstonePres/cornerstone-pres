@@ -1,27 +1,31 @@
 ---
 title: THURSDAY SMALL GROUP
-date: October 13, 2022 7:00 PM
+date: November 3, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
-banner_image: /images/uploads/40-days-of-decrease.jpg
+banner_image: /images/uploads/ephesians.png
 priority: false
 ---
 Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We will continue our study of John, October 13
+<!--StartFragment-->
 
-Come even if you do not have the book.
+We start our study of Ephesians this Thursday.
 
-<!--EndFragment-->We hope to see you Thursday, October 13, at 7:00 PM
+<!--EndFragment-->
+
+Please join us
+
+<!--EndFragment-->We hope to see you Thursday, November 3, 2022 at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
