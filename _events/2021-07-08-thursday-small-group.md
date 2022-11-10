@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: November 3, 2022 7:00 PM
+date: November 10, 2022 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -13,19 +13,19 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We start our study of Ephesians this Thursday.
+We will continue our study of Ephesians this Thursday. Ruth will lead Chapter 1, Days 4-6, and Karyn will do devotions
 
 <!--EndFragment-->
 
 Please join us
 
-<!--EndFragment-->We hope to see you Thursday, November 3, 2022 at 7:00 PM
+<!--EndFragment-->We hope to see you Thursday, November 10, 2022 at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
