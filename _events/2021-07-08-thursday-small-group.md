@@ -23,13 +23,13 @@ Please join us
 
 <!--EndFragment-->We hope to see you Thursday, December 1, 2022 at 7:00 PM
 
-No Bible Study on November 24.
+
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
