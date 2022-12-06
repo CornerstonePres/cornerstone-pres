@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: November 27, 2022 10:00 AM
+date: December 11, 2022 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/john-canada-bc3yzty-h10-unsplash.jpg
+banner_image: /images/uploads/121122.jpg
 priority: true
 ---
-November 27, 2022 at 10:00 AM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
+December 11, 2022, at 10:00**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
 
-Scripture Reading: Jeremiah 23:1-6
+Scripture Reading: Matthew 2:13-18
 
-Sermon: The Sounds of Christmas: The Shepherd's Voice
+Sermon: The Sounds of Christmas: A Baby's Cry
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
