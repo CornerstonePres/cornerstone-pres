@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: December 22, 2022 7:00 PM
+date: January 5, 2023 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -15,19 +15,19 @@ Dear Thursday night Bible study,
 
 Please join us for Bible study.
 
-We will continue our study of Ephesians, December 22, 2022
+We will continue our study of Ephesians, January 5, 2023
 
 <!--EndFragment-->
 
 Please join us
 
-<!--EndFragment-->We hope to see you Thursday, December 22, 2022 at 7:00 PM
+<!--EndFragment-->We hope to see you Thursday, January 5, 2023 at 7:00 PM
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
