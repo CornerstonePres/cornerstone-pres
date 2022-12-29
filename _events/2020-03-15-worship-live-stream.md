@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: December 24, 2022 10:00 AM
+date: January 1, 2023 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/122422-graphic.jpg
+banner_image: /images/uploads/picture1.png
 priority: true
 ---
-Christmas Eve Service, December 24, 2022, at 6:00 PM**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
+Sunday Worship Service, January 1, 2023**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
 
-Scripture Reading: Matthew 2:7-12
+Scripture Reading: Isaiah 9 & Matthew 2:1-11
 
-Sermon: The Sounds of Christmas: A Shout of Praise
+Sermon: The Real Story of The Magi
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
