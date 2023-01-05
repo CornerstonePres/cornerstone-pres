@@ -1,8 +1,6 @@
 ---
 title: Children's Sunday School Team
 ---
-**COVID-19 announcement: CHILDREN'S CHURCH ARE NOT MEETING AT THIS TIME**
-
 **Every Sunday**, during [Service](about.html#service-details)\
 \
 **CONTACT: Cornerstone Presbyterian Church**\
