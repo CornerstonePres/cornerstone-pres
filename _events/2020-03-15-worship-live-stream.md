@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: January 1, 2023 10:00 AM
+date: January 8, 2023 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/picture1.png
+banner_image: /images/uploads/graphic-010823.png
 priority: true
 ---
-Sunday Worship Service, January 1, 2023**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
+Sunday Worship Service, January 8, 2023**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
 
-Scripture Reading: Isaiah 9 & Matthew 2:1-11
+Scripture Reading: Matthew 2:1-12
 
-Sermon: The Real Story of The Magi
+Sermon: The Moment of Ah-HA!
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
