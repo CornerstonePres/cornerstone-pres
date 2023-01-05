@@ -1,9 +1,9 @@
 ---
 title: Children's Sunday School
 ---
-**COVID-19 announcement:** during this time we will not be holding children's Sunday School at the church.
+**CHILDREN'S SUNDAY SCHOOL** meets during worship. Two of our teachers will bring the children to the Sunday School room in the house while Pastor Jen is giving her sermon.
 
-This week's lesson is from "Growing In God's Love"
+We have been using the curriculum "Growing In God's Love". A typical lesson will include:
 
 **Explore Bible stories about bread and feeding.**\
 Read Exodus 16:2–5, 11–15, 31, the story of the Israelites in the wilderness, the time where God sent them manna to eat. Or read “Just Enough,”
