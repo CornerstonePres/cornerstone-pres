@@ -1,12 +1,10 @@
 ---
 title: Sunday Morning Small Group
 ---
-**COVID-19 RESPONSE:** You may contact Pastor Jen for more information at pastor@cornerstonepres.net or the church administrator at admin@cornerstonepres.net for link information.
-
 **Every Sunday**\
 **9:00 AM**, Before Service @ Cornerstone 
 
-**This Week's Topic:** We will continue with the series called Follow Me that takes us through the practical Christian living as demonstrated in Jesus' Life. 
+**This Week's Topic:** We will continue with the series called Follow Me that takes us through the practical Christian living as demonstrated in Jesus' Life. Our topic this week is HOPE.
 
 **CONTACT: Cornerstone Presbyterian Church**\
 [(360) 754-7749](tel:360-754-7749)\
