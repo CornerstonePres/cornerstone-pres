@@ -1,16 +1,10 @@
 ---
 title: Music & Worship Team
 ---
-**COVID-19 announcement:** during this time this group will not be rehearsing. Music will shared in an email with participants in the ZOOM worship at 10 a.m. For more information contact Pastor Jen at pastor@cornerstonepres.net
-
 Rehearsals **every Sunday** \
-**9:15 AM** Before Service
+**8:15 AM** Before Service
 
-**1st CONTACT: Beth Brombach**\
-[(360) 970-6677](tel:360-970-6677)\
-[beth.brombach@gmail.com](emailto:beth.brombach@gmail.com)
-
-**2nd CONTACT: Chris Brombach**\
+**CONTACT: Chris Brombach**\
 [(360) 970-9099](tel:360-970-9099)\
 [chrisbrombach52@gmail.com](emailto:chrisbrombach52@gmail.com)
 
