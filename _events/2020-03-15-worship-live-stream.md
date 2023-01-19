@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: January 15, 2023 10:00 AM
+date: January 22, 2023 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/011523.jpg
+banner_image: /images/uploads/012223graphic.jpg.png
 priority: true
 ---
-Sunday Worship Service, January 15, 2023**,** the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
+Sunday Worship Service, January 22, 2023, the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM
 
-Scripture Reading: Matthew 3:13-17
+Scripture Reading: Acts 11:1-18, Luke 19:1-9
 
-Sermon: How Do We Come to Faith? The Work of the Holy Spirit
+Sermon: How Do We Come to Faith? By Invitation Only?
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
