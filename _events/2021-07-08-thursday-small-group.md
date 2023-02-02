@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: January 26, 2023 7:00 PM
+date: February 2, 2023 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
@@ -13,9 +13,9 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We will continue our study of Ephesians, January 26, 2023
+We will continue our study of Ephesians, February 2, 2023
 
-We will discuss Ephesians, Chapter 5 and use the questions for Days 4-6. Karyn will lead and Cheryl will do devotions.
+We will discuss Ephesians, Chapter 6 and use the questions for Days 1-3. Carol will lead and Karyn will do devotions.
 
 <!--EndFragment-->
 
@@ -25,9 +25,9 @@ Please join us
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
