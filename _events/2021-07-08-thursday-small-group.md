@@ -1,10 +1,10 @@
 ---
 title: THURSDAY SMALL GROUP
-date: February 9, 2023 7:00 PM
+date: February 16, 2023 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
-banner_image: /images/uploads/ephesians.png
+banner_image: /images/uploads/practice-spiritual-disciplines.jpg
 priority: false
 ---
 Dear Thursday night Bible study,
@@ -13,11 +13,11 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We will continue our study of Ephesians, February 9, 2023
+We will continue our study in Practice Spiritual Disciplines.
 
 <!--StartFragment-->
 
-> We continue our study of Ephesians, Chapter 6 using questions from Days 4-6.
+>
 
 <!--EndFragment-->
 
@@ -29,9 +29,9 @@ Please join us
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
