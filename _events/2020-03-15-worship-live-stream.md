@@ -11,6 +11,8 @@ Sunday Worship Service, March 12, 2023, the Cornerstone church family will offer
 
 Scripture Reading: Genesis 6:9-22 & John 13:1-5
 
+S﻿ermon: Spiritual Disciplines: Service, May I make You a Plate?
+
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
 **ZOOM Link: [WORSHIP](https://us02web.zoom.us/j/89012302302?pwd=dXVWVGU2Sm9VcHJYN2loNzlBM01kQT09)**
