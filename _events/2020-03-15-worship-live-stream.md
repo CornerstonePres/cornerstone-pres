@@ -1,17 +1,17 @@
 ---
 title: WORSHIP
-date: March 19, 2023 10:00 AM
+date: March 26, 2023 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/graphic031923.jpg
+banner_image: /images/uploads/adam-nemeroff-_pdprax9dm8-unsplash.jpg
 priority: true
 ---
-Sunday Worship Service, March 19, 2023, the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM 
+Sunday Worship Service, March 26, 2023, the Cornerstone church family will offer hybrid worship in the SANCTUARY and via ZOOM 
 
-Scripture Reading: Matthew 10:40-42
+Scripture Reading: Proverbs 16:24, Zechariah 1:13, 16-17
 
-Sermon: Spiritual Disciplines: Hospitality and Welcome
+Sermon: Spiritual Disciplines: The Power of Kindness
 
 As a Matthew 25 church, Cornerstone Cares about God's people in each walk of life and seeks to support vibrant ministries that help us eradicate systemic poverty and dismantle structural racism.
 
