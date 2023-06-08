@@ -1,10 +1,10 @@
 ---
 title: THURSDAY SMALL GROUP
-date: May 25, 2023 7:00 PM
+date: June 8, 2023 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
-banner_image: /images/uploads/practice-spiritual-disciplines.jpg
+banner_image: /images/uploads/john_21-25.jpg
 priority: false
 ---
 Dear Thursday night Bible study,
@@ -13,7 +13,7 @@ Dear Thursday night Bible study,
 
 <!--StartFragment-->
 
-We will continue our study in Practice Spiritual Disciplines.
+We will begin our study Gospel of John
 
 <!--StartFragment-->
 
@@ -27,9 +27,9 @@ Please join us
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
