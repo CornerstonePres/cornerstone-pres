@@ -1,6 +1,6 @@
 ---
 title: THURSDAY SMALL GROUP
-date: August 24, 2023 7:00 PM
+date: August 31, 2023 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
