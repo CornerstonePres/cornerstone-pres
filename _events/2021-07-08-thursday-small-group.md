@@ -1,19 +1,19 @@
 ---
 title: THURSDAY SMALL GROUP
-date: September 7, 2023 7:00 PM
+date: September 21, 2023 7:00 PM
 layout: event
 location: 218 Overhulse Rd NW Olympia, WA
 map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
 banner_image: /images/uploads/john_21-25.jpg
 priority: false
 ---
-Dear Thursday night Bible study,
+Dear Thursday night Bible study, NO BIBLE STUDY September 21 & September 28.
 
 <!--StartFragment-->
 
 <!--StartFragment-->
 
-We will continue our study Gospel of John
+We will continue our study Gospel of John October 5, 2023
 
 <!--StartFragment-->
 
@@ -27,9 +27,9 @@ Please join us
 
 Here are the Zoom links-also available in the Weekly Wrap.
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
