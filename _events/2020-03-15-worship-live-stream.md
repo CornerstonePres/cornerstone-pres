@@ -4,7 +4,7 @@ date: October 15, 2023 10:00 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
-banner_image: /images/uploads/100123-graphic.jpg
+banner_image: /images/uploads/screen-shot-2023-10-10-at-10.46.27-am.png
 priority: true
 ---
 <!--\\\\\\\\\\\\\\\\\\\\\\\\\\[if gte mso 9]><xml>
