@@ -7,15 +7,13 @@ map_link: https://goo.gl/maps/Pyfv4vwS17NpRtBN6
 banner_image: /images/uploads/underconstruction.jpg
 priority: false
 ---
-Dear Thursday night Bible study,
-
- 
+ Website under construction
 
 <!--StartFragment-->
 
 <!--StartFragment-->
 
-We will continue our study Gospel of John 
+Website under construction
 
 <!--StartFragment-->
 
@@ -23,21 +21,16 @@ We will continue our study Gospel of John
 
 <!--EndFragment-->
 
-Please join us
+Website under construction
 
-<!--EndFragment-->We hope to see you!
+<!--EndFragment-->Website under construction
 
-Here are the Zoom links-also available in the Weekly Wrap.
+Website under construction
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[if !supportLineBreakNewLine]-->
 
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
+<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]-->
 
 <!--EndFragment-->
 
-> > > Zoom Link: <https://us02web.zoom.us/j/86580263547?pwd=c29iWnZTVnZPSXR0YnhVUE8rbzRKZz09>
 > > >
-> > > Meeting ID: 6988 2800 70
-> > > Passcode: 011904
-> > >
-> > > For more information please contact us at admin@cornerstonepres.net
