@@ -1,6 +1,6 @@
 ---
 title: WORSHIP
-date: December 17, 2023 10:00 AM
+date: March 28, 2024 10:35 AM
 layout: event
 location: 218 Overhulse Road NW Olympia WA
 map_link: https://goo.gl/maps/FykeCyepBDwUDmeF7
